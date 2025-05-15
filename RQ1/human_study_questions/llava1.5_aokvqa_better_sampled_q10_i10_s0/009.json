@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "300",
+    "question": "How many people can sit at the table? Choices: two, eight, six, four",
+    "predicted_answer": "two",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that there are only two chairs visible in the image, one on the left side and the other on the right side of the dining table. Therefore, only two people can sit at the table comfortably.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9726859102062446,
+    "reason_vf_correct": "<br> - There is one chair on the left side of the dining table.<br> - There is one chair on the right side of the dining table.",
+    "reason_vf_incorrect": "<br> - There are only two chairs visible in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "227",
+    "question": "Given the position of the bat and ball the batter most likely? Choices: missed, fouled, popped up, grounded out",
+    "predicted_answer": "missed",
+    "prediction_is_correct": 1,
+    "generated_rationale": "Given the position of the bat and ball in the image, it is most likely that the batter has missed the ball. The bat is positioned behind the batter, and the ball is in the air, indicating that the batter has not made contact with the ball yet. The other options, such as fouled, popped up, or grounded out, would require the batter to have already made contact with the ball, which is not evident in the image.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.3858582070596684,
+    "reason_vf_correct": "<br> - The ball is in the air and not in contact with the bat.",
+    "reason_vf_incorrect": "<br> - The bat is positioned behind the batter.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "172",
+    "question": "What are the white rocks for? Choices: breaking, prevent fire, water retainment, decoration",
+    "predicted_answer": "breaking",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The white rocks in the image serve the purpose of breaking. They are placed on the train tracks as a safety measure to prevent the train from derailing in case of an obstacle on the tracks, such as fallen trees or debris. By breaking the obstacle, the rocks help to ensure the safe passage of the train, protecting both the passengers and the train itself from potential damage or accidents.",
+    "visual_fidelity": 0.3333333333333333,
+    "contrastiveness": 0.9812262572807507,
+    "reason_vf_correct": "<br> - The white rocks are placed on the train tracks.",
+    "reason_vf_incorrect": "<br> - The white rocks are intended to prevent the train from derailing.<br> - The white rocks are used to break obstacles on the tracks.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "346",
+    "question": "What are they waiting to do when they stand next to the street? Choices: cross, work, sit, talk",
+    "predicted_answer": "cross",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The people in the image are waiting to cross the street. They are standing on the sidewalk next to the street, which is a common location for pedestrians to wait before crossing. The presence of traffic lights in the scene further supports the idea that they are waiting to cross the street, as traffic lights are typically used to control the flow of traffic and indicate when it is safe for pedestrians to cross.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9995925641286356,
+    "reason_vf_correct": "<br> - The people are standing on the sidewalk next to the street.<br> - There are traffic lights present in the scene.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "480",
+    "question": "What part of the pizza is the person holding? Choices: middle, toppings, crust, top",
+    "predicted_answer": "middle",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The person is holding the middle part of the pizza. This is because the pizza is cut into slices, and the middle slice is the one being held. The other slices would be on the left and right sides of the pizza, while the crust would be at the edge of the pizza. The toppings are distributed evenly across all the slices, and the top of the pizza refers to the surface of the pizza, which is not being held by the person in the image.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.2928958466673845,
+    "reason_vf_correct": "<br> - The other slices of the pizza are located on the left and right sides of the slice being held.<br> - The crust of the pizza is at the edge, not being held by the person.",
+    "reason_vf_incorrect": "<br> - The person is holding a slice from the middle of the pizza.<br> - The toppings are distributed evenly across all the slices of the pizza.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "340",
+    "question": "What is the most likely material of the floor? Choices: terra cotta, marble, porcelain, vinyl",
+    "predicted_answer": "marble",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The most likely material of the floor is marble. In the image, the floor appears to be made of marble, which is known for its luxurious and elegant appearance. Marble floors are often found in high-end homes, hotels, and other upscale establishments due to their durability, ease of maintenance, and aesthetic appeal. The other options, terra cotta, porcelain, and vinyl, are less likely to be found in such settings.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.5478078246719493,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The floor in the image has a luxurious and elegant appearance.<br> - The floor in the image is consistent with what is typically found in high-end homes, hotels, or upscale establishments.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "289",
+    "question": "What is keeping the animals all in one place? Choices: mountains, fear, fence, guns",
+    "predicted_answer": "fence",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The animals are kept in one place by a fence. The fence serves as a barrier to keep the cows together, preventing them from wandering off or interacting with other animals. The fence ensures that the cows remain within a designated area, making it easier for the farmer to manage and monitor their well-being.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.8075229850986276,
+    "reason_vf_correct": "<br> - There is a fence visible in the image.<br> - The animals in the image are cows.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "296",
+    "question": "What is the stuffed animal touching instead of the tennis player? Choices: racquet, remote, screen, tennis ball",
+    "predicted_answer": "screen",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The stuffed animal is touching the screen instead of the tennis player. The reasoning behind this answer is that the image of the tennis player is displayed on the screen, and the stuffed animal is positioned in such a way that it appears to be touching or interacting with the tennis player's image. In reality, the stuffed animal is not touching the tennis player, but rather the screen that is displaying the tennis player's image.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9925332194977852,
+    "reason_vf_correct": "<br> - The image of the tennis player is displayed on the screen.<br> - The stuffed animal is positioned to appear as if it is interacting with the tennis player's image.",
+    "reason_vf_incorrect": "<br> - The stuffed animal is touching the screen.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "312",
+    "question": "Where are the cats sitting on top of? Choices: newspaper, keyboard, lap, board game",
+    "predicted_answer": "keyboard",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The cats are sitting on top of a computer keyboard.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.8339747706021441,
+    "reason_vf_correct": "<br> - The cats are sitting on a computer keyboard.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "59",
+    "question": "What direction is the narrow end of the flag pointing? Choices: north, south, east, west",
+    "predicted_answer": "south",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the narrow end of the flag is pointing south. In the image, there is a clock tower in the background, and the flag is positioned in such a way that the narrow end is pointing towards the clock tower. This suggests that the clock tower is located to the south of the flag.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.1134883643623958,
+    "reason_vf_correct": "<br> - The narrow end of the flag is pointing towards the clock tower.<br> - There is a clock tower in the background of the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "north, east, west"
+  }
+]

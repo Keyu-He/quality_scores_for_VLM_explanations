@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "490",
+    "question": "What is it? Choices: clock, bracelet, phone, ring",
+    "predicted_answer": "reply",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The watch is a silver and black color with white face.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9997799614628002,
+    "reason_vf_correct": "<br> - The watch is silver and black in color.<br> - The watch has a white face.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "267",
+    "question": "What is this? Choices: tablet, remote, camera, watch",
+    "predicted_answer": "missed call",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The person holding the cell phone has a missed call on their screen, which indicates that they have not yet returned the call or responded to it. This could be due to various reasons such as being busy, unavailable at the time of the call, or simply forgetting about the call. The image shows the date and time of the missed call, which can help the person recall when they received the call and take appropriate action to address it.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9786674713283366,
+    "reason_vf_correct": "<br> - The cell phone screen shows a missed call.<br> - The date and time of the missed call are visible on the screen.",
+    "reason_vf_incorrect": "<br> - The person is holding a cell phone.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "403",
+    "question": "What is this package? Choices: frozen pizza, chicken curry, salad mix, spaghetti bolognese",
+    "predicted_answer": "pasta",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The box contains a bowl of pasta, specifically macaroni and cheese.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999804046497504,
+    "reason_vf_correct": "<br> - The box contains a bowl of pasta.",
+    "reason_vf_incorrect": "<br> - The pasta in the box is specifically macaroni and cheese.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "477",
+    "question": "What kind of can is this? Choices: soda, soup, fruit, vegetable",
+    "predicted_answer": "stone ice",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The can in the image is a Stone Ice can, which is a type of beverage that contains 24 oz of liquid.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2179024155797995,
+    "reason_vf_correct": "<br> - The can in the image is labeled as Stone Ice.<br> - The can in the image contains 24 oz of liquid.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "soda"
+  },
+  {
+    "question_id": "432",
+    "question": "What is in this image? Choices: cat, bird, car, tree",
+    "predicted_answer": "dog",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image features a black and white dog laying on top of a brown leather couch, with its paw extended outward.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3610265058197768,
+    "reason_vf_correct": "<br> - There is a black and white dog in the image.<br> - The dog is laying on a brown leather couch.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "cat"
+  },
+  {
+    "question_id": "58",
+    "question": "What color is this band? Choices: silver, black, red, blue",
+    "predicted_answer": "yellow",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The band is yellow in color.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0688003750757106,
+    "reason_vf_correct": "<br> - The band is yellow in color.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "silver, black, red"
+  },
+  {
+    "question_id": "78",
+    "question": "What is in this picture? Choices: man, child, landscape, animal",
+    "predicted_answer": "table",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The table has a white top and is sitting on a carpeted floor.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.7729420706080598,
+    "reason_vf_correct": "<br> - The table has a white top.<br> - The table is sitting on a carpeted floor.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "158",
+    "question": "Is it still checking for problems? Choices: yes, not sure, no, unanswerable",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The computer is still checking for problems, as indicated by the message \"Your computer has been set up to check for problems.\" This suggests that there might be an issue with the system or a specific component that needs attention. It's important to address these issues promptly to ensure optimal performance and prevent potential hardware or software failures.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.988288262740702,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There is a message on the computer screen that says \"Your computer has been set up to check for problems.\"",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "247",
+    "question": "What is this product? Choices: linksys, tp-link, d-link, belkin",
+    "predicted_answer": "netgear",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "This is a Netgear product.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3055528802569803,
+    "reason_vf_correct": "<br> - The product is labeled with the Netgear brand.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "linksys, tp-link, d-link"
+  },
+  {
+    "question_id": "369",
+    "question": "What is the title of this cd? Choices: \"greatest hits, smooth tunes, classic melodies, instrumental vibes\"",
+    "predicted_answer": "jazz collection",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The title of this CD is Jazz Collection.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3290614972063047,
+    "reason_vf_correct": "<br> - The title of the CD is \"Jazz Collection.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": "\"greatest hits, smooth tunes"
+  }
+]

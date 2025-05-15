@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "123",
+    "question": "What color is this? Choices: yellow, green, red, blue",
+    "predicted_answer": "blue",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The phone is purple and blue, which are both shades of blue.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.3118623252606934,
+    "reason_vf_correct": "<br> - The phone is purple.",
+    "reason_vf_incorrect": "<br> - The phone is blue.",
+    "reason_contr": "red"
+  },
+  {
+    "question_id": "329",
+    "question": "What is this photo? Choices: metal, concrete, brick, asphalt",
+    "predicted_answer": "concrete",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a cracked and broken section of cement wall, which appears to be in poor condition. This could indicate that the wall has been subjected to significant stress or damage over time, leading to its current state. It may also suggest that the wall was not constructed properly or maintained adequately, resulting in the visible cracks and breakage. The presence of these cracks can pose safety risks for those nearby, as well as potential structural issues if left unaddressed.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9985400785824934,
+    "reason_vf_correct": "<br> - There is a cracked section visible in the cement wall.<br> - The wall appears to be in poor condition.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "248",
+    "question": "what is this? Choices: marker, ruler, pen, paper",
+    "predicted_answer": "pen",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a pen sitting on top of a carpeted floor, which appears to be blue and green in color. The pen is black and white, and it seems to be the only object visible in the scene.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0001102180764662,
+    "reason_vf_correct": "<br> - There is a pen on top of the carpeted floor.<br> - The carpeted floor is blue and green in color.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "pencil, marker, ruler"
+  },
+  {
+    "question_id": "403",
+    "question": "What is this package? Choices: vegetable lasagna, salad mix, chicken curry, frozen pizza",
+    "predicted_answer": "pasta",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The box contains a bowl of pasta, specifically macaroni and cheese.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999804046497504,
+    "reason_vf_correct": "<br> - The box contains a bowl of pasta.",
+    "reason_vf_incorrect": "<br> - The pasta in the box is specifically macaroni and cheese.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "177",
+    "question": "What is the picture? Choices: app updates, bug fixes, user interface, system settings",
+    "predicted_answer": "a man",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows an app on a smartphone screen that has several different apps displayed in a list format. Each app appears to be related to music, with titles such as \"iHeartRadio\" and \"Pandora.\" There are also other apps listed, including ones for social media and news. The various icons of the apps are arranged in rows, making it easy for users to navigate through their options.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0009843690224987,
+    "reason_vf_correct": "<br> - The image is showing a smartphone screen with several different apps displayed.<br> - The apps are displayed in a list format on the smartphone screen.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "software features, user interface"
+  },
+  {
+    "question_id": "152",
+    "question": "What does this computer screen say? Choices: \"hello\", \"error\", nib, \"loading\"",
+    "predicted_answer": "nib",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a black computer monitor with a white background and a logo that says \"nib\" on it.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3680235948517416,
+    "reason_vf_correct": "<br> - There is a black computer monitor in the image.<br> - The computer screen has a white background.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "\"loading\""
+  },
+  {
+    "question_id": "409",
+    "question": "What is this object? Choices: ashtray, paperweight, coaster, candle holder",
+    "predicted_answer": "bull",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The object in the image is a bronze statue of a bull, which has been mounted on top of an old-fashioned clock or pocket watch. This unique combination of objects suggests that it might be a decorative piece or a conversation starter for those who encounter it. The bull's presence adds a touch of artistic and historical value to the item, making it stand out as a distinctive piece of craftsmanship.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9966061022560264,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The object in the image is a bronze statue of a bull.<br> - The bronze statue of the bull is mounted on top of an old-fashioned clock.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "303",
+    "question": "What is this? Choices: smartwatch, samsung, tablet, iphone",
+    "predicted_answer": "iphone",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The box is white and has an iPhone in it.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2789066276794452,
+    "reason_vf_correct": "<br> - The box is white.<br> - The box contains an iPhone.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "samsung, camera"
+  },
+  {
+    "question_id": "137",
+    "question": "What color is this band? Choices: black, silver, gold, red",
+    "predicted_answer": "yellow",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The band is yellow in color.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0601436660574349,
+    "reason_vf_correct": "<br> - The band is yellow in color.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "silver, black, blue"
+  },
+  {
+    "question_id": "405",
+    "question": "What flavor is this? Choices: cinnamon, vanilla, apple strudel, chocolate",
+    "predicted_answer": "dad's",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The box of Dad's cookies is a popular snack choice for many people, especially those who enjoy sweet treats with a crunchy texture. These cookies are made from a simple recipe that includes ingredients such as flour, sugar, butter, and eggs, which contribute to their delicious taste and satisfying texture. The box of Dad's cookies is displayed on the countertop in front of a sink, making it easy for someone to grab a snack while doing dishes or other kitchen tasks.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.2388970581596833,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There is a box of Dad's cookies displayed on the countertop.<br> - The box of Dad's cookies is in front of a sink.",
+    "reason_contr": "chocolate, vanilla"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "356",
+    "question": "What hour is shown on the clock? Choices: eleven, nine, eight, ten",
+    "predicted_answer": "ten",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the clock shows the time of ten o'clock. This can be deduced by observing the position of the hands on the clock face. The hour hand is pointing to the number ten, and the minute hand is positioned at the five-minute mark. This indicates that it is ten o'clock in the image.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.1423622395614034,
+    "reason_vf_correct": "<br> - The hour hand is pointing to the number ten on the clock.",
+    "reason_vf_incorrect": "<br> - The minute hand is positioned at the five-minute mark on the clock.",
+    "reason_contr": "eleven, nine, eight"
+  },
+  {
+    "question_id": "292",
+    "question": "What pattern shirt is the man wearing? Choices: polka dot, argyle, solid color, stripes",
+    "predicted_answer": "stripes",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The man in the image is wearing a shirt with stripes. The reasoning behind this answer is that the man's shirt is described as having a striped pattern, which indicates that the shirt is not solid color or polka dotted, and it is not an argyle pattern. Therefore, the man is wearing a shirt with stripes.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999899462691163,
+    "reason_vf_correct": "<br> - The man's shirt is patterned with stripes.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "96",
+    "question": "What player is shown in the photo? Choices: shortstop, catcher, position, first baseman",
+    "predicted_answer": "catcher",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The player shown in the photo is a catcher. This can be inferred from the fact that the man is wearing a baseball glove, which is a common piece of equipment used by catchers. Additionally, the catcher is in the process of throwing the ball, which is a typical action performed by a catcher during a baseball game. The presence of a baseball glove and the action of throwing the ball are strong indicators that the player in the photo is a catcher.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.592990870810446,
+    "reason_vf_correct": "<br> - The man is wearing a baseball glove in the image.<br> - The man is in the process of throwing the ball in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "position"
+  },
+  {
+    "question_id": "168",
+    "question": "Which food on the dish is a meat? Choices: broccoli, turkey, rice, green beans",
+    "predicted_answer": "turkey",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The food on the dish that is a meat is turkey. Turkey is a type of poultry that is commonly served as a protein source in various cuisines. In the image, the turkey is accompanied by a variety of vegetables, such as broccoli, green beans, and rice. These vegetables, along with the turkey, create a balanced and nutritious meal that includes both protein and essential vitamins and minerals from the vegetables.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999834099449016,
+    "reason_vf_correct": "<br> - There is turkey on the dish.<br> - There are vegetables such as broccoli and green beans on the dish.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "100",
+    "question": "Who is the woman dressed up as? Choices: snow white, xena, maleficent, cinderella",
+    "predicted_answer": "xena",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The woman in the image is dressed up as Xena, a popular character from the television show \"Xena: Warrior Princess.\" She is wearing a costume that resembles Xena's outfit, including a helmet, and she is holding a cell phone to her ear. Her attire and accessories, such as the helmet and the cell phone, are consistent with the character's appearance in the show. Therefore, the answer to the question is Xena.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999744270614048,
+    "reason_vf_correct": "<br> - The woman is wearing a costume that resembles Xena's outfit.<br> - The woman is wearing a helmet as part of her costume.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "329",
+    "question": "What kind of car is it? Choices: suv, sedan, sports car, mini van",
+    "predicted_answer": "sedan",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The car in the image is a sedan, which is a type of passenger vehicle with four doors and a trunk. It is not an SUV, sports car, mini van, or any other type of vehicle. The presence of horses in the image suggests that the scene takes place in a rural or countryside setting, which is more likely to be associated with sedans rather than SUVs, sports cars, or minivans. Additionally, the fact that the car is parked on the side of the road further supports the idea that it is a sedan.",
+    "visual_fidelity": 0.25,
+    "contrastiveness": 0.9999341000428936,
+    "reason_vf_correct": "<br> - There are horses present in the image.",
+    "reason_vf_incorrect": "<br> - The car in the image has four doors.<br> - There is a trunk visible on the car in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "319",
+    "question": "What family member in a household would this room most likely belong to? Choices: son, daughter, infant, grandparent",
+    "predicted_answer": "grandparent",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The room most likely belongs to a grandparent, as it is filled with various knick-knacks and memorabilia, which are often associated with older generations. Additionally, the presence of a TV, books, and a clock suggests that the room is designed for relaxation and leisure activities, which are common interests among grandparents. Furthermore, the room's cluttered appearance might indicate that the grandparent enjoys collecting and displaying various items, which is a common trait among older individuals.",
+    "visual_fidelity": 0.6,
+    "contrastiveness": 0.9999971339101092,
+    "reason_vf_correct": "<br> - The room is filled with various knick-knacks and memorabilia.<br> - There is a TV present in the room.",
+    "reason_vf_incorrect": "<br> - There are books visible in the room.<br> - There is a clock visible in the room.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "116",
+    "question": "The cat appears to be what type? Choices: feral, housecat, pregnant, sheltered",
+    "predicted_answer": "housecat",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The cat in the image is a housecat, not a feral or pregnant cat. This can be inferred from the fact that it is standing on a desk in front of a laptop, which suggests that the cat is accustomed to human environments and is likely well-cared for by its owner. Additionally, the cat is wearing a collar, which indicates that it is a domesticated pet rather than a feral or pregnant cat that would not typically be wearing a collar.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.6185916846555954,
+    "reason_vf_correct": "<br> - The cat is standing on a desk in front of a laptop.<br> - The cat is wearing a collar.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "sheltered"
+  },
+  {
+    "question_id": "220",
+    "question": "Which vehicle is closest to the transport hub? Choices: red car, truck trailer, orange tractor, truck cab",
+    "predicted_answer": "red car",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The red car is the closest vehicle to the transport hub. In the image, there is a truck trailer, an orange tractor, a truck cab, and a red car. The truck trailer and the orange tractor are farther away from the transport hub, while the truck cab is closer but still not as close as the red car. The red car is the only vehicle that is positioned directly in front of the transport hub, making it the closest vehicle to the transport hub.",
+    "visual_fidelity": 0.6,
+    "contrastiveness": 0.640647016368483,
+    "reason_vf_correct": "<br> - There is a red car in the image.<br> - The truck trailer is farther away from the transport hub than the red car.",
+    "reason_vf_incorrect": "<br> - The red car is positioned directly in front of the transport hub.<br> - The orange tractor is farther away from the transport hub than the red car.",
+    "reason_contr": "truck cab"
+  },
+  {
+    "question_id": "267",
+    "question": "How many vehicles have their lights on? Choices: three, one, none, two",
+    "predicted_answer": "one",
+    "prediction_is_correct": 0,
+    "generated_rationale": "In the image, there is only one vehicle with its lights on, which is a car. The other vehicles, including a bicycle and a truck, do not have their lights on. The reasoning behind the answer is that the car is the only vehicle with its lights on, making it the correct choice. The other vehicles, such as the bicycle and the truck, do not have their lights on, so they are not the correct choices.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9981858373221492,
+    "reason_vf_correct": "<br> - There is only one vehicle with its lights on in the image.<br> - The vehicle with its lights on is a car.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

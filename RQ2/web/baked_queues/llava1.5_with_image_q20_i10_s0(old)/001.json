@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "255",
+    "question": "What is the number mentioned in the t shirt of the girl who is playing? Choices: 21, 13, 31 and, 51",
+    "predicted_answer": "13",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The number 13 is on the t-shirt of the girl who is playing soccer. The reasoning behind this answer is that the number 13 is often associated with the 13th birthday, which is a significant milestone in a person's life. It is possible that the girl is celebrating her 13th birthday by playing soccer with friends or family members. The presence of the number 13 on her t-shirt suggests a connection to this special occasion.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999884455395714
+  },
+  {
+    "question_id": "498",
+    "question": "Why is there a bow on the car? Choices: sale, style, gift, looks",
+    "predicted_answer": "Sale",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The presence of a bow on the car suggests that there might be a sale or promotion taking place. The bow is often used as a visual indicator to draw attention to a special offer, discount, or limited-time deal. In this case, the bow on the car is likely meant to attract potential customers and encourage them to take advantage of the sale or promotion being advertised.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.995709241093849
+  },
+  {
+    "question_id": "235",
+    "question": "What meal might be eaten at the time shown on the clock? Choices: supper, tea, breakfast, elevenses",
+    "predicted_answer": "Elevenses",
+    "prediction_is_correct": 0,
+    "generated_rationale": "Elevenses is the meal that might be eaten at the time shown on the clock. Elevenses is a light meal typically eaten between breakfast and lunch, usually around 10:30 or 11:00 a.m. The presence of multiple laptops on the desk suggests that people might be working or studying during this time, which aligns with the concept of elevenses.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9770107287489795
+  },
+  {
+    "question_id": "348",
+    "question": "Where are the sheep located? Choices: farm, street, mountain, park",
+    "predicted_answer": "Street",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the image shows a herd of sheep crossing a street, which is an unusual location for sheep. Typically, sheep are found on farms, in mountains, or in parks. However, in this case, the sheep are crossing the street, which indicates that they are in an urban or semi-urban environment. The presence of a car in the image further supports the idea that the sheep are located on a street rather than in a farm, mountain, or park setting.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999880237425595
+  },
+  {
+    "question_id": "418",
+    "question": "Which of these emotions is the person least likely to be experiencing? Choices: contentedness, sadness, joy, happiness",
+    "predicted_answer": "Sadness",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The person in the image is most likely experiencing contentedness or happiness, as they are skiing down a snow-covered slope with a smile on their face. Skiing is generally considered a fun and enjoyable activity, so it is reasonable to assume that the person is experiencing positive emotions. Sadness, on the other hand, is an emotion that is less likely to be associated with skiing, as it is generally considered a recreational and uplifting activity.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.705592718682823
+  },
+  {
+    "question_id": "422",
+    "question": "The white object in the right window is used most often during what season? Choices: fall, spring, winter, summer",
+    "predicted_answer": "Winter",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The white object in the right window is an air conditioner, which is used most often during the summer season. Air conditioners help regulate the temperature inside a building by removing excess heat and moisture from the air. They are commonly used during the summer months to keep indoor spaces cool and comfortable.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 8.171379685155667e-07
+  },
+  {
+    "question_id": "269",
+    "question": "What type of league is the batter in? Choices: little league, high school, minor league, intramural",
+    "predicted_answer": "Little League",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The batter is in a little league, as evidenced by the fact that he is a young boy wearing a helmet and holding a baseball bat. Little league is a youth sports organization that provides opportunities for children to participate in organized baseball and softball games. The presence of other children in the image also supports the notion that this is a little league setting.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.6007408445641503
+  },
+  {
+    "question_id": "31",
+    "question": "What is beside the person on the seat? Choices: white bag, food, paper bag, pillow",
+    "predicted_answer": "White bag",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The correct answer is the white bag beside the person on the seat. The reasoning behind this answer is that the image shows a woman sitting on a bench with a white bag next to her. This suggests that the bag might contain her belongings, such as a pillow, food, or other personal items. The presence of the white bag indicates that it is likely related to the person sitting on the bench.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5221649561155677
+  },
+  {
+    "question_id": "421",
+    "question": "What food type likely fills the freezer? Choices: vegetables, pasta, ice cream, meat",
+    "predicted_answer": "Meat",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The most likely food type that fills the freezer is meat. This is because freezers are typically used to store perishable items, such as meat, that need to be kept at low temperatures to preserve their freshness and prevent spoilage. While it is possible to store vegetables, pasta, and ice cream in a freezer, these items do not require the same level of preservation as meat, which is why meat is the most common item stored in a freezer.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9998556717644567
+  },
+  {
+    "question_id": "401",
+    "question": "How are the two feeling here? Choices: playful, sad, hungry, angry",
+    "predicted_answer": "Playful",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The two people in the image are playing a video game together, which suggests that they are feeling playful and enjoying each other's company. Their smiles and engagement in the activity indicate that they are having a good time and not experiencing any negative emotions such as sadness, hunger, or anger.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999420049411583
+  }
+]

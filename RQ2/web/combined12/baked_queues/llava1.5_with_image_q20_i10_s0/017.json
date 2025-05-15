@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "51",
+    "question": "In what type of environment are they most likely riding skateboards? Choices: beach, city, rural, suburban",
+    "predicted_answer": "city",
+    "prediction_is_correct": 1,
+    "generated_rationale": "They are most likely riding skateboards in a city environment. In the image, the skateboarders are performing tricks on a ramp, which is typically found in urban areas with skate parks. Skate parks are specifically designed for skateboarders to practice their skills and perform tricks. These parks are usually located in or near city centers, making it the most likely environment for skateboarders to be riding their boards.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9999765245013462,
+    "reason_vf_correct": "<br> - There is a skate park visible in the image.<br> - The image shows an urban area or city environment.",
+    "reason_vf_incorrect": "<br> - The skateboarders are performing tricks on a ramp.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "72",
+    "question": "The name of the street is the same as the last name of what actress? Choices: eva mendes, jessica biel, eva green, jessica alba",
+    "predicted_answer": "eva green",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The name of the street is the same as the last name of Eva Green, an actress known for her roles in films such as \"Casino Royale\" and \"300.\" It is likely that the street was named after her to honor her achievements and contributions to the entertainment industry.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4263958588360638,
+    "reason_vf_correct": "<br> - The name of the street is visible in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "eva mendes"
+  },
+  {
+    "question_id": "490",
+    "question": "What institution often performs the function represented by the word on the main level of the ship nearest the camera? Choices: private enterprise, government, educational, commercial",
+    "predicted_answer": "government",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The word on the main level of the ship nearest the camera is \"Coast Guard.\" The Coast Guard is a government agency responsible for maritime law enforcement, search and rescue, and environmental protection. It is not a private enterprise, educational institution, or commercial organization. Therefore, the answer to the question is \"Government.\"",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999639033260882,
+    "reason_vf_correct": "<br> - The word \"Coast Guard\" is visible on the main level of the ship nearest the camera.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "11",
+    "question": "What interests the child most here? Choices: table, fork, candle, floor",
+    "predicted_answer": "candle",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The child is most interested in the candle on the chocolate cake. This can be inferred from the fact that the child is looking at the candle while holding a fork, which suggests that the candle is the main focus of the child's attention. The presence of the candle on the cake indicates that it might be a special occasion, such as a birthday, and the child might be excited about the celebration or the act of blowing out the candle.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9997499693250976,
+    "reason_vf_correct": "<br> - The child is looking at the candle on the cake.<br> - The child is holding a fork while looking at the candle.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "26",
+    "question": "What are the orange vehicles for? Choices: police, shuttle, passengers, air traffic",
+    "predicted_answer": "police",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the orange vehicles in the image are police cars, which are typically used for law enforcement and emergency response purposes. The presence of police cars on the runway suggests that there might be an ongoing incident or security concern that requires their presence at the airport. The other choices, such as shuttle, passengers, and air traffic, do not seem to be directly related to the scene depicted in the image.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9999833800250406,
+    "reason_vf_correct": "<br> - The vehicles in the image are orange.<br> - The police cars are present on a runway in the image.",
+    "reason_vf_incorrect": "<br> - The orange vehicles are identified as police cars.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "112",
+    "question": "Which century was the item the woman is holding up invented in? Choices: twentieth, twenty first, tenth, eighteenth",
+    "predicted_answer": "twenty first",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The item the woman is holding up, which is a cell phone, was invented in the 21st century. It was first introduced in the late 1980s and early 1990s and has since become a ubiquitous part of modern life. Therefore, the answer to the question is the 21st century.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9982865521927852,
+    "reason_vf_correct": "<br> - The woman is holding up a cell phone.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "334",
+    "question": "Why do people have their arms up? Choices: to signal, to wave, to catch, to cheer",
+    "predicted_answer": "to catch",
+    "prediction_is_correct": 1,
+    "generated_rationale": "People have their arms up because they are trying to catch a frisbee. In the image, a group of people is playing a game of frisbee in a grassy field. They have their arms up to reach for the frisbee as it flies through the air. This positioning allows them to maximize their chances of successfully catching the frisbee during the game.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9993120635972528,
+    "reason_vf_correct": "<br> - The people in the image are playing a game of frisbee.<br> - There is a frisbee visible in the air in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "55",
+    "question": "What are the people driving? Choices: dirt bikes, monster truck, train, bus",
+    "predicted_answer": "dirt bikes",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The people in the image are driving dirt bikes, not monster trucks, buses, or trains. Dirt bikes are off-road motorcycles designed for riding on rough terrain, such as dirt tracks and trails. They typically have a lightweight frame, long-travel suspension, and knobby tires for better grip on loose surfaces. Monster trucks, on the other hand, are large, heavy-duty vehicles designed for performing stunts and jumps on hard surfaces, such as asphalt or concrete. Buses and trains are not suitable for off-road activities like dirt biking. Therefore, the correct answer is dirt bikes.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999637178772672,
+    "reason_vf_correct": "<br> - The people in the image are driving dirt bikes.<br> - The dirt bikes in the image have a lightweight frame.",
+    "reason_vf_incorrect": "<br> - The dirt bikes in the image have long-travel suspension.<br> - The dirt bikes in the image have knobby tires.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "6",
+    "question": "What is the appliance the woman is holding used for? Choices: cutting hair, brushing teeth, drying hair, painting nails",
+    "predicted_answer": "drying hair",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The appliance the woman is holding is a blow dryer, which is used for drying hair. The reasoning behind this answer is that the image shows the woman holding a blow dryer in a bathroom, which is a common place for people to dry their hair after taking a shower. Additionally, blow dryers are specifically designed for drying hair and are not used for cutting hair, brushing teeth, or painting nails.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999595737345126,
+    "reason_vf_correct": "<br> - The woman is holding a blow dryer in the image.<br> - The woman is in a bathroom in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "210",
+    "question": "If this is a grand slam which must it be? Choices: wimbledon, french open, australian open, us open",
+    "predicted_answer": "wimbledon",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The correct answer is Wimbledon. Wimbledon is the oldest and most prestigious of the four Grand Slam tennis tournaments. It is held annually at the All England Lawn Tennis and Croquet Club in Wimbledon, London, England. The other Grand Slam tournaments are the Australian Open, held in Melbourne, Australia; the French Open, held in Paris, France; and the US Open, held in New York City, United States.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.993137330147442,
+    "reason_vf_correct": "<br> - The tournament is being held at the All England Lawn Tennis and Croquet Club.<br> - The location of the tournament is in Wimbledon, London, England.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

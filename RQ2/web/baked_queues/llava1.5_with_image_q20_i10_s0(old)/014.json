@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "377",
+    "question": "Which skier is going fastest? Choices: sitting, right, left, middle",
+    "predicted_answer": "Middle",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The skier going fastest is the one in the middle of the image. They are skiing down the slope at a faster pace compared to the other skiers. This could be due to their skill level, experience, or simply because they are enjoying the thrill of skiing at a faster speed. It is important to note that skiing at a faster pace can increase the risk of accidents and injuries, so it is crucial for skiers to maintain control and be aware of their surroundings while skiing at high speeds.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.3751653486692825
+  },
+  {
+    "question_id": "119",
+    "question": "Why are the people behind the fence there? Choices: coaching, spectating, relaxing, taking photos",
+    "predicted_answer": "Spectating",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The people behind the fence are likely there to spectate and enjoy the bicycle race. They might be friends or family members of the bicycle riders, or simply enthusiasts of the sport. The fence serves as a barrier to keep the spectators at a safe distance from the race, while still allowing them to have an unobstructed view of the event.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9773545546004443
+  },
+  {
+    "question_id": "101",
+    "question": "What type of event might this be? Choices: art show, car show, museum opening, race",
+    "predicted_answer": "Car show",
+    "prediction_is_correct": 0,
+    "generated_rationale": "Based on the image, it appears to be a car show, as evidenced by the presence of a decorated car with a mannequin head in the driver's seat. The mannequin head and the decorations on the car suggest that the car is being showcased, which is a common occurrence at car shows. Additionally, the presence of other cars and people in the background further supports the idea that this is a car show event. Art shows, museum openings, and races typically do not involve decorated cars with mannequin heads in the driver's seat.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9999952780026223
+  },
+  {
+    "question_id": "468",
+    "question": "What is the first visible red word? Choices: fast, go, was, one",
+    "predicted_answer": "One",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The first visible red word is \"one.\" This is because the word \"one\" is the first word in the phrase \"we was one,\" and it is written in red. The reasoning behind this answer is that the word \"one\" is the first word in the phrase, and it is written in red, making it the first visible red word.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9795735866223919
+  },
+  {
+    "question_id": "339",
+    "question": "What type of terrain is beyond the table and grill? Choices: hilly, grassy, sandy, muddy",
+    "predicted_answer": "Grassy",
+    "prediction_is_correct": 1,
+    "generated_rationale": "Based on the image, the terrain beyond the table and grill appears to be grassy. This can be inferred from the presence of grass in the area and the fact that the table and grill are located in a park. Parks typically have grassy areas for recreational purposes, so it is reasonable to assume that the terrain beyond the table and grill is grassy. The other options, such as hilly, sandy, or muddy, are less likely to be present in a park setting.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999824534525324
+  },
+  {
+    "question_id": "285",
+    "question": "Is the man going to the mountain in the background? Choices: absolutely no, yes, absolutely yes, probably yes",
+    "predicted_answer": "Yes",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the man is sitting in the back of a pickup truck, which suggests that he might be going to the mountain in the background. Pickup trucks are commonly used for transporting people and their belongings to various destinations, including outdoor activities like hiking or camping. Therefore, it is plausible that the man is heading to the mountain for recreational purposes or work-related activities.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3844105453551098
+  },
+  {
+    "question_id": "333",
+    "question": "The thing on the ceiling performs what function? Choices: heating, cooking, cleaning, cooling",
+    "predicted_answer": "Cooling",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The fan on the ceiling serves the function of cooling the room. Fans work by circulating air, which helps to dissipate heat and maintain a comfortable temperature in the space. In the image, the fan is turned on, indicating that it is actively cooling the room. This is particularly important in a living room, where people spend time relaxing and socializing, and maintaining a comfortable temperature is essential for their comfort and well-being.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9999357212708864
+  },
+  {
+    "question_id": "73",
+    "question": "How was the cake decorated? Choices: drawn, piping tip, fork, sprinkled",
+    "predicted_answer": "Drawing",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The cake was decorated with a drawing of roses. This is evident from the close-up view of the cake in the image, which shows the intricate details of the roses on the cake. The use of a drawing to decorate the cake is a creative and artistic way to enhance the visual appeal of the cake, making it stand out as a unique and beautiful centerpiece for the event.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5303098650611625
+  },
+  {
+    "question_id": "181",
+    "question": "How do these people know each other? Choices: coworkers, spouses, siblings, classmates",
+    "predicted_answer": "Classmates",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind the answer \"classmates\" is based on the context of the image. The group of young people is posing together for a picture, which suggests that they are part of the same educational institution, such as a school, college, or university. As classmates, they likely share common experiences, interests, and relationships with one another. The fact that they are posing together for a group photo further supports the idea that they know each other as classmates. Coworkers, spouses, and siblings typically do not pose together for group photos in the same way that classmates do.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999990833573904
+  },
+  {
+    "question_id": "449",
+    "question": "What are these people ready to do? Choices: swim, run, eat, drink",
+    "predicted_answer": "Drink",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The people in the image are ready to drink wine, as they are holding wine glasses and a man is pouring wine from a bottle into the glasses. This suggests that they are preparing to enjoy a wine tasting or a social gathering where wine is being served.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999661460182401
+  }
+]

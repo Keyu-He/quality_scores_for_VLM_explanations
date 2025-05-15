@@ -1,0 +1,47 @@
+[
+  {
+    "question_id": "4",
+    "question": "What type of device is sitting next to the laptop? Choices: mouse, mobile phone, pen, keyboard",
+    "predicted_answer": "Mobile phone",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The device sitting next to the laptop is a mobile phone. The reasoning behind this answer is that mobile phones are commonly used in conjunction with laptops for various purposes, such as making calls, sending text messages, and accessing the internet. In the image, the mobile phone is placed next to the laptop, which suggests that it might be used for one or more of these purposes. On the other hand, a mouse, pen, or keyboard would not typically be placed next to a laptop in this manner.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999780091790722
+  },
+  {
+    "question_id": "2",
+    "question": "What best describes the pool of water? Choices: frozen, fresh, dirty, boiling",
+    "predicted_answer": "Fresh",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The pool of water is described as fresh, which means it is clean and unpolluted. It is not frozen or boiling, and it is not described as dirty. This suggests that the water in the pool is of good quality and suitable for the giraffes to drink from. The fact that the giraffes are drinking from the pool indicates that the water is fresh and safe for them to consume.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9999950125220266
+  },
+  {
+    "question_id": "0",
+    "question": "What is in the motorcyclist's mouth? Choices: toothpick, food, popsicle stick, cigarette",
+    "predicted_answer": "Cigarette",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The motorcyclist has a cigarette in his mouth. This is evident from the fact that he is smoking a cigarette while riding the motorcycle.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9995542669739426
+  },
+  {
+    "question_id": "9",
+    "question": "What type of pants is the man on the right wearing? Choices: linen, corduroy, silk, denim",
+    "predicted_answer": "Denim",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The man on the right is wearing denim pants.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3030343625512671
+  },
+  {
+    "question_id": "6",
+    "question": "What is the appliance the woman is holding used for? Choices: cutting hair, brushing teeth, drying hair, painting nails",
+    "predicted_answer": "Drying hair",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The appliance the woman is holding is a blow dryer, which is used for drying hair. The reasoning behind this answer is that the image shows the woman holding a blow dryer in a bathroom, which is a common place for people to dry their hair after taking a shower. Additionally, blow dryers are specifically designed for drying hair and are not used for cutting hair, brushing teeth, or painting nails.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999647872804299
+  }
+]

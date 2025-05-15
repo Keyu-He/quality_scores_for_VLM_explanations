@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "350",
+    "question": "Can you tell me if this looks like hamburger?",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a container of ground meat, which appears to be hamburger based on its texture and color. The packaging suggests it is a product of ground beef, which is commonly used for hamburger patties or other dishes. The label on the container also indicates it's a product of ground beef, further supporting this conclusion.\n\nThe reasoning behind my answer is the visual inspection of the meat's texture and color, which are consistent with ground beef. Additionally, the label on the container explicitly states that it is a product of ground beef, which aligns with the appearance and context provided by the image.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9865692,
+    "reason_vf_correct": "<br> - There is a container of ground meat in the image.<br> - The texture of the meat in the image appears consistent with ground beef.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "376",
+    "question": "What is this?",
+    "predicted_answer": "lips balm",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up of what appears to be a tube of lip balm. The text on the tube is partially visible, and it includes the word \"Blistex,\" which is a well-known brand of lip balm. The presence of the word \"Super\" and the SPF (Sun Protection Factor) number suggests that this is a lip balm product designed to protect lips from the sun, which aligns with Blistex's branding and product line. The cylindrical shape of the tube is also consistent with that of lip balms, which are typically packaged in this manner for easy application.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.499985376,
+    "reason_vf_correct": "<br> - The word \"Blistex\" is visible on the tube in the image.<br> - The tube has a cylindrical shape.",
+    "reason_vf_incorrect": "<br> - The word \"Super\" is visible on the tube.",
+    "reason_contr": "lip balm"
+  },
+  {
+    "question_id": "91",
+    "question": "What's this?",
+    "predicted_answer": "keyboard",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a piece of electronic equipment that appears to be an electronic keyboard or synthesizer. It has keys similar to a piano and is positioned next to what looks like a computer monitor, suggesting it might be used for music production or performance. The lighting is dim, and the image quality is low, making it difficult to discern finer details, but the shape and layout of the keys are consistent with a keyboard.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.534939858,
+    "reason_vf_correct": "<br> - The image shows a piece of electronic equipment with keys similar to a piano.<br> - The electronic equipment is positioned next to a computer monitor.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "desktop"
+  },
+  {
+    "question_id": "369",
+    "question": "What is the title of this cd?",
+    "predicted_answer": "jazz collection 1",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a CD cover with the title \"Jazz Collection 1\" prominently displayed. The text on the cover indicates that this is part of a series, specifically \"Collection 1,\" and it mentions a \"Grand Reunion\" featuring The Earl Hines Trio, with additional musicians like Roy Eldridge and Coleman Hawkins. The cover also notes that the recording was live at the Village Vanguard.\n\nThe reasoning behind identifying this as \"Jazz Collection 1\" is based on the text directly visible on the CD cover. The title \"Jazz Collection 1\" is clearly printed in large, bold letters at the top of the cover.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.95348625,
+    "reason_vf_correct": "<br> - The title \"Jazz Collection 1\" is prominently displayed on the CD cover.<br> - \"Collection 1\" is mentioned as part of a series on the CD cover.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "211",
+    "question": "What are these two packages please?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a package of \"Scrambled Egg Patties\" with the number 9 visible, which likely indicates a quantity of patties. The packaging is orange and white with some text on it, but the image quality makes it difficult to read specific details. The second package appears similar and is partially visible on the right side of the image.\n\nThe question \"What are these two packages please?\" is unanswerable because the text on the packaging and any additional details that might clarify their contents are not legible in this image. If you have more information or a clearer picture, it would be easier to provide an accurate answer.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999704832,
+    "reason_vf_correct": "<br> - There is a package labeled \"Scrambled Egg Patties\" in the image.<br> - The number 9 is visible on the package of \"Scrambled Egg Patties.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "68",
+    "question": "Can you tell me when this bus pass expires?",
+    "predicted_answer": "16-apr-13",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The bus pass in the image has an expiration date of \"16 APR 13,\" which indicates that it expires on April 16, 2013.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.569937659,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The bus pass in the image has an expiration date of \"16 APR 13.\"",
+    "reason_contr": "\"next month"
+  },
+  {
+    "question_id": "95",
+    "question": "What is it?",
+    "predicted_answer": "laptop",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a close-up of the keyboard and screen area of a MacBook Air laptop. The visible text on the screen appears to be search results from Google Play, indicating that someone is browsing or searching for applications. The presence of the MacBook Air logo at the bottom center confirms that this is indeed a laptop, specifically an Apple MacBook Air model. The keyboard layout and the design of the keys are characteristic of a MacBook, further supporting this identification.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999992607,
+    "reason_vf_correct": "<br> - There is a close-up of the keyboard and screen area in the image.<br> - The MacBook Air logo is visible at the bottom center of the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "94",
+    "question": "What is this?",
+    "predicted_answer": "plate",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a white ceramic plate with blue floral patterns, which appears to be empty and slightly dirty. There are remnants of food or sauce on the plate, indicating it has been used for eating and is now being cleaned. The plate is placed on a desk, with a computer monitor in the background displaying text and images.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.37104726,
+    "reason_vf_correct": "<br> - There is a white ceramic plate in the image.<br> - The plate has blue floral patterns.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "bowl, dish"
+  },
+  {
+    "question_id": "100",
+    "question": "What is that?",
+    "predicted_answer": "laptop",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a Lenovo ThinkPad laptop placed on a desk in what appears to be an office or workspace environment. The screen displays some text, suggesting it is being used for work or programming purposes. In the background, there are various office items such as a monitor, cables, and what looks like a robotic arm or some kind of mechanical device. The setting indicates that this is likely an office workspace where someone might be working on a project or task.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.991339541,
+    "reason_vf_correct": "<br> - There is a Lenovo ThinkPad laptop on the desk.<br> - The screen of the laptop is displaying some text.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "475",
+    "question": "What is this?",
+    "predicted_answer": "soup",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a can of Campbell's Cream of Mushroom Soup. The label is clearly visible, indicating that it is a canned soup product. Campbell's is a well-known brand for soups and other food products, and the \"Cream of Mushroom\" flavor is a popular variety. The can's design includes the brand name, product type (\"Soup\"), and flavor description in bold text. The person holding the can is likely showcasing it, possibly for a review or to share with others.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999152526,
+    "reason_vf_correct": "<br> - There is a can of Campbell's Cream of Mushroom Soup in the image.<br> - The label on the can is clearly visible.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "198",
+    "question": "What are the horses being used for? Choices: rodeo, transportation, racing, farming",
+    "predicted_answer": "Farming",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The horses in the image are being used for farming purposes. They are pulling a plow, which is a tool used for tilling the soil and preparing it for planting crops. This indicates that the horses are being utilized for agricultural work, rather than for recreational activities such as rodeo, racing, or transportation.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999473004646976
+  },
+  {
+    "question_id": "84",
+    "question": "In what location is the motorcycle parked most likely? Choices: store, sidewalk, home, expo",
+    "predicted_answer": "Store",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The most likely location for the motorcycle to be parked is at a store. This is because the dog is wearing a motorcycle helmet, which suggests that the dog's owner may have parked the motorcycle at the store while shopping or running errands. The presence of a dog wearing a motorcycle helmet is an unusual sight, and it is more plausible that the dog's owner parked the motorcycle at a store rather than on the sidewalk, home, or at an expo.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999777756108614
+  },
+  {
+    "question_id": "289",
+    "question": "What is keeping the animals all in one place? Choices: mountains, fear, fence, guns",
+    "predicted_answer": "Fence",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The animals are kept in one place by a fence. The fence serves as a barrier to keep the cows together, preventing them from wandering off or interacting with other animals. The fence ensures that the cows remain within a designated area, making it easier for the farmer to manage and monitor their well-being.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.6507992613877379
+  },
+  {
+    "question_id": "259",
+    "question": "What animals are in the front of the photo? Choices: horse, cat, dog, elephant",
+    "predicted_answer": "Dog",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The animals in the front of the photo are dogs. There are a total of four dogs in the scene, with two of them standing close to each other on the right side of the image, and the other two dogs on the left side of the image. The presence of the dogs in the foreground suggests that they are the main focus of the photo, and the other elements in the image, such as the horse and the people, are secondary to the dogs.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9999974249142758
+  },
+  {
+    "question_id": "229",
+    "question": "What is needed to control the large object? Choices: computer, battery, string, remote",
+    "predicted_answer": "String",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The object in the image is a large, colorful kite. To control the kite, a string is needed. The string allows the person flying the kite to maneuver it in the air by pulling or releasing the string. The string provides the necessary connection between the kite and the person flying it, enabling them to control the kite's movement and direction. In contrast, a computer, battery, or remote would not be suitable for controlling a kite, as they are not designed for this purpose.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9992319841786871
+  },
+  {
+    "question_id": "256",
+    "question": "Where is the horse currently located? Choices: barn, farm, house, field",
+    "predicted_answer": "Barn",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The horse is currently located in a barn. In the image, a woman is standing next to the horse, which is inside the barn. Barns are typically used for housing livestock, such as horses, and providing them with shelter and protection from the elements. The presence of the horse in the barn suggests that it is being cared for and kept in a safe environment.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5443142405357095
+  },
+  {
+    "question_id": "188",
+    "question": "Why does the couple standing in the boat? Choices: fun, reduce stress, tradition, spend time",
+    "predicted_answer": "Fun",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The couple standing in the boat is likely enjoying a fun and leisurely activity together. Boating can be a relaxing and enjoyable way to spend time outdoors, take in the beautiful surroundings, and create lasting memories. It can also serve as a stress-relieving activity, allowing the couple to escape from their daily routines and responsibilities for a while. Additionally, boating can be a tradition for some families, passed down through generations, making it an important part of their cultural heritage.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.41481037345685856
+  },
+  {
+    "question_id": "241",
+    "question": "Why is the man holding an umbrella? Choices: hail, rain, sun, snow",
+    "predicted_answer": "Rain",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The man is holding an umbrella to protect himself from the rain. The presence of the umbrella suggests that it is raining or about to rain, and the man is using the umbrella to shield himself from getting wet.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9950015995292685
+  },
+  {
+    "question_id": "313",
+    "question": "What type of dog is it? Choices: domestic pet, stray dog, service dog, police dog",
+    "predicted_answer": "Stray dog",
+    "prediction_is_correct": 0,
+    "generated_rationale": "Based on the image, the dog appears to be a stray dog, as it is standing on the deck of a sailboat, which is not a typical environment for a domestic pet, service dog, or police dog. Additionally, the dog does not seem to be on a leash or under the supervision of its owner, further suggesting that it is a stray dog that has found its way onto the sailboat.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9987803099221624
+  },
+  {
+    "question_id": "288",
+    "question": "The glasses contain only this beverage type? Choices: juice, beer, water, bourbon",
+    "predicted_answer": "No",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the glasses contain a variety of beverages, including juice, beer, water, and bourbon. The presence of these different types of beverages indicates that the glasses are not limited to just one type of beverage.",
+    "visual_fidelity": 0.25,
+    "contrastiveness": 0.9999962685718994
+  }
+]

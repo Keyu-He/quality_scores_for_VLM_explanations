@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "255",
+    "question": "What is the number mentioned in the t shirt of the girl who is playing? Choices: 21, 13, 31 and, 51",
+    "predicted_answer": "21",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a girl playing soccer, and the number on her t-shirt is clearly visible. The number \"21\" is printed on the back of her shirt. By comparing the available choices, we can confirm that the number matches one of the options provided. \n\nThus, the answer is 21.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.1448608476916608
+  },
+  {
+    "question_id": "139",
+    "question": "Which vehicle is closest to the rectangular blue sign? Choices: blue car, red bus, motorcycle, light car",
+    "predicted_answer": "light car",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The rectangular blue sign is visible in the image on the right side. Examining the vehicles in proximity to the sign, the light car appears to be the closest. The other vehicles such as the blue car, red bus, and motorcycle are either farther away or not adjacent to the sign. \n\nThus, the answer is light car.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999145761569936
+  },
+  {
+    "question_id": "468",
+    "question": "What is the first visible red word? Choices: fast, go, was, one",
+    "predicted_answer": "was",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a phrase displayed on a wall with visible red words. The first red word in the sequence is clearly identifiable and precedes the other red words. Based on the options provided: fast, go, was, one, the first red word is \"WAS.\"\n\nThus, the answer is \"was.\"",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.8879284899802303
+  },
+  {
+    "question_id": "392",
+    "question": "Where is the most likely location for this bar? Choices: school, house, restaurant, office",
+    "predicted_answer": "restaurant",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image shows a bar setup with alcohol bottles and the word \"PUB\" prominently displayed. This setup, along with the specific reference to a \"pub,\" aligns most closely with a commercial setting where drinks are typically served, such as a restaurant. Pubs are commonly part of restaurants or similar establishments that serve drinks and food to patrons. \n\nThus, the answer is restaurant.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999975752239011
+  },
+  {
+    "question_id": "156",
+    "question": "What is the dark colored car to the far left in the middle doing? Choices: turning left, turning right, parking, reversing",
+    "predicted_answer": "turning right",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The car in the image is positioned in such a way that it appears to be moving in the direction where the front of the vehicle is angled slightly away from the direction of oncoming traffic. This positioning and the presence of a crosswalk suggest that the car is in the process of executing a turn.\n\nAdditionally, the orientation of the car relative to the road indicates that it is not in reverse or being parked, as those actions would likely position the car differently. It is also possible that the car is beginning to turn right, as the image shows the vehicle oriented towards an intersection and the presence of a crosswalk, which is aligned with typical right-turn scenarios.\n\nThus, the answer is turning right.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.6746803404366203
+  },
+  {
+    "question_id": "357",
+    "question": "What type of drink are they drinking? Choices: soda, beer, red wine, vodka",
+    "predicted_answer": "red wine",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The individuals in the image are holding glasses that are commonly used for wine, and there is a noticeable red liquid inside. The shape of the glasses and the color of the liquid match common characteristics of red wine. Beer and soda are typically served in bottles, cans, or other types of glasses, while vodka is generally clear and served in smaller glasses.\n\nThus, the answer is red wine.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999974624589192
+  },
+  {
+    "question_id": "284",
+    "question": "How would you cut the vegetables? Choices: fork, knife, hands, peeler",
+    "predicted_answer": "knife",
+    "prediction_is_correct": 0,
+    "generated_rationale": "To cut vegetables efficiently and accurately, a knife is typically used as it is designed for slicing and dicing. A fork is primarily used for holding food in place, a peeler is for removing the outer skin, and using hands would not provide the precision needed for cutting.\n\nThus, the answer is knife.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9998990084966534
+  },
+  {
+    "question_id": "97",
+    "question": "Where are these cats located? Choices: alley, home, vet, office",
+    "predicted_answer": "home",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a setting with furniture, a television, a framed picture, and a cat tree, all suggestive of a typical living room. Such details are indicative of a home environment as opposed to a more clinical or utilitarian setting like a vet's office. The presence of home-like features such as a couch and entertainment system supports the conclusion that this is a domestic space.\n\nThus, the answer is home.",
+    "visual_fidelity": 0.8333333333333334,
+    "contrastiveness": 0.999979026217101
+  },
+  {
+    "question_id": "144",
+    "question": "What is the man taking? Choices: walk, picture, watch, pee",
+    "predicted_answer": "picture",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image depicts a man standing outdoors holding what appears to be a camera or a similar device up to his eyes, suggesting he is using it to capture an image. Since he is holding something associated with taking photographs, \u201cpicture\u201d is the most appropriate choice. Thus, the answer is picture.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9976014252600199
+  },
+  {
+    "question_id": "448",
+    "question": "What are the people doing in the water? Choices: surfing, fishing, kayaking, swimming",
+    "predicted_answer": "swimming",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image shows a group of people in a narrow boat, which is indicative of rowing activity. Rowing involves using oars to propel a boat through the water and is commonly done in a long, narrow craft, similar to what is shown. Surfing, fishing, kayaking, and swimming do not typically involve what is seen in the image. Surfing involves riding waves, fishing usually requires rods or nets, kayaking involves individual or tandem small boats, and swimming is done without any watercraft. Thus, the image most closely aligns with an activity similar to rowing rather than the given options.\n\nThus, the answer is swimming.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.8069582267193384
+  }
+]

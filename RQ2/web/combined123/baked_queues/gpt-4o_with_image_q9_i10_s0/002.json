@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "111",
+    "question": "What kind of coating has been used? Choices: polish, frosting, paint, varnish",
+    "predicted_answer": "frosting",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a box of donuts with various types of toppings. The term \"frosting\" is commonly used to describe the sugary coating often applied on desserts like donuts. Frosting can include the chocolate and glaze visible on these donuts. \"Polish,\" \"paint,\" and \"varnish\" are not relevant to food items like donuts and are more suitable for non-edible objects.\n\nThus, the answer is frosting.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999687134072945
+  },
+  {
+    "question_id": "291",
+    "question": "Whos is sitting in the chair? Choices: man, girl man, no one, girl",
+    "predicted_answer": "man",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image shows a man sitting in a chair, with a girl sitting on his lap. Therefore, the person sitting directly in the chair is the man, while the girl is sitting on him. \n\nThus, the answer is \"man.\"",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9729115925730737
+  },
+  {
+    "question_id": "176",
+    "question": "What kind of a person usually eats food like this? Choices: obese, competitive eater, glutton, nutritionist",
+    "predicted_answer": "nutritionist",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The meal depicted in the image is composed of a variety of fruits, vegetables, and rice, representing a balanced and nutritious diet. This suggests a focus on health and variety, characteristics commonly associated with someone who is knowledgeable about nutrition and works to maintain a healthy diet. \n\nObese and glutton may imply overeating or unhealthy eating habits, which do not align with the image of a balanced and colorful meal. Competitive eaters often consume large quantities of food quickly, which does not match the portion and style presented in the image.\n\nThus, the answer is nutritionist.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9998050667919148
+  },
+  {
+    "question_id": "204",
+    "question": "What super hero is the cake based off? Choices: spiderman, batman, iron man, superman",
+    "predicted_answer": "superman",
+    "prediction_is_correct": 0,
+    "generated_rationale": "I select the answer based on the colors and emblem visible on the cake in the image. The cake is predominantly red with a yellow and blue design, which corresponds to Superman's iconic logo and color scheme\u2014red, yellow, and blue. \n\nThus, the answer is Superman.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.32767828907574326
+  },
+  {
+    "question_id": "487",
+    "question": "What are the kids on the boards learning to do? Choices: wrestle, fish, scuba dive, body surf",
+    "predicted_answer": "body surf",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image depicts children on the beach, each on a board, with an instructor demonstrating a stance. The boards are similar to surfboards, and their use on the sand indicates preparation for an activity related to surfing. The presence of the ocean reinforces the setting as suitable for surfing lessons. Given the context and equipment, the most likely activity the kids are learning is body surfing. \n\nThus, the answer is body surf.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999956281940923
+  },
+  {
+    "question_id": "53",
+    "question": "This part of the house where is the girl is is called? Choices: dinning room, kitchen, sitting room, bedroom",
+    "predicted_answer": "bedroom",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a room with a bed, bedside tables, and lamps, which are typical elements found in a bedroom. The presence of these items suggests that the space is intended for sleeping and resting. Typically, dining rooms, kitchens, and sitting rooms do not contain beds as part of their standard furnishings. \n\nThus, the answer is bedroom.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9911604587845502
+  },
+  {
+    "question_id": "98",
+    "question": "What is prohibited near the round road sign with a red cross on a blue background? Choices: parking, turning, speeding, waving",
+    "predicted_answer": "parking",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The round road sign with a red cross on a blue background is universally recognized as a \"no parking\" sign. This sign indicates that parking is prohibited where it is displayed. It does not typically relate to prohibitions on turning, speeding, or waving, which would have different signage.\n\nThus, the answer is parking.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.924159560869067
+  },
+  {
+    "question_id": "377",
+    "question": "Which skier is going fastest? Choices: sitting, right, left, middle",
+    "predicted_answer": "sitting",
+    "prediction_is_correct": 0,
+    "generated_rationale": "To determine which skier is going fastest, we should consider their body positions and the slope's steepness. The skier sitting on the slope is likely sliding down as they aren't upright, indicating they might be moving faster due to less resistance and more reliance on gravity, compared to those standing who might be controlling their speed.\n\nThus, the answer is 'sitting'.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5259671717767528
+  },
+  {
+    "question_id": "17",
+    "question": "What activity does the cat appear most likely to do? Choices: drink, jump, eat, sleep",
+    "predicted_answer": "drink",
+    "prediction_is_correct": 0,
+    "generated_rationale": "Based on the image, the cat is sitting near a food or water dish, indicating it might be interested in drinking or eating. However, since the bowl appears to be filled with water, the cat is more likely to be thinking about drinking. There are no visual cues present that suggest the cat is about to jump or sleep, such as raised haunches or a relaxed, reclining position. \n\nThus, the answer is 'drink'.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999527285732446
+  },
+  {
+    "question_id": "342",
+    "question": "Where is the horse? Choices: farm, city street, ranch, parade",
+    "predicted_answer": "farm",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image shows a horse in an open field with a fenced area and other farm animals, suggesting a rural environment. The backdrop includes expansive grassy land and mountains, typically characteristic of a rural farm or ranch setting. The presence of fencing and multiple animals is more commonly found on a farm or ranch rather than a city street, parade, or other urban environments.\n\nThus, the answer is 'farm'.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3314707842993767
+  }
+]

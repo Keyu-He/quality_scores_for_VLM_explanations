@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "444",
+    "question": "At what time of day are the skateboarders probably skating on the beach? Choices: dawn, night, sunrise, sunset",
+    "predicted_answer": "sunset",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The most likely time of day for the skateboarders to be skating on the beach is sunset. In the image, the sun is setting behind the palm trees, casting a warm glow over the scene. This creates an ideal atmosphere for outdoor activities like skateboarding, as the cooler evening temperatures make it more comfortable to engage in such activities. Additionally, the sunset provides a visually appealing backdrop for the skateboarders, enhancing the overall experience.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.8868771087224376,
+    "reason_vf_correct": "<br> - The sun is setting behind the palm trees in the image.<br> - There is a warm glow cast over the scene in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "95",
+    "question": "What type of city district is this? Choices: government, warehouse, commercial, residential",
+    "predicted_answer": "commercial",
+    "prediction_is_correct": 1,
+    "generated_rationale": "Based on the image, the city district appears to be a commercial area, as there are several people walking down the sidewalk, and a woman is talking on her cell phone. The presence of multiple pedestrians suggests that this is a bustling area where people are going about their daily activities, such as shopping, dining, or commuting to work. Additionally, the fact that the woman is talking on her cell phone indicates that she is engaged in a conversation, which is a common activity in commercial areas where people communicate with friends, family, or colleagues. Therefore, the answer to the question is \"commercial.\"",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9995892011260136,
+    "reason_vf_correct": "<br> - There are several people walking down the sidewalk in the image.<br> - There is a woman talking on her cell phone in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "64",
+    "question": "What is likely to have happened? Choices: dancing, eating, crashing, swimming",
+    "predicted_answer": "crashing",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The most likely scenario is that the two people in the image have crashed while skiing or snowboarding. This can be inferred from the fact that they are lying in the snow with their skis or snowboards nearby. It is common for skiers and snowboarders to fall or crash while navigating the slopes, especially if they are inexperienced or attempting challenging maneuvers. In such cases, it is essential for them to know how to fall safely to minimize the risk of injury.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9997774479625912,
+    "reason_vf_correct": "<br> - There are two people lying in the snow in the image.<br> - There are skis or snowboards nearby the people in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "17",
+    "question": "What activity does the cat appear most likely to do? Choices: drink, jump, eat, sleep",
+    "predicted_answer": "eat",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The cat appears most likely to eat, as it is standing in front of a bowl of food on the floor. Cats are known to be hungry creatures, and it is common for them to be attracted to food sources. In this case, the cat's position and proximity to the bowl of food suggest that it is either about to eat or has just finished eating. The other activities, such as drinking, jumping, or sleeping, are less likely to be the primary focus of the cat at this moment.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999926019225642,
+    "reason_vf_correct": "<br> - The cat is standing in front of a bowl of food on the floor.<br> - The cat is positioned close to the bowl of food.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "38",
+    "question": "What kind of terrain is it? Choices: beach, desert, savanna, valley",
+    "predicted_answer": "savanna",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The terrain in the image is a savanna, which is characterized by a mix of grasses, shrubs, and scattered trees. This type of environment is typically found in Africa and is home to a variety of wildlife, including elephants. The presence of elephants in the image supports the notion that the terrain is a savanna, as these animals are commonly found in such habitats.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9998775666179306,
+    "reason_vf_correct": "<br> - There are grasses, shrubs, and scattered trees visible in the image.<br> - There are elephants present in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "170",
+    "question": "Who is the manufacturer of this laptop? Choices: apple, hp, dell, compaq",
+    "predicted_answer": "dell",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the laptop in the image is a Dell laptop. Dell is a well-known American multinational technology company that designs, develops, manufactures, and sells computers, electronics, and other related products. The presence of the Dell logo on the laptop indicates that it is a Dell product.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.1903857171342885,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The Dell logo is visible on the laptop in the image.",
+    "reason_contr": "apple, hp"
+  },
+  {
+    "question_id": "29",
+    "question": "What is closest to the tree trunk? Choices: closed doors, walking person, sitting person, open doors",
+    "predicted_answer": "open doors",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The closest object to the tree trunk is the open doors. This is because the other objects, such as the walking person, sitting person, and closed doors, are all farther away from the tree trunk than the open doors. The open doors provide a clear view of the tree trunk, making them the closest object to it.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9171772354505824,
+    "reason_vf_correct": "<br> - The walking person, sitting person, and closed doors are farther from the tree trunk than the open doors.",
+    "reason_vf_incorrect": "<br> - The open doors are the closest object to the tree trunk.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "16",
+    "question": "What period of the day does this photo reflect? Choices: noon, morning, dawn, afternoon",
+    "predicted_answer": "noon",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The photo reflects the period of the day when the sun is at its highest point in the sky, which is noon. This can be inferred from the presence of a clock on the side of the building, indicating the time of day. Additionally, the lighting and shadows in the image suggest that the sun is at its peak, further supporting the conclusion that the photo was taken during noon.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.5746438018654147,
+    "reason_vf_correct": "<br> - There is a clock on the side of the building indicating the time of day.",
+    "reason_vf_incorrect": "<br> - The lighting and shadows in the image suggest that the sun is at its peak.",
+    "reason_contr": "afternoon"
+  },
+  {
+    "question_id": "124",
+    "question": "What is in the bottles? Choices: beer, liquer, water, juice",
+    "predicted_answer": "beer",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that there are two bottles on the table, and one of them is a beer bottle. The presence of a beer bottle suggests that the other bottle might contain a different type of drink, such as water, juice, or liquer. However, without more information, it is not possible to determine the exact contents of the bottles with certainty.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0031203628011953,
+    "reason_vf_correct": "<br> - There is a beer bottle on the table.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "liquer, water, juice"
+  },
+  {
+    "question_id": "244",
+    "question": "What might be drunk from this glasses? Choices: coke, wine, juice, beer",
+    "predicted_answer": "wine",
+    "prediction_is_correct": 1,
+    "generated_rationale": "Wine is the most likely beverage to be drunk from the glasses in the image. The glasses are placed on a dining table, which suggests that they are part of a meal setting. Wine is commonly served with meals, and the presence of multiple wine glasses indicates that they are prepared for guests to enjoy wine during the meal. While other beverages like coke, juice, and beer can also be consumed during a meal, wine is the most common choice in such settings.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.6013287764429059,
+    "reason_vf_correct": "<br> - The glasses are placed on a dining table.<br> - There are multiple wine glasses present in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

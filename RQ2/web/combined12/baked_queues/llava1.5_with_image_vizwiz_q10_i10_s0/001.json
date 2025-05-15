@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "327",
+    "question": "What is this? Choices: pepsi, water, sprite, lemonade",
+    "predicted_answer": "coke",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a person holding a can of Coca-Cola in their hand, with the brand name clearly visible on the front.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999860717761558,
+    "reason_vf_correct": "<br> - The person is holding a can in their hand.<br> - The brand name Coca-Cola is clearly visible on the can.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "113",
+    "question": "What title is this? Choices: \"once in a while, sometimes, occasionally, at times\"",
+    "predicted_answer": "easy new ways to make money and get paid",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The person holding the DVD case has a white shirt on, which suggests that they are likely wearing casual or comfortable clothing. They have placed their hand on top of the DVD case, possibly indicating that they are about to watch it or have just finished watching it. The DVD case is open and features a label with the title \"New Ways to Make Money and Get Paid.\" This suggests that the person might be interested in learning new ways to earn money or find additional income sources.",
+    "visual_fidelity": 0.25,
+    "contrastiveness": 0.9417329765489818,
+    "reason_vf_correct": "<br> - The person is holding a DVD case.",
+    "reason_vf_incorrect": "<br> - The person is wearing a white shirt.<br> - The DVD case is open.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "312",
+    "question": "What is this? Choices: spoon, fork, kitchen tool, utensil",
+    "predicted_answer": "fork",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a silver fork sitting on top of a wooden table.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.0066528390682183,
+    "reason_vf_correct": "<br> - The fork is sitting on top of a wooden table.",
+    "reason_vf_incorrect": "<br> - There is a silver fork in the image.",
+    "reason_contr": "kitchen tool, utensil"
+  },
+  {
+    "question_id": "322",
+    "question": "What is the product? Choices: red bear, green elephant, yellow car, purple tree",
+    "predicted_answer": "blue moose of boulder",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The product is a jar of Blue Moose of Boulder, which is an all natural food item.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.999584502839565,
+    "reason_vf_correct": "<br> - The product is labeled as Blue Moose of Boulder.",
+    "reason_vf_incorrect": "<br> - The product is a jar.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "486",
+    "question": "What does the sky look like? Choices: blue, clear, cloudy, orange",
+    "predicted_answer": "cloudy",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The sky appears to be cloudy, which might indicate an overcast day or a change in weather conditions.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.937929828808773,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The sky in the image appears to be cloudy.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "470",
+    "question": "What color is this purse? Choices: green, black, purple, orange",
+    "predicted_answer": "red",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The bag in the image is a red and blue striped case that has a yellow tag on it.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0453509225751233,
+    "reason_vf_correct": "<br> - The purse in the image is red and blue striped.<br> - The purse has a yellow tag on it.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "green, black, purple"
+  },
+  {
+    "question_id": "198",
+    "question": "What is this? Choices: chicken parmesan, macaroni and cheese, vegetable lasagna, beef stroganoff",
+    "predicted_answer": "penne pasta",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The box of penne pasta is sitting on a counter top.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.0417472079111137,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There is a box of penne pasta on the counter top.",
+    "reason_contr": "chicken parmesan, macaroni and cheese, vegetable lasagna"
+  },
+  {
+    "question_id": "352",
+    "question": "What is this? Choices: salad mix, roasted vegetables, vegetable medley, garden blend",
+    "predicted_answer": "mediterranean vegetable blend",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "Mediterranean Vegetable Blend",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.405925702122244,
+    "reason_vf_correct": "<br> - The image shows a mix of vegetables.<br> - The vegetables in the image are typically found in Mediterranean cuisine.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "roasted vegetables, vegetable medley"
+  },
+  {
+    "question_id": "248",
+    "question": "what is this? Choices: pencil, marker, ruler, paper",
+    "predicted_answer": "pen",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a pen sitting on top of a carpeted floor, which appears to be blue and green in color. The pen is black and white, and it seems to be the only object visible in the scene.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0001102180764662,
+    "reason_vf_correct": "<br> - There is a pen on top of the carpeted floor.<br> - The carpeted floor is blue and green in color.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "pencil, marker, ruler"
+  },
+  {
+    "question_id": "392",
+    "question": "What is this? Choices: stroller, toy, high chair, playpen",
+    "predicted_answer": "bouncer",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The baby bouncer in the image has a yellow and blue color scheme, with a pink seat. It features a toy keyboard on top of it, which adds an element of entertainment for the baby while they are seated. This type of bouncer is designed to provide comfort and stimulation for infants, making it an ideal choice for parents who want their child to be entertained and engaged in a safe environment.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.2914585259406818,
+    "reason_vf_correct": "<br> - The bouncer in the image is colored yellow and blue.<br> - There is a toy keyboard on top of the bouncer.",
+    "reason_vf_incorrect": "<br> - The bouncer has a pink seat.",
+    "reason_contr": "toy, high chair"
+  }
+]

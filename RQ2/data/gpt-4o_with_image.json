@@ -1,0 +1,884 @@
+[
+    {
+        "question_id": "357",
+        "question": "What type of drink are they drinking? Choices: soda, beer, red wine, vodka",
+        "predicted_answer": "red wine",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The individuals in the image are holding glasses that are commonly used for wine, and there is a noticeable red liquid inside. The shape of the glasses and the color of the liquid match common characteristics of red wine. Beer and soda are typically served in bottles, cans, or other types of glasses, while vodka is generally clear and served in smaller glasses.\n\nThus, the answer is red wine.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999974624589192
+    },
+    {
+        "question_id": "336",
+        "question": "The weather element occurring is also the constituent of what object in the background? Choices: river, waterfall, aqueduct, ocean",
+        "predicted_answer": "ocean",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The weather element occurring in the image is rain, as indicated by the umbrellas and the wet ground. The object in the background that is associated with a large body of water is the \"ocean,\" which is visible from the image context, considering it's a beach scene. The ocean is a natural body of saltwater, similar to rain, which is a form of freshwater originating from atmospheric processes.\n\nThus, the answer is ocean.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9494789596447959
+    },
+    {
+        "question_id": "467",
+        "question": "What is the girl doing in the bathroom? Choices: brushing teeth, washing hands, taking selfie, painting walls",
+        "predicted_answer": "taking selfie",
+        "prediction_is_correct": 1,
+        "generated_rationale": "Based on the image, the girl is holding a phone or camera in front of the mirror, which suggests she is taking a photo of herself. This activity is consistent with \"taking a selfie.\" There are no visible signs of her brushing teeth, washing hands, or painting walls, as she is not engaging with the sink, holding a toothbrush, or using any painting materials.\n\nThus, the answer is taking selfie.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9998028038049843
+    },
+    {
+        "question_id": "440",
+        "question": "What color is the background of the large clock? Choices: green, black, white, red",
+        "predicted_answer": "white",
+        "prediction_is_correct": 1,
+        "generated_rationale": "Based on the image provided, the background color of the large clock appears light and neutral. Among the choices given, white matches this description. The colors green, black, and red do not align with the observed light and neutral background. \n\nThus, the answer is 'white'.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9998677480981512
+    },
+    {
+        "question_id": "70",
+        "question": "What is the object in the middle called? Choices: counter, island, table, desk",
+        "predicted_answer": "island",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The object in the middle of the room is situated in a kitchen area and is designed for seating, food preparation, and possibly storage, as indicated by its features. It is detached from the walls, making it not a counter or a desk. The presence of bar stools and its central location often aligns it with being referred to as a kitchen \"island,\" which is a common feature for such a setup in modern kitchens.\n\nThus, the answer is island.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.733274039528796
+    },
+    {
+        "question_id": "487",
+        "question": "What are the kids on the boards learning to do? Choices: wrestle, fish, scuba dive, body surf",
+        "predicted_answer": "body surf",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image depicts children on the beach, each on a board, with an instructor demonstrating a stance. The boards are similar to surfboards, and their use on the sand indicates preparation for an activity related to surfing. The presence of the ocean reinforces the setting as suitable for surfing lessons. Given the context and equipment, the most likely activity the kids are learning is body surfing. \n\nThus, the answer is body surf.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999956281940923
+    },
+    {
+        "question_id": "43",
+        "question": "Which food item is the knife for? Choices: bread, fruit, vegetables, meat",
+        "predicted_answer": "meat",
+        "prediction_is_correct": 1,
+        "generated_rationale": "Based on the image, the knife has a serrated edge, which is commonly used for cutting meat. The serrations help to grip and slice through tougher textures, which is important when dealing with various types of meat. The food on the plate appears to be meat, possibly cooked and prepared for consumption, which would require a knife suited for cutting through the meat efficiently.\n\nThus, the answer is meat.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.7720832366304681
+    },
+    {
+        "question_id": "144",
+        "question": "What is the man taking? Choices: walk, picture, watch, pee",
+        "predicted_answer": "picture",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image depicts a man standing outdoors holding what appears to be a camera or a similar device up to his eyes, suggesting he is using it to capture an image. Since he is holding something associated with taking photographs, \u201cpicture\u201d is the most appropriate choice. Thus, the answer is picture.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9976014252600199
+    },
+    {
+        "question_id": "491",
+        "question": "What are the riders about to do now? Choices: accelerate, compete, win, flip",
+        "predicted_answer": "flip",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows riders on their vehicles in a position that suggests they are about to engage in a stunt maneuver, as both vehicles are tilted upwards on their rear wheels. The scene does not depict a situation indicative of acceleration or competition, nor is there any sign of a race or competitive elements. The term \"win\" does not apply as there is no context of a victory or contest present. The position of the vehicles indicates they are more likely to execute a maneuver such as flipping. \n\nThus, the answer is 'flip'.",
+        "visual_fidelity": 0.75,
+        "contrastiveness": 0.963669241943523
+    },
+    {
+        "question_id": "319",
+        "question": "What family member in a household would this room most likely belong to? Choices: son, daughter, infant, grandparent",
+        "predicted_answer": "son",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The room is filled with elements that suggest a preference for video games, movies, and possibly superhero or horror themes. These interests are commonly associated with a teenage or young male. The presence of CDs, video game elements, and themed decorations aligns with stereotypical interests that might be more likely associated with a \"son.\"\n\nThus, the answer is son.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999997090138661
+    },
+    {
+        "question_id": "328",
+        "question": "What action is the woman probably getting ready to perform with her phone? Choices: browse, call, text, selfie",
+        "predicted_answer": "selfie",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The woman is holding the phone at arm's length and is facing the camera. This positioning is typical for taking a selfie, as it allows her to capture her own image effectively. The angle and focus suggest she is ready to capture an image of herself rather than engage in other phone activities like browsing, calling, or texting, which would typically require looking at the screen rather than holding the phone in this manner. \n\nThus, the answer is selfie.",
+        "visual_fidelity": 0.5,
+        "contrastiveness": 0.9999710528435958
+    },
+    {
+        "question_id": "149",
+        "question": "What does Fidelity specialize in? Choices: travel, insurance, investments, rentals",
+        "predicted_answer": "investments",
+        "prediction_is_correct": 1,
+        "generated_rationale": "Based on the image above, the sign reads \"Fidelity Investments.\" This indicates that Fidelity specializes in investments. There is no indication that Fidelity is related to travel, insurance, or rentals in the context shown.\n\nThus, the answer is investments.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999869867319139
+    },
+    {
+        "question_id": "255",
+        "question": "What is the number mentioned in the t shirt of the girl who is playing? Choices: 21, 13, 31 and, 51",
+        "predicted_answer": "21",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a girl playing soccer, and the number on her t-shirt is clearly visible. The number \"21\" is printed on the back of her shirt. By comparing the available choices, we can confirm that the number matches one of the options provided. \n\nThus, the answer is 21.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.1448608476916608
+    },
+    {
+        "question_id": "349",
+        "question": "What is the gray thing on the nearest motorcycle for? Choices: displaying wealth, rain protection, just aesthetics, heating food",
+        "predicted_answer": "rain protection",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The gray thing on the nearest motorcycle is a cover. Motorcycle covers are typically used to protect the motorcycle from external elements, such as rain and dust. Given the context and typical use of motorcycle covers, it is most likely for rain protection rather than displaying wealth, aesthetics, or heating food. \n\nThus, the answer is rain protection.",
+        "visual_fidelity": 0.6666666666666666,
+        "contrastiveness": 0.9999769487306175
+    },
+    {
+        "question_id": "140",
+        "question": "What vehicle is shown in the photo? Choices: airplane, bus, train, car",
+        "predicted_answer": "airplane",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a vehicle with wings, a cockpit, and features typical of an aircraft, such as a tail fin and landing gear components. Additionally, the markings on the vehicle suggest it is related to the military, as indicated by \"USAF,\" which stands for United States Air Force. These characteristics are consistent with an airplane rather than a bus, train, or car.\n\nThus, the answer is airplane.",
+        "visual_fidelity": 0.8,
+        "contrastiveness": 0.9999998070193523
+    },
+    {
+        "question_id": "229",
+        "question": "What is needed to control the large object? Choices: computer, battery, string, remote",
+        "predicted_answer": "string",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The large object in the image is a kite. To control a kite, a string is needed, as it allows the person to maneuver and stabilize the kite in the air by pulling or loosening it. Other options like a computer, battery, or remote are not typically used for controlling kites. \n\nThus, the answer is string.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9997968024208645
+    },
+    {
+        "question_id": "198",
+        "question": "What are the horses being used for? Choices: rodeo, transportation, racing, farming",
+        "predicted_answer": "farming",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a person standing alongside horses that are harnessed to equipment commonly used for plowing fields, which is indicative of agricultural work. This setup aligns with traditional farming activities where horses were widely used for tilling and preparing farmland. There are no signs of an arena or track that would suggest rodeo or racing, nor do the horses appear to be used for transportation as there is no carriage or cart visible. \n\nThus, the answer is farming.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9996553811521688
+    },
+    {
+        "question_id": "474",
+        "question": "What number is on the player that's fully visible? Choices: 11, five, 21, 22",
+        "predicted_answer": "21",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The player that is fully visible is sitting down facing away from the camera, allowing us to clearly see their jersey number. The jersey number is \"21.\"\n\nThus, the answer is 21.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.21042958433144246
+    },
+    {
+        "question_id": "481",
+        "question": "What is used to keep their balance? Choices: snow, swords, ski poles, knives",
+        "predicted_answer": "ski poles",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows individuals skiing on a snowy path. Skiers typically use ski poles to aid in keeping their balance while navigating uneven or sloped terrain. The presence of snow indicates the environment but doesn't serve the balance purpose. Swords and knives are not associated with skiing equipment. Thus, the most logical choice is ski poles.\n\nThus, the answer is ski poles.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.499819754980641
+    },
+    {
+        "question_id": "333",
+        "question": "The thing on the ceiling performs what function? Choices: heating, cooking, cleaning, cooling",
+        "predicted_answer": "cooling",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a ceiling fan, which is designed to circulate air in a room. This helps in maintaining a comfortable temperature by providing a cooling effect through air movement. Ceiling fans do not directly heat, cook, or clean, but they primarily serve the function of cooling by moving air to create a wind-chill effect. \n\nThus, the answer is cooling.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999892630116881
+    },
+    {
+        "question_id": "53",
+        "question": "This part of the house where is the girl is is called? Choices: dinning room, kitchen, sitting room, bedroom",
+        "predicted_answer": "bedroom",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a room with a bed, bedside tables, and lamps, which are typical elements found in a bedroom. The presence of these items suggests that the space is intended for sleeping and resting. Typically, dining rooms, kitchens, and sitting rooms do not contain beds as part of their standard furnishings. \n\nThus, the answer is bedroom.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9911604587845502
+    },
+    {
+        "question_id": "49",
+        "question": "Why would you sit at this table? Choices: to paint, medical treatment, to work, to eat",
+        "predicted_answer": "to eat",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a table set with food and drink items, such as a teapot, glasses, a plate of pastries, and some fruit. This setup is typically associated with dining or having a meal. The presence of food items and serving utensils strongly indicates this table is intended for eating, rather than activities like painting, medical treatment, or working.\n\nThus, the answer is to eat.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9998165060399217
+    },
+    {
+        "question_id": "14",
+        "question": "What flag is represented on the wall? Choices: english, moravian, american, french",
+        "predicted_answer": "american",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a flag with stars and stripes, which is characteristic of the American flag. The American flag is typically represented with a pattern of stars and stripes in red, white, and blue. The arrangement of stars in a blue field, and alternating red and white stripes is visible in the display case on the wall. This aligns with the traditional depiction of the American flag. \n\nThus, the answer is 'american'.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.4675646880328675
+    },
+    {
+        "question_id": "114",
+        "question": "What brand is the red truck? Choices: dodge, chevy, ford, toyota",
+        "predicted_answer": "dodge",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows the front of a red truck with the brand name \"Dodge\" clearly visible on the front grille. This matches with one of the provided choices.\n\nThus, the answer is dodge.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.35326996951897255
+    },
+    {
+        "question_id": "21",
+        "question": "What is the dog trying to catch? Choices: person, frisbee, kite, ball",
+        "predicted_answer": "frisbee",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The dog is looking upward with an attentive posture, indicating it is focused on an object above. The object the dog is staring at is round and flat, resembling a frisbee. The presence of a person holding a similar object suggests an activity like playing with a frisbee. The object is not a kite or a ball, as it doesn't match typical shapes for those items. \n\nThus, the answer is frisbee.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9998465300259035
+    },
+    {
+        "question_id": "69",
+        "question": "What is the skateboard balanced on? Choices: post, air, chain, ground",
+        "predicted_answer": "chain",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The skateboard in the image is positioned on a section of the chain that connects the posts. The skateboarder is performing a trick, and the middle of the skateboard is clearly balanced on this chain. Thus, the skateboard is not in the air, on a post, or on the ground.\n\nThus, the answer is 'chain'.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.99710493080938
+    },
+    {
+        "question_id": "190",
+        "question": "How did the animal on the car arrive there? Choices: horseback, uber, greyhound, flying",
+        "predicted_answer": "flying",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The animal shown is a bird, which has the capability to fly. Birds typically use their ability to fly to move from one location to another. The other options, such as horseback, Uber, and Greyhound, are not means by which a bird would typically travel. Thus, the logical choice for how the bird arrived on the car is by flying.\n\nThus, the answer is flying.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9969868407345659
+    },
+    {
+        "question_id": "468",
+        "question": "What is the first visible red word? Choices: fast, go, was, one",
+        "predicted_answer": "was",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a phrase displayed on a wall with visible red words. The first red word in the sequence is clearly identifiable and precedes the other red words. Based on the options provided: fast, go, was, one, the first red word is \"WAS.\"\n\nThus, the answer is \"was.\"",
+        "visual_fidelity": 0.6666666666666666,
+        "contrastiveness": 0.8879284899802303
+    },
+    {
+        "question_id": "0",
+        "question": "What is in the motorcyclist's mouth? Choices: toothpick, food, popsicle stick, cigarette",
+        "predicted_answer": "cigarette",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The object in the motorcyclist's mouth is slender and white, which is consistent with the appearance of a cigarette. Toothpicks are generally thinner and often wooden or clear, while popsicle sticks are wider and usually wooden. Food items would typically have a variable shape that doesn't match the uniform, slim line seen here. \n\nThus, the answer is cigarette.",
+        "visual_fidelity": 0.0,
+        "contrastiveness": 0.16468600315422366
+    },
+    {
+        "question_id": "398",
+        "question": "What type cruciferous vegetable is topping this pie? Choices: tomato, pepperoni, feta, broccoli",
+        "predicted_answer": "broccoli",
+        "prediction_is_correct": 1,
+        "generated_rationale": "Rationale: The question asks for a cruciferous vegetable topping the pie. Among the choices given\u2014tomato, pepperoni, feta, and broccoli\u2014broccoli is the only cruciferous vegetable. Tomatoes are fruits, pepperoni is a type of sausage, and feta is a cheese. Therefore, broccoli is the one that fits the category of cruciferous vegetables.\n\nThus, the answer is broccoli.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999957214954299
+    },
+    {
+        "question_id": "137",
+        "question": "What do the larger elephants still have intact? Choices: tusks, pythons, horns, antlers",
+        "predicted_answer": "tusks",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows two larger elephants with visible long protrusions on either side of their trunks, which are characteristic features of elephant tusks. Unlike the other options\u2014pythons, horns, and antlers\u2014none of these terms matches the biological features commonly associated with elephants. Tusks are elongated incisor teeth, and elephants are well-known for having them. \n\nThus, the answer is tusks.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9979754576166485
+    },
+    {
+        "question_id": "35",
+        "question": "What sport game is the man playing? Choices: wii boxing, wii baseball, wii football, wii tennis",
+        "predicted_answer": "wii boxing",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a man holding a Wii remote and standing in front of a television displaying a boxing match. The presence of boxing gloves and a ring on the screen strongly indicates that the sport being played is boxing. The man appears to be mimicking boxing motions, which are characteristic of playing Wii Boxing. \n\nThus, the answer is wii boxing.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999972188427216
+    },
+    {
+        "question_id": "431",
+        "question": "What color is in the center of the red flower? Choices: brown, black, yellow, white",
+        "predicted_answer": "white",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The center of the red flower on the cake decoration is visually prominent in the image. The part at the center of the flower is a distinct color compared to the red petals surrounding it. From the given options\u2014brown, black, yellow, white\u2014the color that matches the center is white. \n\nThus, the answer is white.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9798309399263605
+    },
+    {
+        "question_id": "98",
+        "question": "What is prohibited near the round road sign with a red cross on a blue background? Choices: parking, turning, speeding, waving",
+        "predicted_answer": "parking",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The round road sign with a red cross on a blue background is universally recognized as a \"no parking\" sign. This sign indicates that parking is prohibited where it is displayed. It does not typically relate to prohibitions on turning, speeding, or waving, which would have different signage.\n\nThus, the answer is parking.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.924159560869067
+    },
+    {
+        "question_id": "176",
+        "question": "What kind of a person usually eats food like this? Choices: obese, competitive eater, glutton, nutritionist",
+        "predicted_answer": "nutritionist",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The meal depicted in the image is composed of a variety of fruits, vegetables, and rice, representing a balanced and nutritious diet. This suggests a focus on health and variety, characteristics commonly associated with someone who is knowledgeable about nutrition and works to maintain a healthy diet. \n\nObese and glutton may imply overeating or unhealthy eating habits, which do not align with the image of a balanced and colorful meal. Competitive eaters often consume large quantities of food quickly, which does not match the portion and style presented in the image.\n\nThus, the answer is nutritionist.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9998050667919148
+    },
+    {
+        "question_id": "434",
+        "question": "The dishes appear to be sitting on what? Choices: table, ground, couch, stove",
+        "predicted_answer": "ground",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows dishes placed on a surface covered with leaves and dirt, which resembles outdoor ground conditions rather than a flat and smooth surface like a table, couch, or stove. The presence of natural elements such as leaves strongly suggests that the dishes are on the ground. \n\nThus, the answer is ground.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999629361951994
+    },
+    {
+        "question_id": "236",
+        "question": "What is the relationship of the people at the back to the man wearing an orange hat? Choices: students, family members, friends, customers",
+        "predicted_answer": "customers",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a man wearing an orange hat driving a horse-drawn carriage, with people seated behind him. This setup is typically associated with a carriage ride service, where the driver takes customers on a tour or ride. The seated individuals appear to be enjoying the ride and taking photos, which further suggests they might be customers experiencing an attraction or sightseeing. Thus, the relationship is likely transactional, consistent with a service experience.\n\nThus, the answer is customers.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9997127452875331
+    },
+    {
+        "question_id": "58",
+        "question": "What type of parking is available? Choices: truck, airplane, bicycle, rv",
+        "predicted_answer": "bicycle",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows bicycles parked in front of a building. There are bike racks where bicycles are secured, indicating that the type of parking available is for bicycles. There is no visible parking space or area for trucks, airplanes, or RVs in the image.\n\nThus, the answer is bicycle.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9998595834190754
+    },
+    {
+        "question_id": "456",
+        "question": "What can be done with this utensil? Choices: brush, stir, flip, cut",
+        "predicted_answer": "stir",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a pot filled with soup or stew being stirred with a wooden spoon. This type of utensil, a wooden spoon, is typically used for stirring ingredients, especially in a pot, to ensure even cooking and mixing of flavors. \n\nThus, the answer is stir.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9455336693775985
+    },
+    {
+        "question_id": "394",
+        "question": "What color is the pedestrian powered vehicle on the lot? Choices: green, red, yellow, black",
+        "predicted_answer": "green",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image displays a lineup of vehicles, among which there is a bicycle, known as a pedestrian-powered vehicle. The bicycle is clearly distinguishable by its different appearance and function compared to the motorized vehicles (motorcycles) in the image. Observing the color of this bicycle, it is a shade of green. \n\nThus, the answer is green.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.271755718258761
+    },
+    {
+        "question_id": "102",
+        "question": "What is the activity being performed? Choices: show performance, training horse, riding horse, feeding horse",
+        "predicted_answer": "show performance",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The person in the image is standing on a moving horse, which requires skill and balance, indicating a form of performance rather than typical riding or training. The context, such as an audience or a setting that appears staged, could suggest an event. This rules out feeding, as the horse is active and engaged in a more complex task. \n\nThus, the answer is show performance.",
+        "visual_fidelity": 0.6666666666666666,
+        "contrastiveness": 0.5758294650463843
+    },
+    {
+        "question_id": "143",
+        "question": "What is the train riding on? Choices: street, train tracks, clay, grass",
+        "predicted_answer": "train tracks",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a train on a surface that consists of metal rails fixed to sleepers, which is the typical setup for train tracks. This setup is designed for the specific purpose of supporting trains, unlike streets, clay, or grass, which do not function in the same way. Thus, the answer is 'train tracks'.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999162770437249
+    },
+    {
+        "question_id": "147",
+        "question": "What expression are these children making? Choices: confused, smiling, crying, angry",
+        "predicted_answer": "smiling",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The children in the image are showing facial expressions that indicate they are enjoying the activity they are engaged in, which is cooking. Their mouths are turned upwards, a common characteristic of a smiling expression, and there are no signs of tears, furrows in the brow, or tense facial muscles, which would indicate anger or confusion. Thus, the context and their facial expressions suggest they are happy.\n\nThus, the answer is smiling.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999985881266176
+    },
+    {
+        "question_id": "206",
+        "question": "Why is his arm up in the air? Choices: signal, balance, wave, reach",
+        "predicted_answer": "reach",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a tennis player on a court with his arm raised and a racket in hand, which is typical during a serve in tennis. This position is not usually associated with signaling, balancing, waving, or reaching outside the context of sports. The most relevant choice, considering the context of tennis, is reaching for a serve or a return shot. Tennis players often extend their arms upward to serve the ball, which requires reaching to hit the ball high above them.\n\nThus, the answer is reach.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9998894926803116
+    },
+    {
+        "question_id": "181",
+        "question": "How do these people know each other? Choices: coworkers, spouses, siblings, classmates",
+        "predicted_answer": "classmates",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a large group of children posed in several rows, typical of a school class photo. The setting looks formal with many children dressed similarly, which further suggests an organized group photo often taken in schools. The size and arrangement of the group align with a classroom setting rather than a workplace, family gathering, or event involving spouses. \n\nThus, the answer is classmates.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9846959079181057
+    },
+    {
+        "question_id": "31",
+        "question": "What is beside the person on the seat? Choices: white bag, food, paper bag, pillow",
+        "predicted_answer": "white bag",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The item beside the person on the seat is a bag that appears white in color. It closely resembles the size and shape typically observed with white plastic bags. There is no visible indication of food, a paper bag, or a pillow beside the person. \n\nThus, the answer is white bag.",
+        "visual_fidelity": 0.6,
+        "contrastiveness": 0.9999322019752799
+    },
+    {
+        "question_id": "41",
+        "question": "What room of the house is this man in? Choices: sitting room, dinning room, bathroom, bedroom",
+        "predicted_answer": "bathroom",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a man standing in front of a mirror with toiletries and grooming products visible on the shelves and a sink below, which are typical features of a bathroom. The presence of a toothbrush holder and a towel further supports this observation.\n\nThus, the answer is bathroom.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9998941499581783
+    },
+    {
+        "question_id": "97",
+        "question": "Where are these cats located? Choices: alley, home, vet, office",
+        "predicted_answer": "home",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a setting with furniture, a television, a framed picture, and a cat tree, all suggestive of a typical living room. Such details are indicative of a home environment as opposed to a more clinical or utilitarian setting like a vet's office. The presence of home-like features such as a couch and entertainment system supports the conclusion that this is a domestic space.\n\nThus, the answer is home.",
+        "visual_fidelity": 0.8333333333333334,
+        "contrastiveness": 0.999979026217101
+    },
+    {
+        "question_id": "111",
+        "question": "What kind of coating has been used? Choices: polish, frosting, paint, varnish",
+        "predicted_answer": "frosting",
+        "prediction_is_correct": 1,
+        "generated_rationale": "The image shows a box of donuts with various types of toppings. The term \"frosting\" is commonly used to describe the sugary coating often applied on desserts like donuts. Frosting can include the chocolate and glaze visible on these donuts. \"Polish,\" \"paint,\" and \"varnish\" are not relevant to food items like donuts and are more suitable for non-edible objects.\n\nThus, the answer is frosting.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999687134072945
+    },
+    {
+        "question_id": "2",
+        "question": "What best describes the pool of water? Choices: frozen, fresh, dirty, boiling",
+        "predicted_answer": "fresh",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The pool of water in the image appears to have a clear reflection of the surrounding environment, suggesting that it is not frozen or boiling. There is no visible steam or ice present. Additionally, there are no obvious signs of contamination or debris, which makes \"dirty\" an unlikely description. The clarity of the water and the natural setting suggest that it is best described as \"fresh.\"\n\nThus, the answer is fresh.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999918649701223
+    },
+    {
+        "question_id": "17",
+        "question": "What activity does the cat appear most likely to do? Choices: drink, jump, eat, sleep",
+        "predicted_answer": "drink",
+        "prediction_is_correct": 0,
+        "generated_rationale": "Based on the image, the cat is sitting near a food or water dish, indicating it might be interested in drinking or eating. However, since the bowl appears to be filled with water, the cat is more likely to be thinking about drinking. There are no visual cues present that suggest the cat is about to jump or sleep, such as raised haunches or a relaxed, reclining position. \n\nThus, the answer is 'drink'.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999527285732446
+    },
+    {
+        "question_id": "30",
+        "question": "Where are we at? Choices: fair, garage sale, street festival, flea market",
+        "predicted_answer": "flea market",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image shows a crowded outdoor setting with people walking and browsing various items. There are multiple stalls and vendors selling food and possibly other goods. This setup is typical of a flea market, where various vendors gather to sell a wide range of items in a lively, open-air environment. The presence of stalls, a variety of items for sale, and a bustling crowd distinguishes it from a garage sale or a street festival, which may not have such a structured market layout. \n\nThus, the answer is flea market.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.48756763089292493
+    },
+    {
+        "question_id": "52",
+        "question": "Is the man on the left platform going to board the train? Choices: yes, absolutely no, probably yes, probably no",
+        "predicted_answer": "probably yes",
+        "prediction_is_correct": 0,
+        "generated_rationale": "Based on the image, the man on the left platform is standing close to the train, which suggests he may be waiting to board. However, without additional context such as his actions or visible intentions, it is uncertain to conclude definitively whether he will board. His position and orientation might indicate a likelihood of boarding, but it cannot be concluded with certainty.\n\nThus, the answer is 'probably yes.'",
+        "visual_fidelity": 0.0,
+        "contrastiveness": 0.793805094422179
+    },
+    {
+        "question_id": "54",
+        "question": "They are likely having pizza at what kind of event? Choices: family, gaming, academic, social",
+        "predicted_answer": "social",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image shows a group of people gathered and eating pizza, which suggests a casual atmosphere. They are wearing nametags, indicating that they might not all know each other personally and could be attending a larger event. This setting is typical of social events where people come together to mingle and share food. The presence of pizza and the informal setting further suggest a social or networking type of gathering rather than a family, gaming, or academic one, where a more structured setting might be observed.\n\nThus, the answer is social.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999737638598519
+    },
+    {
+        "question_id": "72",
+        "question": "The name of the street is the same as the last name of what actress? Choices: eva mendes, jessica biel, eva green, jessica alba",
+        "predicted_answer": "eva green",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The street sign in the image shows the name \"Green.\" Among the choices provided, the actress with the last name \"Green\" is Eva Green. \n\nThus, the answer is Eva Green.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.8707088506480258
+    },
+    {
+        "question_id": "85",
+        "question": "What is the natural light streaming into the room through? Choices: door, lightbulb, clock, candle",
+        "predicted_answer": "clock'.",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image shows a room with a large window in the shape of a clock, allowing light to enter. This suggests that the source of the natural light is the clock, functioning as a window. The other choices (door, lightbulb, and candle) are either not shown or not typically associated with natural light streaming in. Thus, the answer is 'clock'.\n",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.499999843445223
+    },
+    {
+        "question_id": "124",
+        "question": "What is in the bottles? Choices: beer, liquer, water, juice",
+        "predicted_answer": "liquor",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The bottles in the image are dark and short, which is a common characteristic of bottles used for liquor, especially when served in miniatures like those often found on airplanes. The design and labeling further suggest a type of alcoholic beverage. Beer bottles are typically larger and have a different shape, while water and juice containers do not match the appearance seen here. \n\nThus, the answer is liquor.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.5462226296308303
+    },
+    {
+        "question_id": "126",
+        "question": "What theme park attraction are they most likely visiting? Choices: disney world, disneyland, universal studios, six flags",
+        "predicted_answer": ": disneyland",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image depicts a horse-drawn trolley with \u201cDisneyland\u201d clearly marked on it. Disneyland is one of the famous theme parks, located in California, and this specific attraction is a known feature of the park. The presence of Disneyland branding directly indicates the location.\n\nThus, the answer is: disneyland.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.49992562739334645
+    },
+    {
+        "question_id": "128",
+        "question": "The temperature outside is likely what range? Choices: below freezing, hot, cool, very humid",
+        "predicted_answer": "cool",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The individual in the image is wearing a jacket and a beanie, suggesting cooler weather. The ground appears green and not covered in frost or snow, indicating it is likely not below freezing. The field doesn't show signs of high heat stress on the grass or drought conditions. The attire and environment imply a cool temperature rather than very humid or hot conditions.\n\nThus, the answer is cool.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999947766633565
+    },
+    {
+        "question_id": "133",
+        "question": "What country headquarters this plane company? Choices: canada, japan, usa, uk",
+        "predicted_answer": "uk",
+        "prediction_is_correct": 0,
+        "generated_rationale": "Based on the image showing a Virgin Atlantic airplane, we know that Virgin Atlantic is an airline headquartered in the United Kingdom. The branding and the name of the airline are associated with the UK, where it was founded and primarily operates. \n\nThus, the answer is UK.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.999988191589526
+    },
+    {
+        "question_id": "139",
+        "question": "Which vehicle is closest to the rectangular blue sign? Choices: blue car, red bus, motorcycle, light car",
+        "predicted_answer": "light car",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The rectangular blue sign is visible in the image on the right side. Examining the vehicles in proximity to the sign, the light car appears to be the closest. The other vehicles such as the blue car, red bus, and motorcycle are either farther away or not adjacent to the sign. \n\nThus, the answer is light car.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999145761569936
+    },
+    {
+        "question_id": "153",
+        "question": "What are some of the zebras standing in in the middle of the photo? Choices: grass, water, mud, rocks",
+        "predicted_answer": "mud",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The zebras in the middle of the photo appear to be gathered around a small body of water, and the texture and appearance of the area suggests it is muddy. The presence of zebras standing directly in or near this patch indicates they're likely in mud. The choice of mud is further supported by the visual cues like the irregular surface texture and dark patches.\n\nThus, the answer is mud.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.618398308194894
+    },
+    {
+        "question_id": "156",
+        "question": "What is the dark colored car to the far left in the middle doing? Choices: turning left, turning right, parking, reversing",
+        "predicted_answer": "turning right",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The car in the image is positioned in such a way that it appears to be moving in the direction where the front of the vehicle is angled slightly away from the direction of oncoming traffic. This positioning and the presence of a crosswalk suggest that the car is in the process of executing a turn.\n\nAdditionally, the orientation of the car relative to the road indicates that it is not in reverse or being parked, as those actions would likely position the car differently. It is also possible that the car is beginning to turn right, as the image shows the vehicle oriented towards an intersection and the presence of a crosswalk, which is aligned with typical right-turn scenarios.\n\nThus, the answer is turning right.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.6746803404366203
+    },
+    {
+        "question_id": "158",
+        "question": "What is purpose of this wooden board? Choices: entertaining kids, decoration, street sign, advertisement",
+        "predicted_answer": "street sign",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The wooden board in the image features text that says \"Teddy Bear Tea Rooms Upstairs,\" which suggests it is directing people to a location. The board's message and imagery aim to attract attention from pedestrians and inform them about the tea room's location. This fulfills the function of guiding or providing directions, which is typical for a street sign. It is not primarily designed for decoration, entertaining kids, or advertisement purposes beyond indicating location.\n\nThus, the answer is street sign.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9981368169578797
+    },
+    {
+        "question_id": "167",
+        "question": "What appliance is unhooked and placed by the sink? Choices: dishwasher, stove/oven, trash compactor, icemaker",
+        "predicted_answer": "dishwasher",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The appliance that is unhooked and placed by the sink is identifiable by its typical characteristics. In the image, there is an appliance with an open front panel that is located next to the kitchen sink. This appearance is consistent with a dishwasher, which commonly features a front panel or door for loading dishes. The other listed appliances (stove/oven, trash compactor, icemaker) do not typically have this design or placement adjacent to a sink.\n\nThus, the answer is dishwasher.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999997266350691
+    },
+    {
+        "question_id": "178",
+        "question": "What pattern is on the bottom of the skateboard? Choices: zigzag, plaid, stripes, polka dots",
+        "predicted_answer": "zigzag",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The bottom of the skateboard shows a series of diagonal, angular lines that resemble a zigzag pattern. The design consists of alternating colors creating a dynamic and energetic visual. This aligns with the description of a zigzag pattern, which is characterized by V-shaped lines. \n\nThus, the answer is zigzag.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9395186273207712
+    },
+    {
+        "question_id": "201",
+        "question": "What property does the blue and green fence have? Choices: soft, hard, wet, hot",
+        "predicted_answer": "hard",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image depicts a skiing event, and the fence shown is typically made of a durable material to withstand impact during skiing activities. Given its function and the context of its use, the fence is most likely a solid structure rather than one that is soft, wet, or hot. These fences are designed to be sturdy and provide safety barriers, making hardness a necessary characteristic.\n\nThus, the answer is hard.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999111694304426
+    },
+    {
+        "question_id": "204",
+        "question": "What super hero is the cake based off? Choices: spiderman, batman, iron man, superman",
+        "predicted_answer": "superman",
+        "prediction_is_correct": 0,
+        "generated_rationale": "I select the answer based on the colors and emblem visible on the cake in the image. The cake is predominantly red with a yellow and blue design, which corresponds to Superman's iconic logo and color scheme\u2014red, yellow, and blue. \n\nThus, the answer is Superman.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.32767828907574326
+    },
+    {
+        "question_id": "227",
+        "question": "Given the position of the bat and ball the batter most likely? Choices: missed, fouled, popped up, grounded out",
+        "predicted_answer": "popped up",
+        "prediction_is_correct": 0,
+        "generated_rationale": "Based on the image, the batter appears to have made contact with the ball, given its position near the bat. The swing form and angle suggest that the ball is driven directly upward. This motion is commonly associated with a \"pop-up\", where the ball is hit high into the air without much distance horizontally. It does not appear to be a foul, missed, or a ground out based on the trajectory indicated.\n\nThus, the answer is \"popped up.\"",
+        "visual_fidelity": 0.3333333333333333,
+        "contrastiveness": 0.9998855952137262
+    },
+    {
+        "question_id": "228",
+        "question": "What industry is this man likely working in? Choices: travel, construction, medical, restaurant",
+        "predicted_answer": ": restaurant",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image shows a man in a setting that resembles a kitchen, as indicated by the presence of plates, a microwave, and other kitchen equipment. This environment is consistent with what you might find in a restaurant setting. The presence of these items suggests activities such as food preparation, which is typically associated with the restaurant industry.\n\nThus, the answer is: restaurant.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.4999999544123471
+    },
+    {
+        "question_id": "235",
+        "question": "What meal might be eaten at the time shown on the clock? Choices: supper, tea, breakfast, elevenses",
+        "predicted_answer": "supper",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The clock in the image shows 17:05, which is equivalent to 5:05 PM. In many cultures, this is a common time for evening meals. The traditional evening meals include supper or tea. Breakfast is typically eaten in the morning, and elevenses is a light snack taken around 11:00 AM. Therefore, based on the time 17:05, the appropriate meal from the choices provided is either supper or tea.\n\nThus, the answer is supper.",
+        "visual_fidelity": 0.5,
+        "contrastiveness": 0.9453823382954951
+    },
+    {
+        "question_id": "238",
+        "question": "How many different devices can show a picture? Choices: three, one, four, two",
+        "predicted_answer": "three",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image displays three different devices capable of showing a picture. These devices include a laptop, a monitor, and a smartphone. Each device has a screen and can be used to display images independently. \n\nThus, the answer is three.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9486861364222399
+    },
+    {
+        "question_id": "249",
+        "question": "Which flavor most closely describes the bright yellow stuff? Choices: bland, meaty, sweet, cheesy",
+        "predicted_answer": "cheesy",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The bright yellow substance shown in the image is typically mustard, a common condiment used on hot dogs. Mustard has a tangy and slightly sharp flavor, which might be perceived as being distinct and noticeable. Among the flavor options given, \"bland,\" \"meaty,\" \"sweet,\" and \"cheesy,\" none perfectly describe mustard. However, it is neither bland, meaty, nor cheesy. Mustard is often associated with a tangy flavor, which may not fit perfectly with any choice. Given that no choice strictly aligns, we might tentatively infer \"cheesy\" due to its occasional use in similar contexts or appearance in specific types.\n\nThus, the answer is \"cheesy.\"",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9003721082162239
+    },
+    {
+        "question_id": "251",
+        "question": "What is the name of the sport the man is participating in? Choices: waterboarding, sailboating, waterskiing, skateboarding",
+        "predicted_answer": "waterskiing",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image shows a man gliding over water while holding onto a cable, which suggests he is on a wakeboard or something similar. Waterboarding is not a sport but often referred to in a completely different context. Sailboating involves sailing a boat, which does not match the activity here. Skateboarding is performed on solid ground with a skateboard. The depicted sport is waterskiing, which involves being pulled over water by a boat or cable while standing on a board. The presence of other elements, like the obstacle the man is maneuvering over, indicates a setting more consistent with wakeboarding rather than traditional waterskiing, but given the choices provided, waterskiing is the closest match.\n\nThus, the answer is waterskiing.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9962973143839722
+    },
+    {
+        "question_id": "262",
+        "question": "What is the rectangular object in the back left used to do? Choices: blend food, watch tv, store bread, cook food",
+        "predicted_answer": "cook food",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The rectangular object in the back left of the image looks like a microwave oven. Microwaves are typically used to heat or cook food. The other options, such as blending food or storing bread, are not functions usually associated with a microwave. Watching TV is also not relevant to a microwave's purpose.\n\nThus, the answer is cook food.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.99980043826544
+    },
+    {
+        "question_id": "267",
+        "question": "How many vehicles have their lights on? Choices: three, one, none, two",
+        "predicted_answer": "one",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image shows a road with two visible vehicles. The vehicle closer to the camera has its headlights switched on, while the lights of the more distant vehicle are not visible, making the assumption that its lights might be off. The visible indication from the closer vehicle confirms at least one vehicle with lights on.\n\nThus, the answer is one.",
+        "visual_fidelity": 0.5,
+        "contrastiveness": 0.9340263631101461
+    },
+    {
+        "question_id": "284",
+        "question": "How would you cut the vegetables? Choices: fork, knife, hands, peeler",
+        "predicted_answer": "knife",
+        "prediction_is_correct": 0,
+        "generated_rationale": "To cut vegetables efficiently and accurately, a knife is typically used as it is designed for slicing and dicing. A fork is primarily used for holding food in place, a peeler is for removing the outer skin, and using hands would not provide the precision needed for cutting.\n\nThus, the answer is knife.",
+        "visual_fidelity": 0.0,
+        "contrastiveness": 0.9998990084966534
+    },
+    {
+        "question_id": "285",
+        "question": "Is the man going to the mountain in the background? Choices: absolutely no, yes, absolutely yes, probably yes",
+        "predicted_answer": "probably yes",
+        "prediction_is_correct": 0,
+        "generated_rationale": "Based on the image, the man is sitting in the back of a vehicle with an open road behind him leading towards the mountains in the background. This suggests that he might be traveling towards the mountains, but it is not certain. The presence of luggage may imply that he is on a trip, possibly to the mountains. However, without explicit evidence, it is hard to be completely sure. Thus, the most reasonable choice given the visual clues is that he is likely heading towards the mountains. \n\nThus, the answer is probably yes.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.5077663522219276
+    },
+    {
+        "question_id": "291",
+        "question": "Whos is sitting in the chair? Choices: man, girl man, no one, girl",
+        "predicted_answer": "man",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image shows a man sitting in a chair, with a girl sitting on his lap. Therefore, the person sitting directly in the chair is the man, while the girl is sitting on him. \n\nThus, the answer is \"man.\"",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9729115925730737
+    },
+    {
+        "question_id": "293",
+        "question": "How many buses are shown in the streets? Choices: two, one, three, four",
+        "predicted_answer": "one",
+        "prediction_is_correct": 0,
+        "generated_rationale": "To determine how many buses are shown in the streets, I closely examined the image for visible buses. Upon inspection, I identified one bus on the street. There are no additional buses visible in the scene. \n\nThus, the answer is 'one'.",
+        "visual_fidelity": 0.5,
+        "contrastiveness": 0.9990233609830161
+    },
+    {
+        "question_id": "305",
+        "question": "How many skateboards are in the picture? Choices: four, six, three, five",
+        "predicted_answer": "not among the provided choices",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The picture shows one skateboard being used by the person performing a trick and another skateboard resting on the ground. Therefore, a total of two skateboards are visible in the image. None of the given options match this count.\n\nThus, the answer is not among the provided choices.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9956711032706191
+    },
+    {
+        "question_id": "306",
+        "question": "What does the electric street sign say? Choices: proceed, don't walk, yield, walk",
+        "predicted_answer": "walk",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The electric street sign visible in the image indicates the instruction for pedestrians at the crosswalk. The sign clearly displays the word \"walk,\" which signals that it is safe for pedestrians to cross the street.\n\nThus, the answer is \"walk.\"",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.42154617718670445
+    },
+    {
+        "question_id": "316",
+        "question": "The most abundant cake has a topping with which color? Choices: black, magenta, white, blue",
+        "predicted_answer": "blue",
+        "prediction_is_correct": 0,
+        "generated_rationale": "Based on the image, the most abundant cakes are the cupcakes that have a mix of toppings, primarily featuring a combination of blue and magenta colors. The number of these cupcakes is greater compared to the single large cake with white topping. Thus, the most numerous cakes in view have a substantial amount of blue.\n\nThus, the answer is blue.",
+        "visual_fidelity": 0.6666666666666666,
+        "contrastiveness": 0.0005117654433613802
+    },
+    {
+        "question_id": "323",
+        "question": "The piece of clothing the woman in the picture is wearing on her hands normally serves what purpose? Choices: fashion, prevention, cure, protection",
+        "predicted_answer": "protection",
+        "prediction_is_correct": 0,
+        "generated_rationale": "Rationale: The woman in the picture appears to be wearing gloves on her hands. Gloves typically serve to protect the hands, especially in certain activities like motorcycling, which is depicted here. Gloves can protect against weather conditions, abrasions, and other potential hazards.\n\nThus, the answer is protection.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.555125787588191
+    },
+    {
+        "question_id": "325",
+        "question": "What police force does the police car behind the truck belong to probably? Choices: detroit, new york, baltimore, washington dc",
+        "predicted_answer": ": new york",
+        "prediction_is_correct": 0,
+        "generated_rationale": "Based on the image, the bus in front of the police car bears the logo and markings that are typical of the Metropolitan Transportation Authority (MTA), which operates in New York City. This suggests a New York City location, and thus, it is likely that the police car belongs to the New York police force. The presence of the MTA bus is a strong indicator of the city, as the MTA is specific to New York. \n\nThus, the answer is: new york.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.4999658791886434
+    },
+    {
+        "question_id": "330",
+        "question": "What sort of surface/substance does the conveyance with a problem here move upon? Choices: sea, sky, rail, road",
+        "predicted_answer": "sea",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image shows a group of people working on a vehicle with an open hood, which suggests there might be a problem with that vehicle. Behind them, a boat is visible. Boats typically move on the sea, not the sky, rail, or road. Therefore, even though the immediate issue seems to be with the vehicle, the context of the conveyance related to the problem is associated with the sea because of the presence of the boat.\n\nThus, the answer is sea.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.961786564964272
+    },
+    {
+        "question_id": "340",
+        "question": "What is the most likely material of the floor? Choices: terra cotta, marble, porcelain, vinyl",
+        "predicted_answer": "terra cotta",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The floor in the image has a matte finish with earthy, natural tones, which are characteristics commonly associated with terra cotta. Terra cotta tiles are often used in rustic or natural settings, like the wooden interior in the picture. Marble usually has a more polished, reflective surface, which is not seen here. Porcelain can mimic many materials, but it's typically more uniform and less rustic-looking than terra cotta. Vinyl is diverse in appearance but often looks synthetic, which doesn't match the natural feel of the floor in the image.\n\nThus, the answer is terra cotta.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999201160021403
+    },
+    {
+        "question_id": "342",
+        "question": "Where is the horse? Choices: farm, city street, ranch, parade",
+        "predicted_answer": "farm",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image shows a horse in an open field with a fenced area and other farm animals, suggesting a rural environment. The backdrop includes expansive grassy land and mountains, typically characteristic of a rural farm or ranch setting. The presence of fencing and multiple animals is more commonly found on a farm or ranch rather than a city street, parade, or other urban environments.\n\nThus, the answer is 'farm'.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.3314707842993767
+    },
+    {
+        "question_id": "356",
+        "question": "What hour is shown on the clock? Choices: eleven, nine, eight, ten",
+        "predicted_answer": "nine",
+        "prediction_is_correct": 0,
+        "generated_rationale": "Based on the image, the clock displays the hour hand pointing slightly before the 9, indicating the hour is close to 9. None of the other choices (eleven, eight, or ten) align with the position of the hour hand. Thus, the answer is nine.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9978284343321722
+    },
+    {
+        "question_id": "367",
+        "question": "What countries flag can be seen near the front of the classroom? Choices: germany, italy, united kingdom, united states",
+        "predicted_answer": "the united states",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The flag near the front of the classroom has horizontal red and white stripes with a blue field containing white stars. This design matches the flag of the United States. Other options such as the United Kingdom, Germany, and Italy have distinct flag designs that do not match the flag visible in the image.\n\nThus, the answer is the United States.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.49998609455017917
+    },
+    {
+        "question_id": "368",
+        "question": "What city is this shopping center in? Choices: los angeles, stroud uk, paris, karachi",
+        "predicted_answer": "stroud, uk",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The shopping center in the image is called \"Merrywalks.\" This name is known to be associated with a shopping center in Stroud, UK. The architectural style and signage language also suggest a location in the UK rather than Los Angeles, Paris, or Karachi. Thus, the answer is Stroud, UK.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.49999014993722857
+    },
+    {
+        "question_id": "376",
+        "question": "How many rooms/areas in the house are immediately visible in the photo? Choices: three, four, one, two",
+        "predicted_answer": "four",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The photo shows an open space combining distinct functional areas: a kitchen with visible counters and sink, a living area with a couch and chairs, and a dining area with a table. These connected spaces can be considered as different rooms or areas based on their functionalities. \n\nThus, the answer is four.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.12074900478958858
+    },
+    {
+        "question_id": "377",
+        "question": "Which skier is going fastest? Choices: sitting, right, left, middle",
+        "predicted_answer": "sitting",
+        "prediction_is_correct": 0,
+        "generated_rationale": "To determine which skier is going fastest, we should consider their body positions and the slope's steepness. The skier sitting on the slope is likely sliding down as they aren't upright, indicating they might be moving faster due to less resistance and more reliance on gravity, compared to those standing who might be controlling their speed.\n\nThus, the answer is 'sitting'.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.5259671717767528
+    },
+    {
+        "question_id": "392",
+        "question": "Where is the most likely location for this bar? Choices: school, house, restaurant, office",
+        "predicted_answer": "restaurant",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image shows a bar setup with alcohol bottles and the word \"PUB\" prominently displayed. This setup, along with the specific reference to a \"pub,\" aligns most closely with a commercial setting where drinks are typically served, such as a restaurant. Pubs are commonly part of restaurants or similar establishments that serve drinks and food to patrons. \n\nThus, the answer is restaurant.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.9999975752239011
+    },
+    {
+        "question_id": "406",
+        "question": "What is the woman's job called? Choices: jumper, jockey, rider, equestrianism",
+        "predicted_answer": "unknown based on the given choices",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image shows a woman riding a horse and jumping over an obstacle. The question relates to her profession. The term \"jumper\" typically refers to the act of jumping but is not a job title. \"Equestrianism\" is a broader term for the skill or sport involving horses, rather than a job title. A \"rider\" is a general term for someone who rides a horse, but it is not specifically a professional job title in certain sports. A \"jockey\" is a professional rider in horse racing, but they usually ride in flat races, not in events involving jumps like the one shown. Therefore, considering the context of equestrian sports involving jumps, the precise job title is not provided. \n\nThus, the answer is unknown based on the given choices.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.7218256255331305
+    },
+    {
+        "question_id": "410",
+        "question": "What profession might this man work as? Choices: politician, bartender, sherriff, librarian",
+        "predicted_answer": "sheriff",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The man in the image is dressed in attire reminiscent of the Old West, and he is standing beside a horse in a setting that looks like a historical western town. This type of setting and outfit is typically associated with roles like a sheriff in historical or reenactment contexts. The presence of a gun holster and the setting further align with the image of a sheriff.\n\nThus, the answer is sheriff.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.4037160854200365
+    },
+    {
+        "question_id": "448",
+        "question": "What are the people doing in the water? Choices: surfing, fishing, kayaking, swimming",
+        "predicted_answer": "swimming",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image shows a group of people in a narrow boat, which is indicative of rowing activity. Rowing involves using oars to propel a boat through the water and is commonly done in a long, narrow craft, similar to what is shown. Surfing, fishing, kayaking, and swimming do not typically involve what is seen in the image. Surfing involves riding waves, fishing usually requires rods or nets, kayaking involves individual or tandem small boats, and swimming is done without any watercraft. Thus, the image most closely aligns with an activity similar to rowing rather than the given options.\n\nThus, the answer is swimming.",
+        "visual_fidelity": 1.0,
+        "contrastiveness": 0.8069582267193384
+    },
+    {
+        "question_id": "460",
+        "question": "How many people are visible in the water? Choices: five, six, two, seven",
+        "predicted_answer": "six",
+        "prediction_is_correct": 0,
+        "generated_rationale": "The image shows multiple people in the water riding waves. Upon close observation, I can count six distinct individuals visible among the waves. Each person is either sitting or paddling on a surfboard. \n\nThus, the answer is six.",
+        "visual_fidelity": 0.6666666666666666,
+        "contrastiveness": 0.37187402654051216
+    }
+]

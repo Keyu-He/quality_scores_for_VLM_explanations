@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "151",
+    "question": "What is the green box near the red stapler on the desk used to hold? Choices: tissues, pins, pens, pencils",
+    "predicted_answer": "pens",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The green box near the red stapler on the desk is most likely used to hold pens. The reasoning behind this answer is that pens are commonly used in an office setting, and the green box provides a convenient and organized way to store them. Additionally, the box's proximity to the stapler suggests that both items are frequently used together, further supporting the idea that the box is used to hold pens.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3265985497836717,
+    "reason_vf_correct": "<br> - There is a green box near the red stapler on the desk.<br> - The green box is positioned in a way that suggests it is used for organizing items.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "pencils"
+  },
+  {
+    "question_id": "14",
+    "question": "What flag is represented on the wall? Choices: english, moravian, american, french",
+    "predicted_answer": "american",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the American flag is prominently displayed on the wall in the image. The presence of the American flag suggests that the event or gathering taking place is related to the United States or its military. The other flags, such as the Moravian flag or the French flag, are less likely to be present in this context.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999940287197194,
+    "reason_vf_correct": "<br> - The American flag is prominently displayed on the wall in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "128",
+    "question": "The temperature outside is likely what range? Choices: below freezing, hot, cool, very humid",
+    "predicted_answer": "cool",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The temperature outside is likely to be cool, as the man is wearing a jacket while riding the horse. This suggests that the weather is not too hot or too cold, but rather a moderate temperature suitable for outdoor activities like horseback riding. The presence of the jacket indicates that the man is dressed appropriately for the conditions, which further supports the notion that the temperature is in the cool range.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9975606600467676,
+    "reason_vf_correct": "<br> - The man is wearing a jacket while riding the horse.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "282",
+    "question": "What is the closest item providing light? Choices: lamp, flashlight, candle, lantern",
+    "predicted_answer": "candle",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The closest item providing light in the image is a lit candle. The candle is placed on the dining table, surrounded by wine glasses, cups, and other tableware. The candle's light illuminates the table setting, creating a warm and inviting atmosphere for the dinner guests. The other options, such as a lamp, flashlight, or lantern, are not present in the scene, making the candle the most appropriate source of light in this context.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.999514595055548,
+    "reason_vf_correct": "<br> - There is a lit candle on the dining table.<br> - The candle is surrounded by wine glasses, cups, and other tableware.",
+    "reason_vf_incorrect": "<br> - There are no lamps, flashlights, or lanterns present in the scene.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "290",
+    "question": "What season of the year is shown here? Choices: early summer, fall-winter, summer, late spring",
+    "predicted_answer": "late spring",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is the presence of a clock tower in the image. Clock towers are typically associated with late spring or early summer, as they are often used as landmarks to mark the end of winter and the beginning of warmer weather. Additionally, the presence of a bicycle in the image suggests that it might be a pleasant day for outdoor activities, further supporting the idea that the image was taken during late spring or early summer.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0188902191122684,
+    "reason_vf_correct": "<br> - There is a clock tower visible in the image.<br> - There is a bicycle present in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "early summer, summer"
+  },
+  {
+    "question_id": "308",
+    "question": "In what type of location are they playing with the body board? Choices: room, beach, park, store",
+    "predicted_answer": "room",
+    "prediction_is_correct": 1,
+    "generated_rationale": "They are playing with the body board in a room, not on a beach, park, or store. The presence of a bed in the image suggests that they are indoors rather than in an outdoor setting.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999257700706276,
+    "reason_vf_correct": "<br> - They are playing with the body board indoors.",
+    "reason_vf_incorrect": "<br> - There is a bed visible in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "200",
+    "question": "What is the woman using the umbrella to protect herself from? Choices: rain, wind, sun, snow",
+    "predicted_answer": "sun",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The woman is using the umbrella to protect herself from the sun. The umbrella provides shade and helps shield her from the sun's harmful UV rays, which can cause sunburn, premature aging, and increase the risk of skin cancer. By using the umbrella, the woman is taking precautions to protect her skin and overall health from the sun's harmful effects.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9999441347030932,
+    "reason_vf_correct": "<br> - The woman is using an umbrella in the image.<br> - The umbrella is providing shade for the woman.",
+    "reason_vf_incorrect": "<br> - The sun is visible in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "317",
+    "question": "What animals are in the field? Choices: zebra, lion, cheetah, tiger",
+    "predicted_answer": "zebra",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The animals in the field are zebras, not lions, cheetahs, or tigers. In the image, there is a herd of zebras standing and grazing in a grassy field. Zebras are known for their distinctive black and white striped coats, and they are commonly found in grasslands and savannas. The presence of zebras in the field is consistent with their natural habitat and behavior. On the other hand, lions, cheetahs, and tigers are carnivorous predators and are not typically found grazing in grassy fields.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9998848695111864,
+    "reason_vf_correct": "<br> - There are zebras in the field.<br> - The zebras are standing and grazing in a grassy field.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "67",
+    "question": "What vehicle is closest to the security guard? Choices: silver car, two-wheeler, bluecar, dark car",
+    "predicted_answer": "silver car",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The silver car is the closest vehicle to the security guard. The reasoning behind this answer is that the security guard is sitting on a brick wall, and the silver car is parked in front of him. The other vehicles, such as the two-wheeler, blue car, and dark car, are not as close to the security guard as the silver car. Therefore, the silver car is the closest vehicle to the security guard.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999677022244196,
+    "reason_vf_correct": "<br> - The security guard is sitting on a brick wall.<br> - There is a silver car parked in front of the security guard.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "382",
+    "question": "What area of the baseball field are the players almost colliding over as one blocks the other most likely? Choices: batter's box, home plate, catcher's box, pitcher's mound",
+    "predicted_answer": "catcher's box",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The players are almost colliding over as one blocks the other most likely in the catcher's box area of the baseball field. This is because the catcher's box is the area where the catcher and the umpire stand behind the home plate, and it is where the catcher receives the pitches thrown by the pitcher. In this situation, the catcher is trying to catch the ball, while the other player is trying to avoid being tagged out. The catcher's box is a crucial part of the field where a lot of action takes place, and it is common for players to be in close proximity to each other in this area.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.6122559344179337,
+    "reason_vf_correct": "<br> - The players are almost colliding in the catcher's box area of the baseball field.<br> - One player is blocking the other in the catcher's box area.",
+    "reason_vf_incorrect": "<br> - The catcher is trying to catch the ball in the image.",
+    "reason_contr": "home plate"
+  }
+]

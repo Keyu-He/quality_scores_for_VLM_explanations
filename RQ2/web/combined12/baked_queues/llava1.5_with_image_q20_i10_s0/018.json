@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "316",
+    "question": "The most abundant cake has a topping with which color? Choices: black, magenta, white, blue",
+    "predicted_answer": "blue",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The most abundant cake has a topping with the color blue. This is because there are many cupcakes with blue frosting on the table. In the image, there are at least 13 cupcakes with blue frosting, making it the most prevalent color among the cakes. The other colors, such as white, magenta, and black, are not as abundant as the blue frosting on the cupcakes.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9985546992894894,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There are at least 13 cupcakes with blue frosting on the table.<br> - Blue is the most prevalent color among the cake toppings in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "144",
+    "question": "What is the man taking? Choices: walk, picture, watch, pee",
+    "predicted_answer": "picture",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The man is taking a picture, as indicated by the presence of a camera in the image. He is not taking a walk, watching, or peeing, but rather capturing a moment with his camera. The reasoning behind this answer is based on the visual content of the image, which clearly shows the man holding a camera and pointing it at something, suggesting that he is in the process of taking a photograph.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.989494144440048,
+    "reason_vf_correct": "<br> - The man is holding a camera in the image.<br> - The man is pointing the camera at something.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "145",
+    "question": "What item is on the bottom shelf near the TV? Choices: cars, pictures, swords, speakers",
+    "predicted_answer": "cars",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The item on the bottom shelf near the TV is cars. The reasoning behind this answer is that there is a collection of toy cars displayed on the shelf, which is a common decorative item in a living room setting. The presence of these cars suggests that the room's occupants might have an interest in automobiles or simply enjoy collecting toy cars as a hobby.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.999796302577912,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There are toy cars displayed on the bottom shelf near the TV.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "367",
+    "question": "What countries flag can be seen near the front of the classroom? Choices: germany, italy, united kingdom, united states",
+    "predicted_answer": "united states",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the United States flag can be seen near the front of the classroom. This suggests that the classroom is located in the United States or is part of an American educational institution.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999547672134051,
+    "reason_vf_correct": "<br> - The United States flag is visible near the front of the classroom.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "169",
+    "question": "Which body part of the cow could you look at to find out which identity and/or owner the cow has? Choices: ear, foot, rump, knee",
+    "predicted_answer": "ear",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The ear of a cow can provide information about its identity and/or owner. Each cow has a unique set of ear tags, which are used to identify individual animals within a herd. These tags typically have numbers, letters, or a combination of both, and are used by farmers and ranchers to keep track of their livestock. By looking at the ear of the cow in the image, one can potentially identify its owner or the farm it belongs to.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9629844117080524,
+    "reason_vf_correct": "<br> - The cow has ear tags.",
+    "reason_vf_incorrect": "<br> - There are numbers or letters on the cow's ear tags.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "34",
+    "question": "The visible bottles most likely contain what kind of items? Choices: body wash, shampoo conditioner, lotions, mouthwash",
+    "predicted_answer": "lotions",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The visible bottles in the bathroom most likely contain lotions, as they are commonly used for personal care and hygiene purposes. Body wash, shampoo conditioner, and mouthwash are less likely to be found in a bathroom setting. Lotions are typically used for moisturizing and nourishing the skin, while body wash, shampoo conditioner, and mouthwash are more likely to be found in other areas of the home, such as the kitchen or laundry room.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999503983015696,
+    "reason_vf_correct": "<br> - The bottles are located in a bathroom setting.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "431",
+    "question": "What color is in the center of the red flower? Choices: brown, black, yellow, white",
+    "predicted_answer": "brown",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The center of the red flower on the cake is brown. The reasoning behind this answer is that the cake is decorated with a red heart-shaped flower, and the center of the flower is brown. This indicates that the cake is likely a celebration cake, such as a birthday or anniversary cake, and the red heart-shaped flower serves as a decorative element to make the cake more visually appealing and festive. The brown center of the flower adds a contrasting color to the red petals, enhancing the overall aesthetic of the cake.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0686934574255179,
+    "reason_vf_correct": "<br> - The flower on the cake is red and heart-shaped.<br> - The center of the red flower on the cake is brown.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "black, yellow, white"
+  },
+  {
+    "question_id": "299",
+    "question": "What material is the squared off building in the background made from? Choices: steel, glass, wood, clay",
+    "predicted_answer": "wood",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The building in the background is made of wood. This can be inferred from the fact that it is described as a squared off building, which is a common architectural feature of wooden structures. Additionally, wooden buildings often have a more rustic appearance compared to those made of steel, glass, or clay, which further supports the conclusion that the building is made of wood.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999941900032252,
+    "reason_vf_correct": "<br> - The building in the background is squared off.<br> - The building in the background has a rustic appearance.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "217",
+    "question": "These horses are used for what? Choices: breeding, plowing, racing, show",
+    "predicted_answer": "plowing",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The horses in the image are being used for plowing. This is evident from the fact that they are harnessed to a plow, which is a tool used for tilling the soil in preparation for planting crops. Horses have been historically used for plowing due to their strength and ability to pull heavy loads. In modern times, tractors and other machinery have largely replaced horses for plowing, but in some rural areas, horses are still used for this purpose.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999998697878512,
+    "reason_vf_correct": "<br> - The horses are harnessed to a plow in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "117",
+    "question": "What limits forward navigation? Choices: traffic warden, road accident, red light, bad weather",
+    "predicted_answer": "red light",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The red light limits forward navigation because it indicates that vehicles must come to a complete stop before proceeding. This ensures the safety of all road users, including pedestrians and cyclists, by preventing collisions and maintaining an orderly flow of traffic. In the image, two men on bicycles are stopped at a red light, waiting for the signal to change before they can continue their journey safely.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9855536816292048,
+    "reason_vf_correct": "<br> - Two men on bicycles are stopped at a red light in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

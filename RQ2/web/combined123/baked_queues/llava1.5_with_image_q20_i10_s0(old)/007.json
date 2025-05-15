@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "310",
+    "question": "Which fruit can hurt your eyes if you peel it holding your face too close to it? Choices: banana, pear, orange, mango",
+    "predicted_answer": "Banana",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The fruit that can hurt your eyes if you peel it holding your face too close to it is the banana. This is because the peel of a banana contains a chemical called tropane alkaloid, which can cause irritation and discomfort when it comes into contact with the eyes. The other fruits, such as pear, orange, and mango, do not contain this chemical and are not likely to cause any harm when peeled and held close to the eyes.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.999133426820881
+  },
+  {
+    "question_id": "335",
+    "question": "How many lights are visible in the room? Choices: two, three, five, six",
+    "predicted_answer": "Two",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that there are two lamps visible in the room. One lamp is located on the left side of the room, and the other lamp is located on the right side of the room. These two lamps provide sufficient lighting for the room.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.998549083982076
+  },
+  {
+    "question_id": "179",
+    "question": "How many drinkers are sucking down their beverages? Choices: three, two, none, one",
+    "predicted_answer": "Two",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that there are two drinkers visible in the image. One person is drinking from a cup on the left side of the table, and another person is drinking from a cup on the right side of the table. There are no other drinkers visible in the image.",
+    "visual_fidelity": 0.3333333333333333,
+    "contrastiveness": 0.7263002292078623
+  },
+  {
+    "question_id": "92",
+    "question": "Why do the cattle have their heads down to the ground? Choices: to eat, to drink, to play, to sleep",
+    "predicted_answer": "To eat",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The cattle have their heads down to the ground because they are eating. In the image, there is a pile of hay on the ground, which the cattle are consuming. This is a natural behavior for cows, as they spend a significant portion of their day eating to maintain their energy levels and overall health.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.99994940934178
+  },
+  {
+    "question_id": "411",
+    "question": "Which location here fries snacks on site? Choices: dunkin coffee, pizza shop, party store, cheese monger",
+    "predicted_answer": "Party store",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The location that fries snacks on site is the party store. This can be inferred from the presence of a fryer in the image, which is typically used for frying snacks. The other locations, such as Dunkin Coffee, pizza shop, and cheese monger, do not typically fry snacks on site.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9999982919697825
+  },
+  {
+    "question_id": "77",
+    "question": "What is being made by the man? Choices: bow, kite, flag, anchor",
+    "predicted_answer": "Kite",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The man in the image is making a kite. This can be inferred from the fact that he is sitting on the floor and working on a piece of fabric, which is likely to be the kite's sail. Kites are typically made from lightweight materials such as paper, fabric, or plastic, and they are designed to catch the wind and stay airborne. The process of making a kite typically involves cutting the sail to the desired shape, attaching the sail to a frame or spine, and adding a tail to stabilize the kite in the air. In this case, the man is in the process of assembling the kite, which is why he is sitting on the floor and working on the fabric.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.9996936231960507
+  },
+  {
+    "question_id": "471",
+    "question": "What type of dog is it? Choices: farm dog, service dog, domestic pet, stray dog",
+    "predicted_answer": "Domestic pet",
+    "prediction_is_correct": 1,
+    "generated_rationale": "Based on the image, the dog appears to be well-groomed and is wearing a collar, which suggests that it is a domestic pet rather than a farm dog, service dog, or stray dog. Domestic pets are typically cared for by their owners and are more likely to be well-groomed and well-behaved compared to other types of dogs. Additionally, the fact that the dog is posing for the camera indicates that it is accustomed to human interaction, further supporting the idea that it is a domestic pet rather than a farm dog, service dog, or stray dog.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999848094854986
+  },
+  {
+    "question_id": "177",
+    "question": "Which person would be the coldest? Choices: left, middle, right, none",
+    "predicted_answer": "Middle",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The person who would be the coldest would be the one sitting in the middle of the red bench. This is because they are the furthest away from the body of water, which provides a natural source of warmth. In contrast, the person on the left side of the bench is closer to the water, and the person on the right side is also relatively close to the water. Therefore, the person in the middle of the bench would be the coldest due to their distance from the water source.",
+    "visual_fidelity": 0.6,
+    "contrastiveness": 0.9956151011456275
+  },
+  {
+    "question_id": "240",
+    "question": "What type of dinnerware do the people seem to be using? Choices: porcelain, wooden, steel, disposable",
+    "predicted_answer": "Porcelain",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The people in the image seem to be using porcelain dinnerware, as evidenced by the presence of multiple wine glasses and cups on the dining table. Porcelain dinnerware is known for its durability, elegance, and resistance to chipping or cracking, making it a popular choice for formal dining events or gatherings with friends and family. The use of porcelain dinnerware suggests that the people in the image are enjoying a more refined and sophisticated dining experience.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9991928949435543
+  },
+  {
+    "question_id": "42",
+    "question": "What is likely in front of the rug? Choices: refrigerator, pantry, washing machine, sink",
+    "predicted_answer": "refrigerator",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The most likely appliance in front of the rug is the refrigerator. This is because the refrigerator is a large appliance that is commonly found in kitchens, and it is typically placed in a location where it can be easily accessed while cooking or preparing meals. The other options, such as the pantry, washing machine, and sink, are smaller appliances that are not as likely to be placed in front of a rug.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9995784552183821
+  }
+]

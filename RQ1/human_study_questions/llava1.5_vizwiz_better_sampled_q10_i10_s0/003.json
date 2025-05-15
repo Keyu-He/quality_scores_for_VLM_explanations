@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "339",
+    "question": "Can you tell me what this is? Choices: book, notebook, pamphlet, document",
+    "predicted_answer": "barbie dolls",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a collection of Barbie dolls in various poses and outfits, displayed on a yellow background. There are at least 13 different Barbie dolls visible in the picture, each with unique features and accessories. The display is organized into multiple sections or rows, showcasing the diverse range of Barbie dolls available for purchase or collection.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.0084699537248694,
+    "reason_vf_correct": "<br> - There are Barbie dolls in the image.<br> - The Barbie dolls are displayed on a yellow background.",
+    "reason_vf_incorrect": "<br> - There are at least 13 different Barbie dolls visible in the image.",
+    "reason_contr": "magazine, pamphlet"
+  },
+  {
+    "question_id": "493",
+    "question": "What food is in this can? Choices: corn, ravioli, soup, beans",
+    "predicted_answer": "ravioli",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The person's hand is pointing to a can of Ravioli on the counter, which is placed next to a yellow wall with tiled backsplash.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0612410896408004,
+    "reason_vf_correct": "<br> - The person's hand is pointing to a can on the counter.<br> - The can on the counter is labeled as Ravioli.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "soup, beans, tuna"
+  },
+  {
+    "question_id": "127",
+    "question": "How fast is my up and download? Choices: 25.00 30.00, 40.00 45.00, 15.75 20.25, 31.45 34.52",
+    "predicted_answer": "34.7 mbps",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a computer screen with a message that reads \"How fast is my upload and download?\". The answer to this question is displayed as 34.7 Mbps, indicating the speed of the internet connection. This information can be useful for users who want to know their internet performance or troubleshoot any issues related to their internet service.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.3646582712395626,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The computer screen displays the message \"How fast is my upload and download?\" yes.<br> - The internet speed displayed on the screen is 34.7 Mbps.",
+    "reason_contr": "15.75 20.25"
+  },
+  {
+    "question_id": "216",
+    "question": "can you tell where the blackberry bushes in relation to the front door? Choices: across the yard, behind the door, in front, to left",
+    "predicted_answer": "no",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "I cannot determine the exact location of the blackberry bushes relative to the front door, but I can confirm that they are present near the building.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.4143499727882669,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The blackberry bushes are present near the building.",
+    "reason_contr": "in front"
+  },
+  {
+    "question_id": "421",
+    "question": "Coffee is this? Choices: decaf, tea, gevalia, starbucks",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The coffee package has a picture of a cup on it, and the words \"Caffe Velia\" are written in black letters.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9346714197122752,
+    "reason_vf_correct": "<br> - There is a picture of a cup on the coffee package.",
+    "reason_vf_incorrect": "<br> - The words \"Caffe Velia\" are written in black letters on the package.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "136",
+    "question": "What kind of coffee is this? Choices: instant coffee, tassimo, cappuccino, espresso",
+    "predicted_answer": "tassimo",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "Tassimo is a brand of single-serve coffee maker that uses pre-packaged coffee pods, which are designed to be used with the Tassimo machine. These pods contain ground coffee and a flavoring agent, allowing for a variety of coffee options without the need for brewing or grinding coffee beans. The packaging is typically disposable, making it convenient for use in various settings such as offices, homes, and hotels. In this image, we see a Tassimo package with a single-serve cup of coffee inside, ready to be used with the Tassimo machine.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.936899331576402,
+    "reason_vf_correct": "<br> - There is a Tassimo package visible in the image.<br> - There is a single-serve cup of coffee inside the Tassimo package in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "67",
+    "question": "What is this? Choices: printer, tablet, laptop, smartphone",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The laptop screen displays a man on it, and there are clothes in the background.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999947088492682,
+    "reason_vf_correct": "<br> - There is a laptop screen displaying a man in the image.<br> - There are clothes visible in the background of the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "241",
+    "question": "what is this? what it is this? Choices: remote, controller, gadget, tool",
+    "predicted_answer": "remote control",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a black remote control sitting on top of a wooden table, possibly made from wood or laminate. The remote control has buttons and a directional pad, which are commonly found on such devices. It appears to be an electronic device used for controlling various functions in a television or other entertainment system.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2512595062254213,
+    "reason_vf_correct": "<br> - There is a black remote control in the image.<br> - The remote control is sitting on top of a wooden table.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "controller, device, gadget"
+  },
+  {
+    "question_id": "145",
+    "question": "What does this caption say? Choices: \"hello\", \"caption text\", 97zh, \"12345\"",
+    "predicted_answer": "security check",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The caption says \"security check\".",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.772435704795687,
+    "reason_vf_correct": "<br> - The caption in the image says \"security check.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "406",
+    "question": "What is in this box? Choices: roast beef, books, chocolate cake, a cat",
+    "predicted_answer": "roast beef",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The box contains a traditional roast beef dinner, which includes meat and vegetables such as peas and carrots.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999940917256366,
+    "reason_vf_correct": "<br> - The box contains roast beef.<br> - There are vegetables in the box.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "141",
+    "question": "What kind of bag is this? Choices: suitcase, backpack, purse, briefcase",
+    "predicted_answer": "Suitcase",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The bag in the image is a suitcase, not a backpack, purse, or briefcase. The reasoning behind this answer is that a suitcase is a piece of luggage typically used for traveling, whereas a backpack, purse, or briefcase are bags used for carrying personal belongings or work-related items. The presence of a doll in the suitcase further supports the idea that it is a piece of luggage, as dolls are not typically carried in a backpack, purse, or briefcase.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999761746768685
+  },
+  {
+    "question_id": "440",
+    "question": "What color is the background of the large clock? Choices: green, black, white, red",
+    "predicted_answer": "Green",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the large clock in the image has a green background. This is evident from the close-up view of the clock, which allows for a clear observation of its details. The green background of the clock contrasts with the rest of the scene, making it stand out prominently in the image. The other choices, such as black, white, and red, do not accurately describe the color of the clock's background in the image.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9062874680963886
+  },
+  {
+    "question_id": "50",
+    "question": "What type of sinks are shown? Choices: bathroom, workstation, kitchen, laundry",
+    "predicted_answer": "Bathroom",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The sinks shown in the image are bathroom sinks. This can be inferred from the presence of a bathtub, which is a common feature in bathrooms, and the fact that the sinks are located in a bathroom setting. Bathroom sinks are designed for washing hands, brushing teeth, and other personal hygiene tasks, while workstation, kitchen, and laundry sinks are typically found in other areas of the home and serve different purposes.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999959692990995
+  },
+  {
+    "question_id": "247",
+    "question": "The man is looking in what direction? Choices: up, behind, sideways, down",
+    "predicted_answer": "Down",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind the answer is that the man is flying a kite in a grassy field, and he is looking down at the kite. This indicates that he is focused on controlling the kite and ensuring it stays in the air, so he is looking in the direction of the kite, which is downward.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.8733126205575825
+  },
+  {
+    "question_id": "258",
+    "question": "What kind of show is the man on? Choices: cooking show, reality show, talk show, movie",
+    "predicted_answer": "Talk show",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The man is on a talk show, as evidenced by him sitting on a couch and engaging in a conversation with another person. Talk shows typically involve interviews, discussions, or debates between guests, and the man in the image appears to be participating in such an activity. The presence of a TV in the image further supports the idea that the man is on a talk show, as this is a common setting for such programs.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.999947925740719
+  },
+  {
+    "question_id": "12",
+    "question": "What kind of fruit is cut in half and darker than the other? Choices: grapes, apples, lettuce, radish",
+    "predicted_answer": "Lettuce",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The fruit that is cut in half and darker than the other is lettuce. Lettuce is a leafy green vegetable that is commonly used in salads and other dishes. It has a darker green color compared to other leafy greens like spinach or kale. The other options, such as grapes, apples, and radishes, are not typically cut in half and do not have a darker color than the rest of the fruit or vegetable.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999498002686193
+  },
+  {
+    "question_id": "340",
+    "question": "What is the most likely material of the floor? Choices: terra cotta, marble, porcelain, vinyl",
+    "predicted_answer": "Marble",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The most likely material of the floor is marble. In the image, the floor appears to be made of marble, which is known for its luxurious and elegant appearance. Marble floors are often found in high-end homes, hotels, and other upscale establishments due to their durability, ease of maintenance, and aesthetic appeal. The other options, terra cotta, porcelain, and vinyl, are less likely to be found in such settings.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9999842649229689
+  },
+  {
+    "question_id": "19",
+    "question": "What is the outside of the cake made of? Choices: frosting, custard, fondant, whipped cream",
+    "predicted_answer": "Frosting",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The outside of the cake is made of frosting. This can be inferred from the fact that the cake is described as a white frosted cake. Frosting is a type of sugar-based confectionery that is used to cover and decorate cakes. It is typically made from sugar, butter, and flavorings, and is applied to the cake using a frosting knife or spatula. In contrast, custard, whipped cream, and fondant are not typically used as the outer layer of a cake, although they can be used as fillings, toppings, or decorations.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999935261511241
+  },
+  {
+    "question_id": "273",
+    "question": "What room is this most likely to be happening in? Choices: bathroom, living room, outside, hallway",
+    "predicted_answer": "Living room",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The most likely room for this to be happening in is the living room. This is because the dog is laying on a couch, which is a common piece of furniture found in living rooms. Additionally, the presence of a remote control and a cell phone on the couch further supports the idea that this is taking place in a living room setting.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9999978454581474
+  },
+  {
+    "question_id": "254",
+    "question": "What type of vehicles are sitting outside of the store? Choices: car, motorcycle, bicycle, train",
+    "predicted_answer": "Motorcycle",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The correct answer is motorcycle. The image shows three motorcycles parked outside of a store. The other options, such as car, bicycle, and train, are not relevant to the scene depicted in the image.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9987476991597045
+  }
+]

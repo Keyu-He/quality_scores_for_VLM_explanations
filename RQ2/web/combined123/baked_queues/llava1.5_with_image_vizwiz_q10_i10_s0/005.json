@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "340",
+    "question": "What is this? Choices: lotion, soap, candle, body scrub",
+    "predicted_answer": "candy bar",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a candy bar sitting on top of a yellow and white polka dot pillow, which has a pattern of circles. The candy bar appears to be a Butterfinger, as indicated by the label.",
+    "visual_fidelity": 0.25,
+    "contrastiveness": 0.9999696087373772,
+    "reason_vf_correct": "<br> - The pillow has a pattern of circles.",
+    "reason_vf_incorrect": "<br> - There is a candy bar in the image.<br> - The candy bar is sitting on top of a yellow and white polka dot pillow.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "482",
+    "question": "What color is this? Choices: red, blue, green, yellow",
+    "predicted_answer": "pink",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The towel is pink in color.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2934846767789676,
+    "reason_vf_correct": "<br> - The towel is pink in color.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "red, blue, green"
+  },
+  {
+    "question_id": "386",
+    "question": "What's this? Choices: laptop, tablet, printer, phone",
+    "predicted_answer": "phone",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The phone on the desk is a black and silver model, which has buttons for making calls and a screen to display information. It is placed next to a computer monitor, keyboard, and mouse, indicating that it may be used in conjunction with these devices for work or personal use. The presence of the phone suggests that this setup could be part of an office environment or home office where communication and productivity are important aspects of daily life.",
+    "visual_fidelity": 0.8571428571428571,
+    "contrastiveness": 0.9027698763806284,
+    "reason_vf_correct": "<br> - There is a phone on the desk.<br> - The phone is black and silver.",
+    "reason_vf_incorrect": "<br> - There is a mouse on the desk.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "407",
+    "question": "What color is my dog? Choices: black, brown, white, gray",
+    "predicted_answer": "yellow",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The dog is laying on the floor, and it appears to be a golden or tan-colored breed.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.6837638438592047,
+    "reason_vf_correct": "<br> - The dog is laying on the floor.<br> - The dog appears to be a golden or tan-colored breed.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "336",
+    "question": "Which chocolate bar is it? Snickers or Mars? Choices: Snickers, Twix, Milky Way, Reese's",
+    "predicted_answer": "snickers",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up of a Snickers candy bar on a countertop, with the wrapper still intact.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.2797628006037286,
+    "reason_vf_correct": "<br> - The candy bar in the image is a Snickers.",
+    "reason_vf_incorrect": "<br> - The wrapper of the candy bar is still intact.",
+    "reason_contr": "Snickers, Twix, Milky Way"
+  },
+  {
+    "question_id": "326",
+    "question": "What is this? Choices: bowl, sculpture, container, flowerpot",
+    "predicted_answer": "vase",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The vase in the image is a tall, thin, and colorful piece of artwork that stands out on its wooden table. It has an interesting design with red stripes and is placed next to a picture frame. The vase's unique appearance makes it a focal point in the room, adding visual interest and style to the space.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.001556888614882,
+    "reason_vf_correct": "<br> - The vase is tall and thin.<br> - The vase is colorful.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "sculpture"
+  },
+  {
+    "question_id": "102",
+    "question": "What is the computer screen showing? Choices: error message, desktop background, system settings, login screen",
+    "predicted_answer": "windows vista",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The computer screen shows a black and white screen with text on it, which says \"Microsoft Windows Vista\".",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.1263126406301028,
+    "reason_vf_correct": "<br> - The computer screen is displaying a black and white screen.<br> - The text on the computer screen says \"Microsoft Windows Vista.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": "error message, system settings"
+  },
+  {
+    "question_id": "147",
+    "question": "Can you tell me the price of this computer please? Choices: \"999.99, 1499.00, 1999.99, 2499.50\"",
+    "predicted_answer": "$1290",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The price of the laptop in the image is $1290.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.5219442366428664,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The price of the laptop shown in the image is $1290.",
+    "reason_contr": "1499.00"
+  },
+  {
+    "question_id": "345",
+    "question": "What beer is that? Choices: heineken, budweiser, modelo, stella artois",
+    "predicted_answer": "corona",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The bottle of Corona Extra has a label on it that says \"Corona Extra\" and \"Imported by Grupo Modelo, Mexico.\"",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.4061645025599232,
+    "reason_vf_correct": "<br> - The bottle has a label that says \"Corona Extra.\"",
+    "reason_vf_incorrect": "<br> - The label on the bottle says \"Imported by Grupo Modelo, Mexico.\"",
+    "reason_contr": "modelo"
+  },
+  {
+    "question_id": "151",
+    "question": "What is this? Choices: laptop, television, tablet, printer",
+    "predicted_answer": "tv",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The television in the image is a flat screen TV that is turned on and displaying icons on its screen. It appears to be placed on top of a desk or table, surrounded by various items such as books, a chair, and other electronics like a laptop computer. The presence of these objects suggests that this space might be used for work or leisure activities, with the television serving as a source of entertainment or information.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.4014222160344609,
+    "reason_vf_correct": "<br> - The television in the image is a flat screen TV.<br> - The television is turned on and displaying icons on its screen.",
+    "reason_vf_incorrect": "<br> - There are books surrounding the television.<br> - There is a laptop computer near the television.",
+    "reason_contr": "television"
+  }
+]

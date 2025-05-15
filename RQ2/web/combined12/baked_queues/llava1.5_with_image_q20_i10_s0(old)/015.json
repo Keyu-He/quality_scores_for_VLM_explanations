@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "133",
+    "question": "What country headquarters this plane company? Choices: canada, japan, usa, uk",
+    "predicted_answer": "Canada",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the plane company, Virgin Atlantic, is headquartered in the United Kingdom. However, the airline operates under a Canadian air operator's certificate, which is issued by the Canadian Transportation Agency. This indicates that the airline is registered and operates under Canadian aviation regulations, even though it is headquartered in the UK.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 3.484376587879527e-05
+  },
+  {
+    "question_id": "376",
+    "question": "How many rooms/areas in the house are immediately visible in the photo? Choices: three, four, one, two",
+    "predicted_answer": "One",
+    "prediction_is_correct": 0,
+    "generated_rationale": "In the image, there is only one room visible, which is the living room. The living room contains a couch, chairs, a dining table, and a kitchen area with a refrigerator. There are no other rooms or areas in the house that are immediately visible in the photo.",
+    "visual_fidelity": 0.7142857142857143,
+    "contrastiveness": 0.6289208010242093
+  },
+  {
+    "question_id": "176",
+    "question": "What kind of a person usually eats food like this? Choices: obese, competitive eater, glutton, nutritionist",
+    "predicted_answer": "Nutritionist",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The person who usually eats food like this is a nutritionist. A nutritionist is a professional who specializes in the study of nutrients and their effects on health and well-being. They understand the importance of consuming a balanced diet that includes a variety of fruits, vegetables, grains, proteins, and healthy fats. In the image, there is an assortment of fruits, vegetables, and grains in a bowl, which is typical of a nutritionist's dietary recommendations. A competitive eater, on the other hand, typically consumes large amounts of food in a short period of time, which is not consistent with the nutritionist's approach to healthy eating. An obese person may also eat food like this, but it is not typical of their dietary habits. A glutton is someone who overindulges in food, but again, this is not consistent with the nutritionist's approach to healthy eating.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999917720196825
+  },
+  {
+    "question_id": "453",
+    "question": "What kind of bike is being ridden? Choices: bicycle, vespa, motorcycle, unicycle",
+    "predicted_answer": "Bicycle",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The bike being ridden is a bicycle, not a motorcycle or a vespa. In the image, there are two bicycles parked next to each other on the side of the road. One of the bicycles has a basket on the front, which is a common feature of bicycles. Additionally, there is a motorcycle in the scene, but it is parked separately from the bicycles, and it does not have a basket on the front. A vespa is a type of motor scooter, not a bicycle. Therefore, the correct answer is bicycle.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9997383668707871
+  },
+  {
+    "question_id": "488",
+    "question": "What are the people on the sidewalk likely to be? Choices: police officers, tourists, royal people, horse riders",
+    "predicted_answer": "Tourists",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The people on the sidewalk are likely to be tourists, as they are riding in a horse-drawn carriage, which is a popular tourist attraction in many cities. Horse-drawn carriages are often used for sightseeing and leisurely rides, providing a unique and nostalgic experience for visitors. In contrast, police officers, royal people, and horse riders are less likely to be seen riding in a horse-drawn carriage on a city sidewalk.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.999867315227258
+  },
+  {
+    "question_id": "227",
+    "question": "Given the position of the bat and ball the batter most likely? Choices: missed, fouled, popped up, grounded out",
+    "predicted_answer": "Missed",
+    "prediction_is_correct": 1,
+    "generated_rationale": "Given the position of the bat and ball in the image, it is most likely that the batter has missed the ball. The bat is positioned behind the batter, and the ball is in the air, indicating that the batter has not made contact with the ball yet. The other options, such as fouled, popped up, or grounded out, would require the batter to have already made contact with the ball, which is not evident in the image.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9997365325905319
+  },
+  {
+    "question_id": "260",
+    "question": "What treat can be made with this fruit and ice cream? Choices: cone, banana split, macaroon, macadamia cookies",
+    "predicted_answer": "Banana split",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The treat that can be made with this fruit and ice cream is a banana split. A banana split is a classic dessert that consists of a scoop of ice cream, sliced bananas, and a variety of toppings such as whipped cream, nuts, and chocolate sauce. In the image, there are multiple bananas and a scoop of ice cream, which are the main ingredients for a banana split.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9976485944485456
+  },
+  {
+    "question_id": "492",
+    "question": "Where is this person located? Choices: restaurant, home, library, office",
+    "predicted_answer": "Home",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the person is sitting on a couch in a living room, which is a typical setting for a home. The presence of a fireplace, a chair, and a potted plant further supports the idea that this is a residential space. Restaurants, libraries, and offices typically do not have such furnishings and decorations.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.9999959453037651
+  },
+  {
+    "question_id": "455",
+    "question": "What vehicle might the thing on the wall have come from? Choices: motorbike, tractor, car, cart",
+    "predicted_answer": "Tractor",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the object on the wall is a large wooden wheel, which is commonly associated with tractors. Tractors are agricultural vehicles used for plowing, cultivating, and other farming tasks, and they often have large wooden wheels as part of their design. In contrast, motorbikes, cars, and carts typically do not have such large wooden wheels. Therefore, it is more likely that the wooden wheel on the wall has come from a tractor rather than a motorbike, car, or cart.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9933718681787894
+  },
+  {
+    "question_id": "408",
+    "question": "What is the purpose of the masonry on the wall to the left of the kitchen? Choices: fireplace, structural wall, home foundation, visual aesthetics",
+    "predicted_answer": "Structural wall",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The masonry on the wall to the left of the kitchen serves as a structural wall, providing support and stability to the building. While it may also contribute to the visual aesthetics of the space, its primary function is to support the weight of the building and ensure its structural integrity.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.7691554649097256
+  }
+]

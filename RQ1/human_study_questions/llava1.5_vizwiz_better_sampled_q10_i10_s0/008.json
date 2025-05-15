@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "318",
+    "question": "What kind of soda is this? Choices: lemon lime, orange soda, grape soda, cola",
+    "predicted_answer": "fanta",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "Fanta is a type of soda that comes in various flavors, such as strawberry and grape. In the image, there are two bottles of Fanta on the counter, one green and one blue. These bottles contain a sweet beverage that can be enjoyed by people of all ages. The presence of these bottles suggests that someone might have recently purchased them or is preparing to consume them.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.7337825454607027,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There are two bottles of Fanta on the counter.<br> - One of the Fanta bottles is green.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "299",
+    "question": "Is it a sofa or a table? Choices: table, chair, bench, sofa",
+    "predicted_answer": "table",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a table with a cord on top of it, and there are no couches visible in the scene.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9480020832509304,
+    "reason_vf_correct": "<br> - There is a table in the image.<br> - There is a cord on top of the table.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "104",
+    "question": "What is this? Choices: houses, trees, sculptures, buildings",
+    "predicted_answer": "car",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a city street with tall buildings in the background, including a large bank building. There are several people walking around and enjoying the outdoor area of the city. A man is standing near a trash can, while others are scattered throughout the scene. In addition to pedestrians, there are cars parked along the street, with one car in particular being prominently visible on the right side of the image. The overall atmosphere suggests a bustling urban environment where people and vehicles coexist.",
+    "visual_fidelity": 0.8333333333333334,
+    "contrastiveness": 0.5503989318358137,
+    "reason_vf_correct": "<br> - There are tall buildings in the background of the image.<br> - There is a large bank building visible in the image.",
+    "reason_vf_incorrect": "<br> - There is a man standing near a trash can in the image.",
+    "reason_contr": "vehicles"
+  },
+  {
+    "question_id": "107",
+    "question": "What room number is that? Choices: 1502b, 1501d, 1503c, 1603c",
+    "predicted_answer": "1503c",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The room number on the sign is 1503c, which indicates a conference room or meeting space.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2734383449104698,
+    "reason_vf_correct": "<br> - The room number on the sign is 1503c.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "1504a, 1603c"
+  },
+  {
+    "question_id": "238",
+    "question": "What color is this? Choices: yellow sun, green leaves, white purple flowers, red roses",
+    "predicted_answer": "yellow",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The cloth has a yellow background with purple flowers on it.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.0570406236838689,
+    "reason_vf_correct": "<br> - There are purple flowers on the cloth.",
+    "reason_vf_incorrect": "<br> - The cloth has a yellow background.",
+    "reason_contr": "blue sky, green leaves"
+  },
+  {
+    "question_id": "480",
+    "question": "What color are the stones in this earring? Choices: blue, white, pink, green",
+    "predicted_answer": "pink",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The pink stones on the earring are likely to be rhinestones, which are small, round, and shiny glass or plastic beads that can be used for decorative purposes. They are often found in various colors, including pink, and are commonly used in jewelry making and other crafts. In this case, the earring is made of silver metal with a heart-shaped charm and rhinestone accents, which adds an elegant touch to its design. The combination of these materials creates a visually appealing piece that can be worn as a fashion accessory or used in various creative projects.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.3740319050040021,
+    "reason_vf_correct": "<br> - The stones on the earring are pink.<br> - The earring is made of silver metal.",
+    "reason_vf_incorrect": "<br> - The earring has a heart-shaped charm.",
+    "reason_contr": "blue, red"
+  },
+  {
+    "question_id": "277",
+    "question": "What is this bottle? Choices: detergent, water bottle, spot shot, cleaning solution",
+    "predicted_answer": "spot shot",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "Spot Shot is a cleaning product that can be used to remove stains from various surfaces, including carpets and upholstery. It is designed to quickly and effectively eliminate tough stains without causing damage to the fabric or leaving any residue behind. The blue bottle of Spot Shot in the image contains a concentrated solution that can be diluted with water according to the specific instructions for each type of surface being cleaned.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.3157136713711931,
+    "reason_vf_correct": "<br> - The bottle in the image is blue.<br> - The product in the image is designed to remove stains from surfaces like carpets and upholstery.",
+    "reason_vf_incorrect": "<br> - The bottle in the image contains a concentrated solution.",
+    "reason_contr": "cleaning solution"
+  },
+  {
+    "question_id": "46",
+    "question": "What is this thing? Choices: projector, monitor, tablet, computer screen",
+    "predicted_answer": "startup repair",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The screen of a laptop computer displays an error message that reads \"Your computer was not able to start using system files.\" This indicates that there may be issues with the operating system or other software on the computer. To address these problems, the user can click on the \"Startup Repair\" button, which will attempt to fix any issues and restore normal operation of the computer.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9999991362959336,
+    "reason_vf_correct": "<br> - The screen of the laptop displays an error message.<br> - There is a \"Startup Repair\" button visible on the screen.",
+    "reason_vf_incorrect": "<br> - The error message reads \"Your computer was not able to start using system files.\"",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "211",
+    "question": "What are these two packages please? Choices: fruit cups, frozen vegetables, scrambled egg patties, chicken nuggets",
+    "predicted_answer": "9 serbian patties cheese",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The person holding the bag of Serbian patties is likely a customer who has just purchased them from a store or restaurant. They may be in the process of opening the package to enjoy their meal, or they could be preparing to share them with others. The presence of two packages suggests that there are enough servings for multiple people, which might indicate a social gathering or a shared meal among friends or family members.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9998549608558348,
+    "reason_vf_correct": "<br> - There are two packages visible in the image.",
+    "reason_vf_incorrect": "<br> - The person is holding a bag of Serbian patties.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "384",
+    "question": "What is in this bottle? Choices: vinegar, cinnamon, water, sugar",
+    "predicted_answer": "cinnamon",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a small box of cinnamon sticks on top of a counter.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.406241485747885,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There is a small box of cinnamon sticks on top of a counter in the image.",
+    "reason_contr": "water"
+  }
+]

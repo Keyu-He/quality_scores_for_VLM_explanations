@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "287",
+    "question": "What is this? What is this? Choices: office, classroom, workspace, room",
+    "predicted_answer": "office",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows an office setting with a desk, chair, and various items on it. There are two chairs in the room, one of which is positioned near the desk while the other is located further away. A computer mouse can be seen on the desk, along with a cell phone and a book. The room also features a TV mounted on the wall. Additionally, there is a box placed on the floor next to the chair. This office setting suggests that it could be used for work or study purposes, providing a comfortable environment for individuals to focus on their tasks.",
+    "visual_fidelity": 0.625,
+    "contrastiveness": 0.2885914698967561,
+    "reason_vf_correct": "<br> - There is a desk in the image.<br> - There are two chairs in the room.",
+    "reason_vf_incorrect": "<br> - There is a cell phone on the desk.<br> - There is a book on the desk.",
+    "reason_contr": "room, workspace"
+  },
+  {
+    "question_id": "129",
+    "question": "What kind of card is this? Choices: credit card, debit card, itunes, gift card",
+    "predicted_answer": "itunes",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The card in question is an iTunes card, which can be used to purchase music and other content from the Apple Music Store.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5110453170891724,
+    "reason_vf_correct": "<br> - The card is labeled as an iTunes card.<br> - The card has Apple branding or logos.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "gift card"
+  },
+  {
+    "question_id": "30",
+    "question": "what is this? Choices: herb tea, milk thistle, peppermint, dandelion root",
+    "predicted_answer": "milk thistle",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The bottle of milk thistle is sitting on a table with papers and books, indicating that it might be used for health or nutritional purposes. It is likely that the person who placed the bottle there is taking advantage of its benefits, such as improving liver function or reducing inflammation. The presence of the bottle in this setting suggests that the individual may have an interest in maintaining their overall well-being and health through natural supplements like milk thistle.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3780453164070054,
+    "reason_vf_correct": "<br> - There is a bottle labeled as milk thistle on the table.<br> - The bottle of milk thistle is placed on a table with papers and books.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "dandelion root"
+  },
+  {
+    "question_id": "188",
+    "question": "what does the sky look like? Choices: cloudy, overcast, clear, dark",
+    "predicted_answer": "cloudy",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The sky appears to be overcast and cloudy, which creates a gloomy atmosphere in the image.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4870241998964998,
+    "reason_vf_correct": "<br> - The sky is overcast in the image.<br> - There are clouds visible in the sky in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "overcast"
+  },
+  {
+    "question_id": "47",
+    "question": "Can you tell me who this is from? Choices: an unknown source, \"health insurance, a friend, emi health",
+    "predicted_answer": "emmm health",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The envelope is addressed to Emm Health, which suggests that it could be a medical bill or some form of communication related to the recipient's healthcare.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.8596426279993052,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The envelope is addressed to Emm Health.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "275",
+    "question": "What is on this Captcha please? Choices: d8kk, b9ll, c3mm, e5nn",
+    "predicted_answer": "doki",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a cell phone screen with an advertisement for personalized gifts, specifically featuring Christmas ornaments. There are two images of the word \"doki\" in different positions on the screen. One of the images has a red background and appears to be part of a Captcha challenge. The other image is displayed next to it, possibly as a related product or promotion.",
+    "visual_fidelity": 0.6,
+    "contrastiveness": 0.1077608681045488,
+    "reason_vf_correct": "<br> - There is a cell phone screen displaying an advertisement for personalized gifts.<br> - There are Christmas ornaments featured in the advertisement on the screen.",
+    "reason_vf_incorrect": "<br> - There are two images of the word \"doki\" on the screen.<br> - One of the images of the word \"doki\" is on a red background.",
+    "reason_contr": "a7jj, b9ll, c3mm"
+  },
+  {
+    "question_id": "135",
+    "question": "What is this? Choices: tongue, ribbon, finger, worm",
+    "predicted_answer": "lip",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up of an open mouth with a pink tongue and a red lip.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9943870394858484,
+    "reason_vf_correct": "<br> - The image is a close-up of an open mouth.<br> - There is a pink tongue visible in the image.",
+    "reason_vf_incorrect": "<br> - There is a red lip visible in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "498",
+    "question": "What is this, and is it like a TV dinner to put into the microwave? Choices: just a snack\", \"not a tv dinner, tv dinner yes, similar but different",
+    "predicted_answer": "penne pasta",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a person holding up a box of penne pasta with their hand. The box contains 8 servings of penne pasta, which can be used for making various dishes such as spaghetti or macaroni and cheese. It is not a TV dinner to put into the microwave but rather a packaged food item that requires cooking on the stove or in an oven. The person holding the box might be preparing to cook the pasta, or they could have just finished cooking it and are about to serve it.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 9.865913663079175e-08,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The person is holding a box of penne pasta in their hand.<br> - The box indicates that it contains 8 servings of penne pasta.",
+    "reason_contr": "\"not a tv dinner, yes but not microwavable, similar but different"
+  },
+  {
+    "question_id": "11",
+    "question": "What does the screen say? Choices: Chrome OS, \"macOS Catalina, Ubuntu 20.04, windows 7 home premium",
+    "predicted_answer": "windows home premium",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The computer monitor displays a Windows Home Premium screen, which indicates that the user has purchased and installed this specific version of Microsoft Windows operating system on their computer. This particular edition offers additional features and functionalities compared to other editions, such as improved security, enhanced performance, and customizable start menu options. The presence of this screen suggests that the user is likely enjoying a more personalized computing experience with the added benefits provided by Windows Home Premium.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9997834955763988,
+    "reason_vf_correct": "<br> - The computer monitor displays a Windows Home Premium screen.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "497",
+    "question": "What color is this t-shirt? Choices: blue, red, white, grey",
+    "predicted_answer": "black",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The t-shirt is black in color.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.7264650481755345,
+    "reason_vf_correct": "<br> - The t-shirt is black in color.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

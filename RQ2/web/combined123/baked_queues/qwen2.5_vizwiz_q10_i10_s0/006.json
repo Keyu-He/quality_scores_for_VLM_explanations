@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "170",
+    "question": "What does this say?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "It appears that the image shows a receipt or an invoice with some text and numbers. The visible part of the text includes:\n\n- \"Sub-Total $ 15.00\"\n- \"Tax @9.5% $ 0.00\"\n- \"Total $ 15.00\"\n- \"Amount Paid Via Visa (A) $ 15.00\"\n- A partially visible number \"xxxxxxxxxxxxx2037\"\n\nThe image is somewhat blurry, and the text at the top seems to be cut off or partially obscured. The question \"What does this say?\" is unanswerable because the full context and details are not provided. If you have any specific part of the text or information that needs clarification, please let me know!",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.509221199,
+    "reason_vf_correct": "<br> - There is a line on the receipt that reads \"Sub-Total $ 15.00.\"<br> - There is a line on the receipt that reads \"Tax @9.5% $ 0.00.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": "balance is zero"
+  },
+  {
+    "question_id": "493",
+    "question": "What food is in this can?",
+    "predicted_answer": "ravioli",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a hand gesturing towards a can of food on a kitchen counter. The label on the can is partially visible, and it appears to read \"Ravioli.\" This suggests that the contents of the can are indeed ravioli, which is a type of pasta typically filled with cheese or meat and served in broth. The label \"Ravioli\" is a common name for this type of pasta product, and the image aligns with that description.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.679792904,
+    "reason_vf_correct": "<br> - There is a hand gesturing towards a can of food on a kitchen counter.<br> - The label on the can is partially visible.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "145",
+    "question": "What does this caption say?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a screenshot of an online form or application interface, likely for language learning. The text in the form mentions someone who is learning Finnish and would like to meet people to practice with, improve their German, and also speaks Cornish. It notes that the person is a musician and songwriter.\n\nThe form includes fields for adding comments, a security check with a CAPTCHA code (972H), and a question asking if the user agrees with the Polyglot policy. There are options to select \"Yes,\" \"No,\" or \"Read policy\" for the agreement question.\n\nThe caption is not directly related to any text in this image, as there are no captions present. If you meant the text within the form itself, it would be:\n\n\"Learning Finnish and would like to meet people to practice with. I would also like to improve my German. I can also speak Cornish, but it's not in the list of languages here. I'm a musician and a songwriter.\"\n\nIf you have another question or need clarification about the form, feel free to ask!",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.685878519,
+    "reason_vf_correct": "<br> - The form mentions someone who is learning Finnish.<br> - The form mentions that the person would like to meet people to practice with.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "492",
+    "question": "What is this?",
+    "predicted_answer": "dollar bill",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a United States one-dollar bill. The bill is slightly crumpled and appears to be resting on a patterned fabric, possibly a blanket or bedspread. The design includes the portrait of George Washington on the right side and the text \"THE UNITED STATES OF AMERICA\" at the top. The serial number is visible on both sides of the bill, and there are other standard features such as the green seal in the bottom right corner. The denomination \"ONE DOLLAR\" is clearly printed at the bottom of the bill, confirming its value.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.99999723,
+    "reason_vf_correct": "<br> - The image is showing a United States one-dollar bill.<br> - The bill is slightly crumpled.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "498",
+    "question": "What is this, and is it like a TV dinner to put into the microwave?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a packaged food item, but the specific details on the packaging are not clear enough to determine if it is a TV dinner or what type of meal it is. It appears to be some kind of packaged food, possibly a frozen meal or a pre-prepared dish. However, without more visible text or imagery on the packaging that indicates it is a TV dinner and specifies its contents, such as \"microwaveable,\" it's not possible to definitively say if this is a TV dinner or what type of meal it might be. If you have more information about the packaging, such as text or images that describe its contents and preparation instructions, it would help in providing a more accurate answer.",
+    "visual_fidelity": 0.8,
+    "contrastiveness": 0.327241116,
+    "reason_vf_correct": "<br> - There is a packaged food item visible in the image.<br> - The text or imagery on the packaging in the image is unclear.",
+    "reason_vf_incorrect": "<br> - There is no visible text or imagery on the packaging that indicates it is microwaveable.",
+    "reason_contr": "similar but different"
+  },
+  {
+    "question_id": "447",
+    "question": "Does that sign say?",
+    "predicted_answer": "hot dogs",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a neon sign that reads \"HOT DOGS\" in bright red letters. The text is clear and legible, indicating that the sign says \"HOT DOGS.\"",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.026485499,
+    "reason_vf_correct": "<br> - The neon sign in the image reads \"HOT DOGS.\"<br> - The letters on the sign are bright red.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "\"ice cream, burgers, tacos"
+  },
+  {
+    "question_id": "384",
+    "question": "What is in this bottle?",
+    "predicted_answer": "cinnamon",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a small, rectangular container with the label \"Ground Cinnamon\" prominently displayed. The design and text on the packaging suggest that it is a spice product, specifically ground cinnamon. Given this information, it's reasonable to conclude that the contents of the bottle are indeed cinnamon.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999999838,
+    "reason_vf_correct": "<br> - The container in the image is small and rectangular.<br> - The label on the container prominently displays the words \"Ground Cinnamon.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "339",
+    "question": "Can you tell me what this is?",
+    "predicted_answer": "stickers",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a collection of colorful, illustrated stickers featuring themes related to Barbie and various activities. Each sticker appears to depict a different scene or activity, such as baking, cooking, and crafting. The stickers are arranged on a yellow background with the word \"Barbie\" repeated in a decorative pattern. The designs are vibrant and appear to be aimed at children, likely for use as decorative elements or for play.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.827734957,
+    "reason_vf_correct": "<br> - There are colorful, illustrated stickers in the image.<br> - The stickers feature themes related to Barbie.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "288",
+    "question": "What is this?",
+    "predicted_answer": "door",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a black object that appears to be a magnetic or adhesive door stopper. It is designed to keep the door from closing all the way, often used in offices or homes for safety reasons. The object is attached to a door with what seems to be adhesive tape, which is not the intended method of installation. The presence of a yellow pushpin on the door suggests that it might be used to hold up notes or papers, but this is not a typical use for the door stopper itself. The reasoning behind its placement on the door could be to prevent the door from closing completely, possibly for safety or convenience.",
+    "visual_fidelity": 0.666666667,
+    "contrastiveness": 0.155263362,
+    "reason_vf_correct": "<br> - There is a black object attached to the door.<br> - There is a yellow pushpin on the door.",
+    "reason_vf_incorrect": "<br> - The black object is attached with adhesive tape.",
+    "reason_contr": "tool"
+  },
+  {
+    "question_id": "39",
+    "question": "My computer won't talk. Can you tell me what's on the screen?",
+    "predicted_answer": "restore",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a screenshot of a computer screen displaying the \"System Restore\" feature in Windows. The text on the screen is asking if you want to restore your computer using System Restore, and it provides an explanation that this process will revert the system to a previous state but may remove some programs and personal data. There are two buttons: \"Restore\" and \"Cancel.\" The mouse cursor is positioned over the \"Restore\" button, indicating that it's ready to be clicked. The text also mentions that this action cannot be undone.\n\nThe reasoning behind the answer \"restore\" is based on the context of the screenshot. The user appears to be considering using System Restore, which involves restoring their computer's system files and settings back to a previous state. This is typically done when the user encounters issues with their computer that they want to resolve by reverting to a time before those problems occurred.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.925993442,
+    "reason_vf_correct": "<br> - The computer screen is displaying the \"System Restore\" feature in Windows.<br> - There is text on the screen asking if you want to restore your computer using System Restore.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

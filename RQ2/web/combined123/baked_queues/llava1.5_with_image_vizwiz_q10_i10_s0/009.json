@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "422",
+    "question": "What's this? Choices: cup, soda can, thermos, glass",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The pink bottle of water on the table is a Nalgene brand water bottle.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9971823414479256,
+    "reason_vf_correct": "<br> - There is a pink bottle of water on the table.",
+    "reason_vf_incorrect": "<br> - The pink bottle is a Nalgene brand water bottle.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "270",
+    "question": "What is this picture of? Choices: keyboard, smartphone, remote control, tablet",
+    "predicted_answer": "mouse",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a black computer mouse sitting on top of a wooden table or desk.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9492574143815252,
+    "reason_vf_correct": "<br> - There is a black computer mouse in the image.<br> - The mouse is sitting on top of a wooden table or desk.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "40",
+    "question": "What gift card is this? Choices: gift card balance, loyalty points card, store credit card, rewards program card",
+    "predicted_answer": "starbucks",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The person holding the Starbucks card is likely a customer who has purchased or received it as a gift. They are showing off their card, which features a blue background with yellow stars and the words \"Starbucks Card\" written on it. The card may be used to make purchases at any Starbucks location, allowing the holder to enjoy coffee, tea, pastries, and other items from the menu.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.4140986357600801,
+    "reason_vf_correct": "<br> - The person is holding a card with a blue background.<br> - There are yellow stars on the card.",
+    "reason_vf_incorrect": "<br> - The card has the words \"Starbucks Card\" written on it.",
+    "reason_contr": "store credit card"
+  },
+  {
+    "question_id": "154",
+    "question": "Type of ticket is this. Is this a pick four or Carolina pick five? Choices: pick three, powerball, mega millions, scratch-off",
+    "predicted_answer": "pick 5",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The ticket is for the Carolina Pick Five lottery game, which is played in North Carolina.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999916467534272,
+    "reason_vf_correct": "<br> - The ticket is for the Carolina Pick Five lottery game.<br> - The ticket is associated with the North Carolina lottery.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "249",
+    "question": "What is this? Choices: cat, rabbit, bird, fish",
+    "predicted_answer": "dog",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The dog is laying on a couch, which is covered with a white blanket.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.1257373537366431,
+    "reason_vf_correct": "<br> - The dog is laying on a couch.",
+    "reason_vf_incorrect": "<br> - The couch is covered with a white blanket.",
+    "reason_contr": "cat"
+  },
+  {
+    "question_id": "165",
+    "question": "What is written on that computer screen, please? Choices: \"open file explorer, check for updates, system preferences, user manual\"",
+    "predicted_answer": "install mac os x",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The answer is install mac os x.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4808688873439438,
+    "reason_vf_correct": "<br> - The computer screen displays the text \"install mac os x.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": "check for updates"
+  },
+  {
+    "question_id": "164",
+    "question": "Which button is selected? Choices: yes, not sure, no, unanswerable",
+    "predicted_answer": "select",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The selected button is the one that says \"Select\".",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.2513627593391732,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There is a button labeled \"Select\" in the image.<br> - The button labeled \"Select\" is visually indicated as being selected.",
+    "reason_contr": "yes, no"
+  },
+  {
+    "question_id": "222",
+    "question": "When does this expire? Choices: Jan 15 2014, Nov 30 2013, Feb 1 2014, never",
+    "predicted_answer": "2015-09",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The can of food has a blue sticker on it that says \"2015-09\" which indicates the date when the food will expire.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.2791250630970148,
+    "reason_vf_correct": "<br> - The blue sticker on the can says \"2015-09.\"",
+    "reason_vf_incorrect": "<br> - There is a blue sticker on the can of food.",
+    "reason_contr": "Jan 15 2014, Nov 30 2013, Feb 1 2014"
+  },
+  {
+    "question_id": "315",
+    "question": "What color is this shirt please? Choices: blue, red, green, black",
+    "predicted_answer": "blue",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The man's shirt is blue.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0644777807143847,
+    "reason_vf_correct": "<br> - The man's shirt is blue.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "black"
+  },
+  {
+    "question_id": "405",
+    "question": "What flavor is this? Choices: chocolate, vanilla, blueberry, cinnamon",
+    "predicted_answer": "dad's",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The box of Dad's cookies is a popular snack choice for many people, especially those who enjoy sweet treats with a crunchy texture. These cookies are made from a simple recipe that includes ingredients such as flour, sugar, butter, and eggs, which contribute to their delicious taste and satisfying texture. The box of Dad's cookies is displayed on the countertop in front of a sink, making it easy for someone to grab a snack while doing dishes or other kitchen tasks.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.2388970581596833,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There is a box of Dad's cookies displayed on the countertop.<br> - The box of Dad's cookies is in front of a sink.",
+    "reason_contr": "chocolate, vanilla"
+  }
+]

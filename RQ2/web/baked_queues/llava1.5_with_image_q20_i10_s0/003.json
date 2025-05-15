@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "25",
+    "question": "The cat is looking in what direction? Choices: left, right, down, up",
+    "predicted_answer": "right",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The cat is looking in the direction of the faucet, which is located on the right side of the sink. This indicates that the cat is focused on the water flowing from the faucet, possibly because it is thirsty or intrigued by the sound or movement of the water.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.6142883777852571,
+    "reason_vf_correct": "<br> - The cat is looking towards the faucet.",
+    "reason_vf_incorrect": "<br> - The faucet is located on the right side of the sink.",
+    "reason_contr": "left"
+  },
+  {
+    "question_id": "396",
+    "question": "What kind of transportation is shown? Choices: road, water, rail, air",
+    "predicted_answer": "air",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The transportation shown in the image is an airplane, which is a type of aircraft designed for air travel. Airplanes are powered by engines and can take off and land on runways. In the image, the small airplane is parked on a runway, indicating that it is either preparing for takeoff or has recently landed. The presence of a fuel truck nearby suggests that the airplane may be refueling before its next flight. This scene demonstrates the use of airplanes as a mode of transportation, as opposed to other options like road, water, or rail transport.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9999889028427904,
+    "reason_vf_correct": "<br> - There is an airplane in the image.<br> - There is a fuel truck near the airplane.",
+    "reason_vf_incorrect": "<br> - The airplane is parked on a runway.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "71",
+    "question": "What is the gray street made up of? Choices: asphalt, sand, stone, wood",
+    "predicted_answer": "asphalt",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The gray street is made up of asphalt. Asphalt is a material commonly used for paving roads and sidewalks. It is made from a mixture of aggregates, such as sand, gravel, and crushed stones, combined with a binder, such as asphalt cement, and a filler, such as sand. Asphalt provides a smooth and durable surface for vehicles and pedestrians to travel on.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9066159813224842,
+    "reason_vf_correct": "<br> - The street in the image is gray in color.",
+    "reason_vf_incorrect": "<br> - The street in the image is made of asphalt.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "430",
+    "question": "Where is this bathroom probably located? Choices: home, dorm, hotel, theater",
+    "predicted_answer": "hotel",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind the answer \"hotel\" is that the bathroom appears to be well-maintained and clean, which is typical of hotel bathrooms. Additionally, the presence of a toilet, sink, mirror, and toiletries suggests that the bathroom is designed to cater to the needs of guests, which is common in hotel settings. In contrast, home, dorm, and theater bathrooms may not be as well-maintained or equipped with the same level of amenities as a hotel bathroom.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999664574994735,
+    "reason_vf_correct": "<br> - The bathroom is well-maintained and clean.<br> - There are toiletries present in the bathroom.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "146",
+    "question": "What city is mentioned on the front of the bus? Choices: new york, los angeles, chicago, seattle",
+    "predicted_answer": "seattle",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The city mentioned on the front of the bus is Seattle. The reasoning behind this answer is that the bus is traveling down a street in the city of Seattle, as evidenced by the presence of buildings, traffic lights, and other urban elements in the image. The fact that the bus is specifically labeled \"Seattle\" further supports the conclusion that the bus is operating within the city of Seattle.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2768452156944548,
+    "reason_vf_correct": "<br> - The word \"Seattle\" is visible on the front of the bus.<br> - There are buildings visible in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "new york, los angeles, chicago"
+  },
+  {
+    "question_id": "43",
+    "question": "Which food item is the knife for? Choices: bread, fruit, vegetables, meat",
+    "predicted_answer": "meat",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The knife is for cutting meat. In the image, there is a plate with meat on it, and a knife is placed next to it. The presence of the knife suggests that it is being used to cut or prepare the meat on the plate. The knife is a common utensil used in the kitchen for cutting various food items, including vegetables and fruits, but in this context, it is most likely being used for cutting meat.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0007153710007445,
+    "reason_vf_correct": "<br> - There is a plate with meat on it in the image.<br> - There is a knife placed next to the plate with meat.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "fruit, vegetables"
+  },
+  {
+    "question_id": "45",
+    "question": "What type of design is the person's shirt? Choices: striped, plaid, uniform, tie dyed",
+    "predicted_answer": "plaid",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the person's shirt is described as having a plaid design. Plaid refers to a pattern consisting of criss-crossed horizontal and vertical bands, typically in colors that contrast each other. In the image, the skateboarder is wearing a plaid shirt while performing a trick on the skateboard, which confirms that the shirt has a plaid design.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.2298240378223372,
+    "reason_vf_correct": "<br> - The person is performing a trick on a skateboard.",
+    "reason_vf_incorrect": "<br> - The person is wearing a shirt with a plaid design.",
+    "reason_contr": "striped, tie dyed"
+  },
+  {
+    "question_id": "122",
+    "question": "A person following what kind of diet is least likely to eat this meal? Choices: atkins, weight watchers, vegetarian, ketogenic",
+    "predicted_answer": "atkins",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind the answer is that the Atkins diet is a low-carbohydrate, high-fat diet that restricts the consumption of carbohydrates, especially complex carbohydrates like potatoes. In the image, the meal consists of meat, potatoes, carrots, and Brussels sprouts, all of which are rich in carbohydrates. Therefore, a person following the Atkins diet would be least likely to eat this meal, as it goes against the diet's guidelines.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.461280558124124,
+    "reason_vf_correct": "<br> - The meal in the image includes potatoes.<br> - There are carrots visible in the meal.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "ketogenic"
+  },
+  {
+    "question_id": "384",
+    "question": "What word is on the pillow? Choices: goodbye, hello, sadness, thank you",
+    "predicted_answer": "hello",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The pillow has the word \"hello\" written on it. This suggests that the person who placed the pillow on the couch wanted to create a welcoming and friendly atmosphere in the living room. The word \"hello\" is often used as a greeting or to initiate a conversation, so it can be inferred that the person who placed the pillow on the couch wanted to convey a sense of warmth and hospitality to anyone who enters the room.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9992445865413188,
+    "reason_vf_correct": "<br> - The word \"hello\" is written on the pillow.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "238",
+    "question": "How many different devices can show a picture? Choices: three, one, four, two",
+    "predicted_answer": "two",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The correct answer is two. In the image, there are two computer monitors side by side on a desk. Each monitor can display a picture, making a total of two devices capable of showing a picture. The other choices, such as three, four, or one, are incorrect because only two monitors are present in the image.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9875536149914028,
+    "reason_vf_correct": "<br> - There are two computer monitors on the desk.<br> - The two monitors are side by side.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

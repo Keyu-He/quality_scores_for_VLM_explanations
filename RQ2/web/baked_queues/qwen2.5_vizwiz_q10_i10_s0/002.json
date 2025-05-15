@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "129",
+    "question": "What kind of card is this?",
+    "predicted_answer": "itunes",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows an iTunes gift card, which is a pre-paid card that can be used to purchase music, apps, and other digital content from the iTunes Store. The card is designed for use on Apple devices such as iPhones, iPads, and Macs. The card features a scratch-off area where the user can reveal the unique code that can be redeemed for credit on iTunes. The card also includes a barcode and other security features to prevent fraud.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.493125768,
+    "reason_vf_correct": "<br> - The card in the image has the word \"iTunes\" on it.<br> - There is a scratch-off area on the card in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "gift card"
+  },
+  {
+    "question_id": "50",
+    "question": "What letters. What letters do I type in to win the prize?",
+    "predicted_answer": "wvk",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The letters you need to type in to win the prize are \"wvk,\" as indicated by the text on the webpage.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.088139216,
+    "reason_vf_correct": "<br> - The text \"wvk\" is visible on the webpage.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "xyz, win"
+  },
+  {
+    "question_id": "0",
+    "question": "Which one is the blue one?",
+    "predicted_answer": "right",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows two small boxes placed on a wooden surface. The box on the right is blue with white text, while the one on the left has a red and white label. The question asks which box is blue, and based on the description provided in the image caption, it correctly identifies that the right box is blue.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.803687835,
+    "reason_vf_correct": "<br> - The box on the right is blue with white text.<br> - The box on the left is labeled with red and white.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "24",
+    "question": "Can you tell me the 1-800 number off this card, and are you able to hear this question?",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The 1-800 number on the card provided in the image is **1-877-328-9677**. As for your second question, yes, I can hear you and understand the question you've asked.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999773688,
+    "reason_vf_correct": "<br> - The 1-800 number on the card is 1-877-328-9677.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "45",
+    "question": "What are the words on the piece of paper?",
+    "predicted_answer": "ransom down a dark hall stranger with my face by lois duncan",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a handwritten note on a piece of paper with the following text:\n\n```\nRansom\nDown a Dark Hall\n*Stranger with My Face\nby Lois Duncan\n```\n\nThe text appears to be a title or the beginning of a story, possibly a book. The asterisk (*) before \"Stranger with My Face\" suggests it might be an important or highlighted part of the title. The author's name, Lois Duncan, is at the bottom.\n\nThe reasoning behind this answer comes from reading and interpreting the handwritten text in the image. The words are clearly legible, and there is no ambiguity about what they say.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999989924,
+    "reason_vf_correct": "<br> - The word \"Ransom\" is written on the piece of paper.<br> - \"Down a Dark Hall\" is written on the piece of paper.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "204",
+    "question": "What is this?",
+    "predicted_answer": "tv",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a room with a television placed on top of a dark wooden dresser. The TV appears to be an older model, possibly from the 1980s or early 1990s. The room has a yellow wall with framed artwork, and there are other items on the dresser such as a small figurine or statue. The setting suggests it is an older living room setup, likely from the mid-20th century.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.990482747,
+    "reason_vf_correct": "<br> - There is a television placed on top of a dark wooden dresser in the image.<br> - The television appears to be an older model, possibly from the 1980s or early 1990s.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "441",
+    "question": "What is this stuffed animal?",
+    "predicted_answer": "elephant",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a hand holding what appears to be part of an elephant plush toy. The visible portion includes the trunk and a patterned fabric that resembles the texture of an elephant's skin. The colors and patterns are consistent with those often used in children's toys, such as the bright yellow, pink, and purple hues. However, without seeing more of the toy or additional context, it's not possible to definitively confirm that this is an elephant plush. The pattern and texture could also be indicative of other animals or objects, but the trunk-like shape suggests an elephant.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999897891,
+    "reason_vf_correct": "<br> - There is a hand holding a stuffed animal in the image.<br> - The stuffed animal has a trunk-like shape.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "208",
+    "question": "What is this?",
+    "predicted_answer": "flashlight",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a packaged flashlight with the label \"1 WATT LED Aluminum Flashlight\" prominently displayed. The packaging includes branding and specifications, such as \"Lightmates,\" which suggests it is a product designed for illumination. The flashlight itself appears to be made of aluminum, as indicated by the label on the packaging. The design and features suggest it is a compact, portable light source intended for use in various situations where additional lighting might be needed.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.845130202,
+    "reason_vf_correct": "<br> - There is a label on the packaging that says \"1 WATT LED Aluminum Flashlight.\"<br> - The packaging includes the branding \"Lightmates.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "427",
+    "question": "What's the title of this CD?",
+    "predicted_answer": "the quiet one",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a CD cover with the title \"THE QUIET ONE\" prominently displayed at the top. Below that, it says \"DAVE FERRIS,\" which is likely the name of the artist or performer associated with this album. The cover features a visual of a road stretching into the distance, which could be part of the album's artwork.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.104865604,
+    "reason_vf_correct": "<br> - The title \"THE QUIET ONE\" is prominently displayed at the top of the CD cover.<br> - The CD cover features the name \"DAVE FERRIS\" below the title.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "calm tunes, soft melodies"
+  },
+  {
+    "question_id": "289",
+    "question": "What color jewelry should I wear with this outfit?",
+    "predicted_answer": "red",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up of someone's lower body, specifically the area around their waist and hips. The person is wearing a red garment that appears to be a skirt or dress, along with blue jeans. The background includes what looks like a red surface and some white objects that might be part of the clothing or bedding.\n\nGiven this context, if you are considering what jewelry to wear with this outfit, the color red would indeed be a strong choice. Red jewelry can complement and enhance the look of the red garment, creating a cohesive and stylish ensemble.\n\nHere are some suggestions for jewelry that would match well with this outfit:\n1. **Red Earrings**: Studs, hoops, or dangling earrings in red could add a pop of color and balance the outfit.\n2. **Red Bracelets**: Wrist cuffs or bangles in red could add a touch of elegance and contrast nicely with the red garment.\n3. **Red Necklace**: A statement necklace or a delicate chain with a red pendant could be a striking accessory.\n4. **Red Rings**: A ring in red, such as a statement band or a colorful gemstone, could add a subtle yet impactful detail.\n\nThe choice of jewelry should also consider the occasion and your personal style. If you want a more subtle look, you could opt for jewelry in neutral colors that complement the red without overpowering it.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.371125622,
+    "reason_vf_correct": "<br> - The person is wearing a red garment in the image.<br> - Blue jeans are visible in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "black, rose gold"
+  }
+]

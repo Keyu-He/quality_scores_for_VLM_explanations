@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "306",
+    "question": "Can you tell me what kind of phone this is? Choices: samsung, motorola, lg, iphone",
+    "predicted_answer": "lg",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The phone in the image is an LG cellphone, which can be identified by its brand logo on the front.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.303753187071234,
+    "reason_vf_correct": "<br> - There is an LG logo visible on the front of the phone.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "samsung, huawei"
+  },
+  {
+    "question_id": "316",
+    "question": "What type of Doritos are these? Choices: spicy sweet chili, cool ranch, taco flavor, nacho cheese",
+    "predicted_answer": "chips",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The bag of Doritos is blue and has a label that says \"Garlic Ranch.\"",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.999568429775998,
+    "reason_vf_correct": "<br> - The bag of Doritos is blue.",
+    "reason_vf_incorrect": "<br> - The bag has a label that says \"Garlic Ranch.\"",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "271",
+    "question": "What does this say? Choices: \"laptop model, macbook air\", apple device, macbook pro",
+    "predicted_answer": "macbook pro",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The reflection of a person's head and face can be seen in the screen, with their eyes looking at the camera.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.3570874820993061,
+    "reason_vf_correct": "<br> - There is a reflection of a person's head and face on the screen.",
+    "reason_vf_incorrect": "<br> - The person's eyes in the reflection are looking at the camera.",
+    "reason_contr": "apple device"
+  },
+  {
+    "question_id": "7",
+    "question": "IS there a picture on this tv screen? Choices: not sure, unanswerable, yes, yes",
+    "predicted_answer": "no",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "No",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2813213662370418,
+    "reason_vf_correct": "<br> - I'm sorry, but there are no details provided in the rationale to generate questions from, yes.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "yes, not sure, unanswerable"
+  },
+  {
+    "question_id": "389",
+    "question": "What is this color please? Choices: chrome, metallic, silver, white",
+    "predicted_answer": "black",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The fabric in the image is black, and it appears to be a piece of cloth or material that has been rolled up or folded.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5699594519663707,
+    "reason_vf_correct": "<br> - The fabric in the image is black.<br> - The fabric in the image is rolled up or folded.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "183",
+    "question": "What is this? Choices: tablet, keyboard, monitor, printer",
+    "predicted_answer": "macbook",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The laptop in the image is a MacBook, which is an Apple product. It has a white color and features a keyboard with black keys. The screen of the laptop displays a web page, indicating that it is being used for browsing or other online activities.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9972839480759786,
+    "reason_vf_correct": "<br> - The laptop in the image is white in color.<br> - The laptop has a keyboard with black keys.",
+    "reason_vf_incorrect": "<br> - The screen of the laptop is displaying a web page.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "171",
+    "question": "What letters do I type in to win the prize? Choices: tlz, abc, win, prize letters",
+    "predicted_answer": "you've won 10 swoosh bucks!",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The reason for this answer is that it is a Facebook post with a message congratulating someone on winning ten swoosh bucks.",
+    "visual_fidelity": 0.3333333333333333,
+    "contrastiveness": 0.3752339622993922,
+    "reason_vf_correct": "<br> - The Facebook post contains a message congratulating someone.",
+    "reason_vf_incorrect": "<br> - The image is a Facebook post.<br> - The congratulatory message is about winning ten swoosh bucks.",
+    "reason_contr": "xyz, win"
+  },
+  {
+    "question_id": "37",
+    "question": "What is this? What is this? Choices: computer, lamp, projector, television",
+    "predicted_answer": "tv",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The person sitting on the couch is watching television, which is located in front of them.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999956258735684,
+    "reason_vf_correct": "<br> - The person is sitting on the couch.<br> - There is a television located in front of the person.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "128",
+    "question": "What is this? Choices: remote, phone, tablet, book",
+    "predicted_answer": "tablet",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a black and white tablet computer sitting on top of a yellow blanket.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.0204513480651396,
+    "reason_vf_correct": "<br> - There is a tablet computer in the image.<br> - The tablet is sitting on top of a yellow blanket.",
+    "reason_vf_incorrect": "<br> - The tablet computer is black and white.",
+    "reason_contr": "laptop"
+  },
+  {
+    "question_id": "143",
+    "question": "What is this? Choices: tablet, laptop, smartphone, apple computer",
+    "predicted_answer": "vinyl",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a computer monitor with a bottle of water sitting next to it on a desk.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9831759756633616,
+    "reason_vf_correct": "<br> - There is a computer monitor in the image.<br> - There is a bottle of water next to the computer monitor.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

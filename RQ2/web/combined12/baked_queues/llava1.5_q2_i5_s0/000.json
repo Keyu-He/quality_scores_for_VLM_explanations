@@ -1,0 +1,50 @@
+[
+  {
+    "question_id": "7",
+    "question": "What is the descriptive word for this surface? Choices: barren, crowded, minimalist, empty",
+    "predicted_answer": "Empty",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The surface in the image is described as empty. This implies that there are no other objects or items on the surface, making it a minimalist and uncluttered space. The presence of a black cat sitting in front of a computer screen further emphasizes the emptiness of the surface, as the cat is the only object occupying the space.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.36991785362325547,
+    "reason_vf_correct": "<br> - There is a black cat sitting in front of the computer screen.",
+    "reason_vf_incorrect": "<br> - The cat is the only object occupying the space.",
+    "reason_contr": "barren, minimalist"
+  },
+  {
+    "question_id": "8",
+    "question": "What is the person on the left doing with their body? Choices: crouching, leaping, flying, twirling",
+    "predicted_answer": "Leaping",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The person on the left is leaping into the air while riding a wave on a surfboard. This action demonstrates their skill and control over the surfboard, as they are able to launch themselves into the air and maintain balance during the jump. Leaping is a common maneuver in surfing, as it allows the surfer to perform aerial tricks or simply enjoy the thrill of being airborne above the water.",
+    "visual_fidelity": 0.3333333333333333,
+    "contrastiveness": 0.6050786650380716
+  },
+  {
+    "question_id": "1",
+    "question": "Which number birthday is probably being celebrated? Choices: one, ten, nine, thirty",
+    "predicted_answer": "Thirty",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the birthday cake has the number \"30\" on it. This indicates that the person celebrating their birthday is turning 30 years old.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9995591053869883
+  },
+  {
+    "question_id": "5",
+    "question": "The thing on the animal to the left's head is similar to what is on the head of what else? Choices: devil, zombie, vampire, witch",
+    "predicted_answer": "Witch",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The horns on the animal to the left's head are similar to the horns on the head of the witch in the image. Both the horns on the animal and the horns on the witch are large and pointy, giving them a similar appearance.",
+    "visual_fidelity": 0.25,
+    "contrastiveness": 0.28572173222460584
+  },
+  {
+    "question_id": "3",
+    "question": "What is the white substance on top of the cupcakes? Choices: butter, mayo, ice cream, icing",
+    "predicted_answer": "Icing",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The white substance on top of the cupcakes is icing. This can be inferred from the fact that icing is commonly used as a topping for cupcakes to enhance their flavor and appearance. In the image, there are three cupcakes with icing on top, which indicates that they have been decorated with icing as part of their presentation. Additionally, icing is a common ingredient in cupcake recipes, so it is reasonable to assume that the white substance on top of the cupcakes is indeed icing.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9944673118091006
+  }
+]

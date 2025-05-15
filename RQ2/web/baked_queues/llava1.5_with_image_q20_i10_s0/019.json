@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "131",
+    "question": "What level of a house is this room located in? Choices: basement, ground, second, third",
+    "predicted_answer": "ground",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the room is described as a living room, which is typically located on the ground floor of a house. The presence of furniture such as couches, chairs, and a coffee table, as well as the fireplace, further supports the idea that this room is situated on the ground level of the house. Basements, second, and third floors typically do not have living rooms or fireplaces, making the ground floor the most likely location for this room.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999546017434218,
+    "reason_vf_correct": "<br> - The room is described as a living room.<br> - There is furniture such as couches, chairs, and a coffee table in the room.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "159",
+    "question": "What video game system is the man playing? Choices: xbox one, playstation 5, nintendo wii, atari",
+    "predicted_answer": "nintendo wii",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The man in the image is playing a video game on a Nintendo Wii system. This is evident from the fact that he is holding a Wii remote, which is the primary controller for the Wii gaming system. The Wii remote is a motion-sensitive controller that allows players to interact with games through physical gestures, such as swinging, pointing, and tilting. The presence of the Wii remote in the man's hand confirms that he is playing a game on the Nintendo Wii system.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999717185854764,
+    "reason_vf_correct": "<br> - The man is holding a Wii remote in his hand.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "287",
+    "question": "What does the cat have his paw up against? Choices: book, mouse, toilet, desk",
+    "predicted_answer": "book",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The cat has his paw up against a book. The reasoning behind this answer is that cats are known for their curiosity and playfulness, and they often interact with objects in their environment. In this case, the cat may have been attracted to the book due to its smell, texture, or appearance, and decided to play with it by placing its paw on the book. This is a common behavior among cats, as they enjoy exploring and interacting with various objects in their surroundings.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.5135159745167326,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The cat's paw is up against a book.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "393",
+    "question": "When does meter enforcement have their days off? Choices: pta days, holidays, weekdays, weekend",
+    "predicted_answer": "weekdays",
+    "prediction_is_correct": 0,
+    "generated_rationale": "Meter enforcement has their days off on weekdays. This is because parking meters are typically enforced during weekdays when there is a higher demand for parking spaces in urban areas. On weekends and holidays, the demand for parking spaces is generally lower, which allows for more relaxed enforcement of parking regulations. The reasoning behind this schedule is to ensure that parking spaces are available for people who need them during the week while still allowing for some flexibility on weekends and holidays.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0044686507003179,
+    "reason_vf_correct": "<br> - The image is showing a parking meter.<br> - The image indicates that parking meter enforcement is active on weekdays.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "pta days, holidays, weekend"
+  },
+  {
+    "question_id": "409",
+    "question": "What type of phones are being used? Choices: pay, rotary, landline, cellular",
+    "predicted_answer": "cellular",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the people in the image are using cellular phones, as indicated by the presence of cell phones in their hands. Pay phones, rotary phones, and landline phones are not being used by the people in the image.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999659307364312,
+    "reason_vf_correct": "<br> - The people in the image are holding cell phones in their hands.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "478",
+    "question": "What type of company has an ad at the court? Choices: clothing, travel, health, food",
+    "predicted_answer": "travel",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The company with an ad at the tennis court is Continental Airlines. The reasoning behind this answer is that Continental Airlines is a well-known airline company, and it is common for companies to advertise their products or services at sports venues, such as tennis courts, to reach a broader audience. The presence of the Continental Airlines logo in the image indicates that they are sponsoring the event or have an advertisement at the court.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.99999571132769,
+    "reason_vf_correct": "<br> - There is an advertisement for Continental Airlines at the tennis court.<br> - The Continental Airlines logo is visible in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "76",
+    "question": "Why would you use this bag? Choices: shop, travel, catch, preserve",
+    "predicted_answer": "travel",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The bag in the image is a suitcase, which is typically used for traveling. It is filled with various items, such as toiletries, clothing, and other personal belongings. This suggests that the owner of the suitcase is preparing for a trip or has recently returned from one. The suitcase serves as a convenient and organized way to transport these items while traveling, ensuring that the owner has everything they need during their journey.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9984398142947152,
+    "reason_vf_correct": "<br> - The bag in the image is a suitcase.<br> - The suitcase is filled with various items.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "192",
+    "question": "What area of the house is this in? Choices: kitchen, bathroom, basement, bedroom",
+    "predicted_answer": "bathroom",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the man is sitting on a toilet, which is typically found in a bathroom. The presence of the toilet and the man's position on it strongly suggest that this scene takes place in a bathroom, rather than a kitchen, bedroom, or basement.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999671221690336,
+    "reason_vf_correct": "<br> - The man is sitting on a toilet.<br> - There is a toilet visible in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "208",
+    "question": "What do people do with the items purchased at this corner? Choices: sell them, eat them, wear them, display them",
+    "predicted_answer": "display them",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the items purchased at this corner are typically displayed in the store's window or inside the store for customers to view and potentially make a purchase. This is a common practice in retail businesses, as it showcases the products and attracts potential customers to enter the store. In the image, there is a man standing on the sidewalk with a handbag, which suggests that he might have just made a purchase or is about to enter the store to do so. The presence of the handbag indicates that the items purchased at this corner are likely to be displayed, either in the store's window or inside the store, rather than being sold, eaten, worn, or displayed elsewhere.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.791248340292528,
+    "reason_vf_correct": "<br> - There is a man standing on the sidewalk with a handbag.<br> - There is a store window or display visible in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "126",
+    "question": "What theme park attraction are they most likely visiting? Choices: disney world, disneyland, universal studios, six flags",
+    "predicted_answer": "disneyland",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The most likely theme park attraction they are visiting is Disneyland. In the image, there is a horse-drawn trolley, which is a common attraction found in Disneyland. Additionally, the presence of multiple people in the scene suggests that it could be a popular tourist destination, further supporting the idea that they are visiting Disneyland. Other theme parks, such as Disney World, Universal Studios, or Six Flags, do not typically feature horse-drawn trolleys as a primary attraction.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999826739725557,
+    "reason_vf_correct": "<br> - There is a horse-drawn trolley in the image.<br> - There are multiple people present in the scene.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

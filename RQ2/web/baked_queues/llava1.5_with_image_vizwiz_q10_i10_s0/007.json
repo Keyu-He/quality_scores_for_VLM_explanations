@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "436",
+    "question": "this can? Choices: chili, vegetable stew, minestrone, tomato soup",
+    "predicted_answer": "select home",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The person holding the Select Home can of soup has a black shirt on, and it appears to be a cold weather season. The can of soup contains split pea with roast beef, which is a popular choice for those who enjoy hearty soups. The can is placed in front of the person's body, making it easily accessible for consumption.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.1816816333945949,
+    "reason_vf_correct": "<br> - The can of soup is labeled as containing split pea with roast beef.<br> - The can of soup is placed in front of the person's body.",
+    "reason_vf_incorrect": "<br> - The person is holding a can of soup labeled \"Select Home.\"<br> - The person is wearing a black shirt.",
+    "reason_contr": "minestrone"
+  },
+  {
+    "question_id": "174",
+    "question": "Which one of these cards is my slate card? Choices: top card, middle card, left card, right card",
+    "predicted_answer": "slate",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The Slate card is a blue and white credit card that has the word \"Slate\" written on it in blue letters. It is placed on top of a brown carpet, which provides a contrasting background for the card. The card appears to be made of plastic and is likely used for making purchases or payments at various establishments.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0899517671923152,
+    "reason_vf_correct": "<br> - There is a blue and white credit card in the image.<br> - The card has the word \"Slate\" written on it in blue letters.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "top card, middle card, left card"
+  },
+  {
+    "question_id": "419",
+    "question": "What is this? Choices: xbox controller, tv remote, computer mouse, gaming headset",
+    "predicted_answer": "sony",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The person holding the red Sony PlayStation controller is likely a gamer who enjoys playing video games on their console. They may be in a living room or bedroom, as there are two bottles nearby and a book on a surface. The presence of these items suggests that this space might be used for relaxation and entertainment purposes.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9999131006500492,
+    "reason_vf_correct": "<br> - The person is holding a red Sony PlayStation controller.<br> - There are two bottles nearby.",
+    "reason_vf_incorrect": "<br> - There is a book on a surface.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "194",
+    "question": "Can you please state what's in the photo? Choices: notices, advertisements, flyers, messages",
+    "predicted_answer": "an announcement for trinity university of asia",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The poster is advertising Trinity University of Asia and has a lot of information about it.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3529376038311883,
+    "reason_vf_correct": "<br> - There is a poster in the image.<br> - The poster advertises Trinity University of Asia.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "notices, advertisements"
+  },
+  {
+    "question_id": "377",
+    "question": "What is this item? Choices: salsa, ketchup, barbecue sauce, mustard",
+    "predicted_answer": "hot pepper sauce",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The bottle of hot pepper sauce has a label that says \"Hot Peppermint Jamaican.\" This suggests that the sauce contains both peppers and mint, which could provide a unique flavor combination. The red color of the bottle indicates that it is likely to be spicy or contain capsaicin, which is the chemical responsible for the heat in hot peppers.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9387456487450292,
+    "reason_vf_correct": "<br> - The bottle is red in color.",
+    "reason_vf_incorrect": "<br> - The label on the bottle says \"Hot Peppermint Jamaican.\"",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "79",
+    "question": "Can you tell me what sort of card this is? Choices: loyalty card, gift card, credit card, discount card",
+    "predicted_answer": "harvest homeowners rewards",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The card is a Harvest Homeowners Rewards card, which is used for savings on various purchases.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.3030275529872713,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The card is labeled as a Harvest Homeowners Rewards card.",
+    "reason_contr": "loyalty card"
+  },
+  {
+    "question_id": "219",
+    "question": "What is in this box? Choices: pizza, salad, cookies, fruit",
+    "predicted_answer": "special lasagna",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The box contains a special lasagna, which is a dish made with layers of pasta and meat or vegetables. It appears to be a meal that can be prepared quickly and easily, as it comes pre-cooked and ready to eat. The presence of the fork on top of the box suggests that this dish may be served in a casual setting, such as at home or during a picnic.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999395935169004,
+    "reason_vf_correct": "<br> - There is a lasagna in the box.<br> - There is a fork on top of the box.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "87",
+    "question": "Is the TV on right now? Choices: yes, not sure, no, unanswerable",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The TV is turned on and displaying a video game, which indicates that it is currently in use.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9955538813677144,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The TV is displaying a video game.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "133",
+    "question": "what do you see? Choices: desk, window, book, wall",
+    "predicted_answer": "windows",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "Windows",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.3208235356791485,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There are windows visible in the image.",
+    "reason_contr": "window, book"
+  },
+  {
+    "question_id": "241",
+    "question": "what is this? what it is this? Choices: controller, device, gadget, tool",
+    "predicted_answer": "remote control",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a black remote control sitting on top of a wooden table, possibly made from wood or laminate. The remote control has buttons and a directional pad, which are commonly found on such devices. It appears to be an electronic device used for controlling various functions in a television or other entertainment system.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2525481994166805,
+    "reason_vf_correct": "<br> - There is a black remote control in the image.<br> - The remote control is sitting on top of a wooden table.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "controller, device, gadget"
+  }
+]

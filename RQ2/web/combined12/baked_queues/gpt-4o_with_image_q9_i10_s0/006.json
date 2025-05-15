@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "133",
+    "question": "What country headquarters this plane company? Choices: canada, japan, usa, uk",
+    "predicted_answer": "uk",
+    "prediction_is_correct": 0,
+    "generated_rationale": "Based on the image showing a Virgin Atlantic airplane, we know that Virgin Atlantic is an airline headquartered in the United Kingdom. The branding and the name of the airline are associated with the UK, where it was founded and primarily operates. \n\nThus, the answer is UK.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999988191589526
+  },
+  {
+    "question_id": "43",
+    "question": "Which food item is the knife for? Choices: bread, fruit, vegetables, meat",
+    "predicted_answer": "meat",
+    "prediction_is_correct": 1,
+    "generated_rationale": "Based on the image, the knife has a serrated edge, which is commonly used for cutting meat. The serrations help to grip and slice through tougher textures, which is important when dealing with various types of meat. The food on the plate appears to be meat, possibly cooked and prepared for consumption, which would require a knife suited for cutting through the meat efficiently.\n\nThus, the answer is meat.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.7720832366304681
+  },
+  {
+    "question_id": "481",
+    "question": "What is used to keep their balance? Choices: snow, swords, ski poles, knives",
+    "predicted_answer": "ski poles",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows individuals skiing on a snowy path. Skiers typically use ski poles to aid in keeping their balance while navigating uneven or sloped terrain. The presence of snow indicates the environment but doesn't serve the balance purpose. Swords and knives are not associated with skiing equipment. Thus, the most logical choice is ski poles.\n\nThus, the answer is ski poles.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.499819754980641
+  },
+  {
+    "question_id": "434",
+    "question": "The dishes appear to be sitting on what? Choices: table, ground, couch, stove",
+    "predicted_answer": "ground",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows dishes placed on a surface covered with leaves and dirt, which resembles outdoor ground conditions rather than a flat and smooth surface like a table, couch, or stove. The presence of natural elements such as leaves strongly suggests that the dishes are on the ground. \n\nThus, the answer is ground.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999629361951994
+  },
+  {
+    "question_id": "72",
+    "question": "The name of the street is the same as the last name of what actress? Choices: eva mendes, jessica biel, eva green, jessica alba",
+    "predicted_answer": "eva green",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The street sign in the image shows the name \"Green.\" Among the choices provided, the actress with the last name \"Green\" is Eva Green. \n\nThus, the answer is Eva Green.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.8707088506480258
+  },
+  {
+    "question_id": "306",
+    "question": "What does the electric street sign say? Choices: proceed, don't walk, yield, walk",
+    "predicted_answer": "walk",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The electric street sign visible in the image indicates the instruction for pedestrians at the crosswalk. The sign clearly displays the word \"walk,\" which signals that it is safe for pedestrians to cross the street.\n\nThus, the answer is \"walk.\"",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.42154617718670445
+  },
+  {
+    "question_id": "128",
+    "question": "The temperature outside is likely what range? Choices: below freezing, hot, cool, very humid",
+    "predicted_answer": "cool",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The individual in the image is wearing a jacket and a beanie, suggesting cooler weather. The ground appears green and not covered in frost or snow, indicating it is likely not below freezing. The field doesn't show signs of high heat stress on the grass or drought conditions. The attire and environment imply a cool temperature rather than very humid or hot conditions.\n\nThus, the answer is cool.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999947766633565
+  },
+  {
+    "question_id": "285",
+    "question": "Is the man going to the mountain in the background? Choices: absolutely no, yes, absolutely yes, probably yes",
+    "predicted_answer": "probably yes",
+    "prediction_is_correct": 0,
+    "generated_rationale": "Based on the image, the man is sitting in the back of a vehicle with an open road behind him leading towards the mountains in the background. This suggests that he might be traveling towards the mountains, but it is not certain. The presence of luggage may imply that he is on a trip, possibly to the mountains. However, without explicit evidence, it is hard to be completely sure. Thus, the most reasonable choice given the visual clues is that he is likely heading towards the mountains. \n\nThus, the answer is probably yes.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5077663522219276
+  },
+  {
+    "question_id": "398",
+    "question": "What type cruciferous vegetable is topping this pie? Choices: tomato, pepperoni, feta, broccoli",
+    "predicted_answer": "broccoli",
+    "prediction_is_correct": 1,
+    "generated_rationale": "Rationale: The question asks for a cruciferous vegetable topping the pie. Among the choices given\u2014tomato, pepperoni, feta, and broccoli\u2014broccoli is the only cruciferous vegetable. Tomatoes are fruits, pepperoni is a type of sausage, and feta is a cheese. Therefore, broccoli is the one that fits the category of cruciferous vegetables.\n\nThus, the answer is broccoli.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999957214954299
+  },
+  {
+    "question_id": "31",
+    "question": "What is beside the person on the seat? Choices: white bag, food, paper bag, pillow",
+    "predicted_answer": "white bag",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The item beside the person on the seat is a bag that appears white in color. It closely resembles the size and shape typically observed with white plastic bags. There is no visible indication of food, a paper bag, or a pillow beside the person. \n\nThus, the answer is white bag.",
+    "visual_fidelity": 0.6,
+    "contrastiveness": 0.9999322019752799
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "16",
+    "question": "What is this?",
+    "predicted_answer": "bedroom",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image depicts a room that appears to be a bedroom, based on the presence of a bed with patterned bedding in the foreground. There is also a television mounted on the wall, which suggests that this room serves as both a sleeping and entertainment space. The presence of personal items like clothing, bags, and other miscellaneous objects scattered around the room further supports this conclusion. The overall layout and items in the image are consistent with a bedroom setting.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.950159323,
+    "reason_vf_correct": "<br> - There is a bed with patterned bedding in the foreground of the image.<br> - There is a television mounted on the wall in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "168",
+    "question": "whats this?",
+    "predicted_answer": "tv",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a television set displaying what appears to be a video game or some form of digital content. The screen shows text and graphics that are typical for gaming consoles, such as the Sega Dreamcast, which is visible in the image. The console itself is placed on a wooden stand or table, and there are cables connected to it, suggesting that it's being used for gaming. The setup is a classic example of how older gaming consoles were connected to televisions, allowing players to enjoy games on the screen.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999972637,
+    "reason_vf_correct": "<br> - There is a television set in the image.<br> - The screen is displaying text and graphics typical for gaming consoles.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "349",
+    "question": "what kind of pee is this?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image you've provided does not contain any information about pee or its kind. Instead, it shows a small green container with text on it that appears to be some sort of product, possibly tea or coffee. The label includes the word \"Gelato,\" which suggests it might be a gelato or ice cream product. Since the image does not contain any information related to pee, it is unanswerable what kind of pee this could be.",
+    "visual_fidelity": 0.666666667,
+    "contrastiveness": 0.93229616,
+    "reason_vf_correct": "<br> - There is a small green container in the image.<br> - The container has text on it.",
+    "reason_vf_incorrect": "<br> - The label on the container includes the word \"Gelato.\"",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "149",
+    "question": "What is this item?",
+    "predicted_answer": "pear",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a hand holding what appears to be a pear, identifiable by its shape and color. The pear is green with some yellow tones, which are typical characteristics of a pear fruit. The background includes various items such as a box of Nestl\u00e9 Toll House chocolate chips, some papers, and what looks like a smartphone on the table. The setting appears to be indoors, possibly in a kitchen or dining area.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.249331206,
+    "reason_vf_correct": "<br> - The item is being held in a hand.<br> - The item has a shape and color typical of a pear.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "apple, banana, orange"
+  },
+  {
+    "question_id": "296",
+    "question": "What does this knob say?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up of a control knob with text that describes different heat settings and their corresponding descriptions. The text on the knob reads:\n\n- \"WHITES AND COLORS\" with a description of \"HIGH HEAT WITH COOL DOWN\"\n- \"STURDY PERMANENT\" with a description of \"MEDIUM HEAT WITH COOL DOWN\"\n- \"DELICATE PERMANENT\" with a description of \"LOW HEAT WITH COOL DOWN\"\n\nThe knob itself is not labeled, but the text around it provides instructions for different heat settings. If you are asking about what the knob says, there is no text on the knob itself; only the descriptions of heat settings are visible.",
+    "visual_fidelity": 0.8,
+    "contrastiveness": 0.932724955,
+    "reason_vf_correct": "<br> - The text around the knob describes different heat settings.<br> - There is a description for \"WHITES AND COLORS\" that reads \"HIGH HEAT WITH COOL DOWN.\"",
+    "reason_vf_incorrect": "<br> - There is no text directly on the knob itself.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "40",
+    "question": "What gift card is this?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a gift card with the text \"Rewards\" and what appears to be part of a logo or brand name, but it is not clear enough to identify the specific gift card. The text \"Rewards\" suggests that this could be a rewards-based gift card, possibly from a retailer or service provider that offers points or discounts for purchases. However, without more distinct details such as the brand name, logo, or additional text, it is not possible to determine which specific gift card this is.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.431923088,
+    "reason_vf_correct": "<br> - The gift card in the image has the text \"Rewards\" on it.<br> - There is a part of a logo or brand name visible on the gift card in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "loyalty points card"
+  },
+  {
+    "question_id": "114",
+    "question": "What kind of computer is this?",
+    "predicted_answer": "dell",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a Dell-branded computer monitor, which indicates that the computer itself is likely a Dell model. However, without seeing the full computer or additional details about its components (such as the keyboard and tower), it's not possible to definitively state what kind of Dell computer this is. The monitor appears to be a Dell model, but the full system would need to be examined for more specific details.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.52108721,
+    "reason_vf_correct": "<br> - There is a Dell logo visible on the computer monitor.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "60",
+    "question": "What kind of phone is this?",
+    "predicted_answer": "blackberry curve 3g",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a BlackBerry Curve 3G smartphone, which is identifiable by its distinctive design and features. The phone has a physical QWERTY keyboard, which is characteristic of BlackBerry devices from that era. The screen displays the AT&T logo and a notification for \"3 Messages,\" indicating it is connected to an AT&T network. The interface also shows the time as 12:21 and the date as Thursday, May 21. The presence of a \"3G\" label on the phone's branding confirms that it is a BlackBerry Curve 3G model, which was part of BlackBerry's lineup during the mid-2000s.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999999365,
+    "reason_vf_correct": "<br> - The phone has a physical QWERTY keyboard.<br> - The AT&T logo is displayed on the screen.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "46",
+    "question": "What is this thing?",
+    "predicted_answer": "computer",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a laptop screen displaying the \"Startup Repair\" process on what appears to be a Windows operating system. The message indicates that the computer was unable to start and is currently checking for problems with Startup Repair. There's an option presented asking if the user wants to restore their computer using System Restore, which is a feature in Windows that allows users to revert the system state back to an earlier point in time. The presence of this screen suggests that there might be a technical issue with the computer's startup, and the user is being prompted to attempt a repair or restoration process.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999999055,
+    "reason_vf_correct": "<br> - The screen is displaying the \"Startup Repair\" process.<br> - The operating system shown on the screen is a Windows operating system.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "343",
+    "question": "What does it say exactly on this coupon?",
+    "predicted_answer": "free baja shrimp taco, tostada or quesadilla with $10 minimum purchase before",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The coupon in the image states:\n\n\"FREE BAJA SHRIMP TACO, BAJA SHRIMP TOSTADA or BAJA SHRIMP QUESADILLA with $10 minimum purchase before.\"\n\nThis means that for a minimum purchase of $10, the customer can get one of these three items: Baja Shrimp Taco, Baja Shrimp Tostada, or Baja Shrimp Quesadilla.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.588049298,
+    "reason_vf_correct": "<br> - The coupon states \"FREE BAJA SHRIMP TACO, BAJA SHRIMP TOSTADA or BAJA SHRIMP QUESADILLA.\"<br> - The coupon mentions a \"$10 minimum purchase before.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": "\"buy one get one"
+  }
+]

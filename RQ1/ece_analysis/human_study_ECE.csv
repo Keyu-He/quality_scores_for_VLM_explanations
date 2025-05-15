@@ -1,0 +1,3 @@
+Model,Accuracy,VisualFidelity,Contrastiveness,VF*Contrastiveness,"Min(VF,Contrast)","Avg(VF,Contrast)",Support,Informative,Commonsense_Plausibility
+llava-v1.5-7b,0.5,0.307,0.2739,0.1781,0.1951,0.2727,0.3788,0.5,0.0791
+qwen2.5-vl-7b-instruct,0.5,0.431,0.305,0.2886,0.2757,0.3089,0.2747,0.51,0.1847

@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "0",
+    "question": "What is in the motorcyclist's mouth? Choices: toothpick, food, popsicle stick, cigarette",
+    "predicted_answer": "cigarette",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The object in the motorcyclist's mouth is slender and white, which is consistent with the appearance of a cigarette. Toothpicks are generally thinner and often wooden or clear, while popsicle sticks are wider and usually wooden. Food items would typically have a variable shape that doesn't match the uniform, slim line seen here. \n\nThus, the answer is cigarette.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.16468600315422366
+  },
+  {
+    "question_id": "236",
+    "question": "What is the relationship of the people at the back to the man wearing an orange hat? Choices: students, family members, friends, customers",
+    "predicted_answer": "customers",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a man wearing an orange hat driving a horse-drawn carriage, with people seated behind him. This setup is typically associated with a carriage ride service, where the driver takes customers on a tour or ride. The seated individuals appear to be enjoying the ride and taking photos, which further suggests they might be customers experiencing an attraction or sightseeing. Thus, the relationship is likely transactional, consistent with a service experience.\n\nThus, the answer is customers.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9997127452875331
+  },
+  {
+    "question_id": "140",
+    "question": "What vehicle is shown in the photo? Choices: airplane, bus, train, car",
+    "predicted_answer": "airplane",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a vehicle with wings, a cockpit, and features typical of an aircraft, such as a tail fin and landing gear components. Additionally, the markings on the vehicle suggest it is related to the military, as indicated by \"USAF,\" which stands for United States Air Force. These characteristics are consistent with an airplane rather than a bus, train, or car.\n\nThus, the answer is airplane.",
+    "visual_fidelity": 0.8,
+    "contrastiveness": 0.9999998070193523
+  },
+  {
+    "question_id": "206",
+    "question": "Why is his arm up in the air? Choices: signal, balance, wave, reach",
+    "predicted_answer": "reach",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a tennis player on a court with his arm raised and a racket in hand, which is typical during a serve in tennis. This position is not usually associated with signaling, balancing, waving, or reaching outside the context of sports. The most relevant choice, considering the context of tennis, is reaching for a serve or a return shot. Tennis players often extend their arms upward to serve the ball, which requires reaching to hit the ball high above them.\n\nThus, the answer is reach.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9998894926803116
+  },
+  {
+    "question_id": "124",
+    "question": "What is in the bottles? Choices: beer, liquer, water, juice",
+    "predicted_answer": "liquor",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The bottles in the image are dark and short, which is a common characteristic of bottles used for liquor, especially when served in miniatures like those often found on airplanes. The design and labeling further suggest a type of alcoholic beverage. Beer bottles are typically larger and have a different shape, while water and juice containers do not match the appearance seen here. \n\nThus, the answer is liquor.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5462226296308303
+  },
+  {
+    "question_id": "227",
+    "question": "Given the position of the bat and ball the batter most likely? Choices: missed, fouled, popped up, grounded out",
+    "predicted_answer": "popped up",
+    "prediction_is_correct": 0,
+    "generated_rationale": "Based on the image, the batter appears to have made contact with the ball, given its position near the bat. The swing form and angle suggest that the ball is driven directly upward. This motion is commonly associated with a \"pop-up\", where the ball is hit high into the air without much distance horizontally. It does not appear to be a foul, missed, or a ground out based on the trajectory indicated.\n\nThus, the answer is \"popped up.\"",
+    "visual_fidelity": 0.3333333333333333,
+    "contrastiveness": 0.9998855952137262
+  },
+  {
+    "question_id": "126",
+    "question": "What theme park attraction are they most likely visiting? Choices: disney world, disneyland, universal studios, six flags",
+    "predicted_answer": ": disneyland",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image depicts a horse-drawn trolley with \u201cDisneyland\u201d clearly marked on it. Disneyland is one of the famous theme parks, located in California, and this specific attraction is a known feature of the park. The presence of Disneyland branding directly indicates the location.\n\nThus, the answer is: disneyland.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.49992562739334645
+  },
+  {
+    "question_id": "460",
+    "question": "How many people are visible in the water? Choices: five, six, two, seven",
+    "predicted_answer": "six",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image shows multiple people in the water riding waves. Upon close observation, I can count six distinct individuals visible among the waves. Each person is either sitting or paddling on a surfboard. \n\nThus, the answer is six.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.37187402654051216
+  },
+  {
+    "question_id": "336",
+    "question": "The weather element occurring is also the constituent of what object in the background? Choices: river, waterfall, aqueduct, ocean",
+    "predicted_answer": "ocean",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The weather element occurring in the image is rain, as indicated by the umbrellas and the wet ground. The object in the background that is associated with a large body of water is the \"ocean,\" which is visible from the image context, considering it's a beach scene. The ocean is a natural body of saltwater, similar to rain, which is a form of freshwater originating from atmospheric processes.\n\nThus, the answer is ocean.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9494789596447959
+  },
+  {
+    "question_id": "30",
+    "question": "Where are we at? Choices: fair, garage sale, street festival, flea market",
+    "predicted_answer": "flea market",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image shows a crowded outdoor setting with people walking and browsing various items. There are multiple stalls and vendors selling food and possibly other goods. This setup is typical of a flea market, where various vendors gather to sell a wide range of items in a lively, open-air environment. The presence of stalls, a variety of items for sale, and a bustling crowd distinguishes it from a garage sale or a street festival, which may not have such a structured market layout. \n\nThus, the answer is flea market.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.48756763089292493
+  }
+]

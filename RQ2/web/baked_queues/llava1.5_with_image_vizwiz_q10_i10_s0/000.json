@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "439",
+    "question": "What color is this? Choices: black, blue, white, red",
+    "predicted_answer": "green",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The shirt is white, not green.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 8.374993692759761e-05,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The shirt is white.",
+    "reason_contr": "black, blue, white"
+  },
+  {
+    "question_id": "47",
+    "question": "Can you tell me who this is from? Choices: \"health insurance, a friend, an unknown source, the government\"",
+    "predicted_answer": "emmm health",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The envelope is addressed to Emm Health, which suggests that it could be a medical bill or some form of communication related to the recipient's healthcare.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.8596426279993052,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The envelope is addressed to Emm Health.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "252",
+    "question": "What is in this can? Choices: peas, beans, soup, fruit",
+    "predicted_answer": "canned carrots",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a white stove with a can of canned carrots sitting on top of it. The can is open, and the carrots are visible inside. This scene suggests that someone might be preparing to cook or eat the carrots using the stove as their heat source. The presence of the can indicates that the carrots have been processed and packaged for easy storage and transportation.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999918986795758,
+    "reason_vf_correct": "<br> - There is a can sitting on top of a white stove.",
+    "reason_vf_incorrect": "<br> - The can is open with carrots visible inside.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "52",
+    "question": "What's on the screen? Choices: \"an error message, a login prompt, a video player, a desktop background\"",
+    "predicted_answer": "restart",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "Restart",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.1918920599928404,
+    "reason_vf_correct": "<br> - I'm sorry, but there are no explicit details in the rationale to generate specific yes/no questions about the image, yes.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "\"an error message, a login prompt, a video player"
+  },
+  {
+    "question_id": "99",
+    "question": "What is this? Choices: intestine, liver, heart, pancreas",
+    "predicted_answer": "hanes",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "Hanes",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.6771361413645244,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - I'm sorry, but there are no explicit details in the rationale to generate specific yes/no questions about the image, yes.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "90",
+    "question": "What is in this bottle? Choices: water, olive oil, vinegar, salt",
+    "predicted_answer": "spices",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The person holding the bottle of spices is likely using it to season their food, adding flavor and aroma to various dishes. Spices are commonly used in cooking as they can enhance the taste of ingredients and create unique flavor combinations. The hand holding the bottle suggests that the person might be preparing a meal or experimenting with different spice blends for their culinary creations.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9998976779120304,
+    "reason_vf_correct": "<br> - The person is holding a bottle.",
+    "reason_vf_incorrect": "<br> - The bottle is being held in a way that suggests it is being used to season food.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "186",
+    "question": "Whats displayed on the screen? Choices: error message, desktop background, system update, login screen",
+    "predicted_answer": "windows is loading files",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a laptop computer with its screen displaying \"Windows is loading files.\" This message indicates that the operating system is in the process of loading necessary files for proper functioning, such as drivers and software updates. It is not uncommon to see this message when starting up or after performing maintenance tasks on a computer. The presence of a person's reflection in the laptop screen further suggests that someone was using it before the image was taken.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.558709582012606,
+    "reason_vf_correct": "<br> - The screen is displaying the message \"Windows is loading files.\"<br> - There is a reflection of a person visible on the laptop screen.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "system update"
+  },
+  {
+    "question_id": "19",
+    "question": "Is the laptop screen open? Choices: yes, not sure, no, unanswerable",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The laptop screen is open and displaying a message on it.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9992152222211192,
+    "reason_vf_correct": "<br> - The laptop screen is open.<br> - There is a message displayed on the laptop screen.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "408",
+    "question": "What is it? Choices: rain, ice, sand, fog",
+    "predicted_answer": "tree",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a snowy pathway with trees on both sides, and a lone tree in the middle of the scene. There are several people walking along the path, some closer to the camera while others are further away. A car can be seen parked at the edge of the frame. The overall atmosphere is quiet and serene, as the snow-covered ground creates a peaceful setting for those enjoying the walkway.",
+    "visual_fidelity": 0.6,
+    "contrastiveness": 0.9803099050446672,
+    "reason_vf_correct": "<br> - There is a snowy pathway in the image.<br> - There are trees on both sides of the pathway.",
+    "reason_vf_incorrect": "<br> - There are several people walking along the path.<br> - There is a car parked at the edge of the frame.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "32",
+    "question": "What does my computer screen show? Choices: facebook, a blank page, a game, an error message",
+    "predicted_answer": "youtube",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a laptop computer with its screen open to YouTube.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4844374889598924,
+    "reason_vf_correct": "<br> - The computer in the image is a laptop.<br> - The laptop screen is open to YouTube.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "facebook"
+  }
+]

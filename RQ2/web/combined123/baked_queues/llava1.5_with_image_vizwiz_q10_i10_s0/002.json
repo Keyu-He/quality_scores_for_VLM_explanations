@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "111",
+    "question": "What's in that bottle? Choices: juice, vinegar, soda, oil",
+    "predicted_answer": "econatura",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "Econatura",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.1538340942179874,
+    "reason_vf_correct": "<br> - I'm sorry, but I can't generate questions based on the provided rationale as it doesn't contain any explicit visual details to verify, yes.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "juice, vinegar, soda"
+  },
+  {
+    "question_id": "56",
+    "question": "What is the app on the top left? Choices: email, calendar, photos, notes",
+    "predicted_answer": "calendar",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The app on the top left of the screen is a calendar.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.1336409997417522,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The app on the top left of the screen is a calendar.",
+    "reason_contr": "email, photos, notes"
+  },
+  {
+    "question_id": "376",
+    "question": "What is this? Choices: lip balm, lotion, lip gloss, cream",
+    "predicted_answer": "blistix",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "Blistix is a lip balm that has been around for quite some time, and it's known for its blue tube with white lettering. It contains SPF 15 sun protection, which helps protect the lips from harmful UV rays. The product is designed to provide moisture and prevent chapping, making it a popular choice among people who spend time outdoors or in harsh weather conditions.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0400096582116581,
+    "reason_vf_correct": "<br> - The lip balm in the image is in a blue tube with white lettering.<br> - The lip balm in the image contains SPF 15 sun protection.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "lip balm"
+  },
+  {
+    "question_id": "487",
+    "question": "Is the dog lying on his bed? Choices: yes, not sure, no, unanswerable",
+    "predicted_answer": "no",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The dog is not lying on its bed, it is laying in a blue crate or basket that is placed next to the bed.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9993298458966944,
+    "reason_vf_correct": "<br> - The dog is laying in a blue crate or basket.<br> - The blue crate is placed next to the bed.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "239",
+    "question": "Where is the printer? Choices: in the closet, next room, under the desk, by the window",
+    "predicted_answer": "printer",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The printer is on a table in front of a whiteboard.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4467166121062758,
+    "reason_vf_correct": "<br> - The printer is on a table.<br> - There is a whiteboard behind the table where the printer is located.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "next room"
+  },
+  {
+    "question_id": "153",
+    "question": "Can you please tell me if this has, this computer screen has an error message on it? Choices: yes, not sure, no, unanswerable",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "Yes",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.1987365121521668,
+    "reason_vf_correct": "<br> - There is an error message displayed on the computer screen.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "not sure, no, unanswerable"
+  },
+  {
+    "question_id": "37",
+    "question": "What is this? What is this? Choices: radio, computer, lamp, projector",
+    "predicted_answer": "tv",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The person sitting on the couch is watching television, which is located in front of them.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999956258735684,
+    "reason_vf_correct": "<br> - The person is sitting on the couch.<br> - There is a television located in front of the person.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "484",
+    "question": "what does it say? Choices: \"42, it\u2019s unclear, nothing specific, a question mark\"",
+    "predicted_answer": "honeywell",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "Honeywell",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.074218510203087,
+    "reason_vf_correct": "<br> - The text in the image says \"Honeywell.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": "\"42, it\u2019s unclear, nothing specific"
+  },
+  {
+    "question_id": "277",
+    "question": "What is this bottle? Choices: cleaning solution, water bottle, spray cleaner, detergent",
+    "predicted_answer": "spot shot",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "Spot Shot is a cleaning product that can be used to remove stains from various surfaces, including carpets and upholstery. It is designed to quickly and effectively eliminate tough stains without causing damage to the fabric or leaving any residue behind. The blue bottle of Spot Shot in the image contains a concentrated solution that can be diluted with water according to the specific instructions for each type of surface being cleaned.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.3157136713711931,
+    "reason_vf_correct": "<br> - The bottle in the image is blue.<br> - The product in the image is designed to remove stains from surfaces like carpets and upholstery.",
+    "reason_vf_incorrect": "<br> - The bottle in the image contains a concentrated solution.",
+    "reason_contr": "cleaning solution"
+  },
+  {
+    "question_id": "466",
+    "question": "What's in the jar? Choices: cinnamon, sugar, salt, pepper",
+    "predicted_answer": "nutmeg",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The jar contains nutmeg, which is a spice commonly used in cooking and baking.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5285776845896744,
+    "reason_vf_correct": "<br> - The jar is filled with nutmeg.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "cinnamon"
+  }
+]

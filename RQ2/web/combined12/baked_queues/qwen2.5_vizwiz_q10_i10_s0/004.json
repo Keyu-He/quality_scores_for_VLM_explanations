@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "318",
+    "question": "What kind of soda is this?",
+    "predicted_answer": "starbucks",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a bottle of soda with the label \"Starbucks\" on it, which is not correct. The actual brand shown in the image is \"Sprite,\" a well-known lemon-lime flavored soda produced by The Coca-Cola Company. The label on the bottle indicates that it is a \"Lemon Lime Flavored Soda\" and has a volume of 100% fluid ounces (35.5 fl oz). The green color and the design of the bottle are characteristic of Sprite's branding, not Starbucks.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.007433142,
+    "reason_vf_correct": "<br> - The label indicates that it is a \"Lemon Lime Flavored Soda.\"<br> - The bottle is green in color.",
+    "reason_vf_incorrect": "<br> - The label on the bottle is \"Sprite.\"<br> - The bottle has a volume of 100% fluid ounces (35.5 fl oz).",
+    "reason_contr": "cola"
+  },
+  {
+    "question_id": "56",
+    "question": "What is the app on the top left?",
+    "predicted_answer": "messages",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a screenshot of an iPad's home screen with various app icons. The top left icon is indeed labeled \"Messages,\" which is the standard messaging application on iOS devices, including iPads. This app allows users to send and receive text messages, as well as use iMessage for real-time messaging with other iOS devices.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999992386,
+    "reason_vf_correct": "<br> - The top left icon on the iPad's home screen is labeled \"Messages.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "20",
+    "question": "Do the clouds look like storm clouds?",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a residential area with houses, parked cars, and a cloudy sky. The clouds appear to be large and dark, which can sometimes indicate the possibility of stormy weather. However, without additional context such as lightning, thunder, or heavy rain, it's not possible to definitively determine if these clouds are storm clouds. The appearance of the clouds alone is a potential indicator, but it's not conclusive evidence.\n\nThe reasoning behind this answer involves the observation of cloud characteristics that are often associated with storm clouds, such as their size and darkness. However, it's important to note that cloud appearance alone is not a definitive indicator of stormy weather. Other factors, such as wind patterns and atmospheric pressure, would be needed to make a more accurate assessment.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.477928179,
+    "reason_vf_correct": "<br> - The clouds in the image are large.<br> - The clouds in the image are dark.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "not sure"
+  },
+  {
+    "question_id": "118",
+    "question": "What does the text over the OK button say on this screen?",
+    "predicted_answer": "octavarium test guitar saved",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The text over the \"OK\" button on this screen says, \"'Octavarium test guitar' saved.\"",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.30475805,
+    "reason_vf_correct": "<br> - The text over the \"OK\" button says \"'Octavarium test guitar' saved.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": "\"guitar settings saved, guitar saved"
+  },
+  {
+    "question_id": "393",
+    "question": "What is this?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up of what appears to be the top or bottom part of a container, possibly a jar or can. The text on it is partially visible and reads \"Saut\u00e9ed Potato\" in English, which suggests that the container might be related to a food product. However, without more context or additional images of other parts of the container, it is not possible to determine exactly what this item is or its purpose. Therefore, the question \"What is this?\" cannot be answered definitively based on the image alone.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.986771077,
+    "reason_vf_correct": "<br> - There is text visible on the container in the image.<br> - The text on the container reads \"Saut\u00e9ed Potato.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "72",
+    "question": "What is this?",
+    "predicted_answer": "notebook",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a piece of paper with text written in both print and Braille. The Braille is used to represent the letters, which are also written in print above it for clarity. The content appears to be a personal or informal note, discussing someone's health and medical condition, mentioning \"Meda\" (likely a person) who is failing to get better. The handwriting style and the inclusion of Braille suggest this might be a note written by or for someone who is visually impaired. The paper itself does not appear to be a notebook; it looks like a standard sheet of paper used for writing notes.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.005222161,
+    "reason_vf_correct": "<br> - There is text written in both print and Braille on the paper.<br> - The content of the paper is discussing someone's health and medical condition.",
+    "reason_vf_incorrect": "<br> - The paper mentions a person named \"Meda.\"",
+    "reason_contr": "tactile writing"
+  },
+  {
+    "question_id": "258",
+    "question": "Does it look sunny outside?",
+    "predicted_answer": "no",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The reasoning behind this answer is based on the lighting and shadows visible in the image. The window blinds are partially open, allowing some light to enter but not enough to suggest a sunny day. The overall brightness outside appears muted, and there are no strong shadows or bright highlights that would typically indicate sunlight. Additionally, the sky visible through the window is overcast and gray, which further supports the conclusion that it does not look sunny outside.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.983303992,
+    "reason_vf_correct": "<br> - The window blinds are partially open.<br> - The overall brightness outside is muted.",
+    "reason_vf_incorrect": "<br> - The sky visible through the window is overcast and gray.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "195",
+    "question": "What is this?",
+    "predicted_answer": "button",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a small, square-shaped object with text and what appears to be a circular logo or emblem in the center. The text on it reads \"Coca-Cola 1940's,\" which suggests that this is a commemorative or collectible item related to Coca-Cola from the 1940s. The circular emblem in the center resembles a vintage Coca-Cola logo, further supporting this interpretation.\n\nGiven that it is labeled \"1940's,\" and considering the design, it could be a button or badge that was likely produced to celebrate or commemorate Coca-Cola's history during the 1940s. These types of items are often collectible and can be found in vintage or antique shops, as well as online marketplaces.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999767908,
+    "reason_vf_correct": "<br> - The object in the image is square-shaped.<br> - The object has text that reads \"Coca-Cola 1940's.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "351",
+    "question": "What is this?",
+    "predicted_answer": "cream",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a hand holding a small, round container of Dove rich nourishment cream. The label on the container clearly indicates that it is a product by Dove, which is known for its skincare and beauty products. The text on the container reads \"Dove rich nourishment cream,\" confirming that this is indeed a cream product.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.441747948,
+    "reason_vf_correct": "<br> - There is a hand holding a small, round container in the image.<br> - The label on the container indicates that it is a product by Dove.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "moisturizing lotion, skin repair balm"
+  },
+  {
+    "question_id": "460",
+    "question": "What is this?",
+    "predicted_answer": "tortilla wraps",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a package of tortilla wraps, which are typically used to make burritos or other Mexican-inspired dishes. The packaging features an image of a filled tortilla wrap with visible ingredients such as vegetables and possibly meat, suggesting the type of food that can be prepared using these wraps. The text on the package confirms it is \"Tortilla Wraps,\" indicating that this product is designed for making wraps or similar dishes.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.588390974,
+    "reason_vf_correct": "<br> - The image shows a package labeled \"Tortilla Wraps.\"<br> - There is an image of a filled tortilla wrap on the packaging.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "flatbreads"
+  }
+]

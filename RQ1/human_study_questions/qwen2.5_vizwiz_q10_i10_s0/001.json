@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "477",
+    "question": "What kind of can is this?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a can of Stone Ice, which appears to be an energy drink. The label includes the number \"24 fl oz,\" indicating that it is a 24-ounce can. The design and branding are consistent with energy drink packaging, but without more context or a clearer view of the label, it's not possible to determine the exact flavor or specific details about this can.",
+    "visual_fidelity": 0.666666667,
+    "contrastiveness": 0.997984616,
+    "reason_vf_correct": "<br> - The can in the image has the label \"Stone Ice.\"<br> - The number \"24 fl oz\" is visible on the can.",
+    "reason_vf_incorrect": "<br> - The design and branding of the can resemble typical energy drink packaging.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "244",
+    "question": "What does this bag say?",
+    "predicted_answer": "premium croutons",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a package of \"Premium Croutons.\" The text on the packaging is clearly visible, and it reads \"PREMIUM CROUTONS\" in bold letters. The phrase \"Garlic Perfection!\" is also visible, suggesting that the croutons are flavored with garlic. The packaging appears to be for a product designed to enhance salads, as the image on the package shows croutons being used in a salad.",
+    "visual_fidelity": 0.666666667,
+    "contrastiveness": 0.825598189,
+    "reason_vf_correct": "<br> - The package in the image says \"PREMIUM CROUTONS\" in bold letters.<br> - The image on the package shows croutons being used in a salad.",
+    "reason_vf_incorrect": "<br> - The phrase \"Garlic Perfection!\" is visible on the package.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "32",
+    "question": "What does my computer screen show?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "It appears that the image shows a computer screen with some text and icons, but due to the blurriness of the photo, it is not possible to clearly read or identify specific content on the screen. The text seems to include some words like \"Survivor\" and \"Christmas,\" but without a clearer view, it is not possible to provide an accurate description of what the screen shows. If you have a clearer image or more specific details, I would be happy to help further!",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.73796219,
+    "reason_vf_correct": "<br> - The computer screen in the image is blurry.<br> - There are words like \"Survivor\" and \"Christmas\" visible on the computer screen.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "64",
+    "question": "What was on the table?",
+    "predicted_answer": "notebook",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a close-up of an open spiral-bound notebook placed on what appears to be a desk. There is also a blue pen resting near the bottom left corner of the notebook, and some papers or folders are partially visible in the background. The table surface is dark-colored, possibly black or a deep brown. The notebook contains handwritten notes and some drawings.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.479727418,
+    "reason_vf_correct": "<br> - There is an open spiral-bound notebook on the table.<br> - There is a blue pen resting near the bottom left corner of the notebook.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "pen"
+  },
+  {
+    "question_id": "119",
+    "question": "What is the computer screen showing?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up of what appears to be the screen of an older Toshiba laptop. The screen displays a faint reflection and some smudges, which obscure the view of any specific content. At the bottom center, there is a faint watermark or text that reads \"\u00a9 Microsoft Corporation,\" which suggests it might be related to an older version of Windows or a Microsoft product. However, the screen is not fully visible due to reflections and smudges, making it difficult to determine what specific content or application is being displayed.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.986046682,
+    "reason_vf_correct": "<br> - The screen of an older Toshiba laptop is visible in the image.<br> - There are reflections on the screen that obscure the view.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "252",
+    "question": "What is in this can?",
+    "predicted_answer": "carrots",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a can with the label \"Crest Top\" and \"Sliced Carrots.\" The text on the can is bilingual, with English at the top (\"Sliced Carrots\") and Spanish below it (\"Zanahorias Cortadas\"). This indicates that the can contains sliced carrots, which are a common food item often used in cooking or as a side dish. The presence of both English and Spanish text suggests that the can is likely marketed in regions where both languages are spoken, such as the United States or parts of Latin America.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999940337,
+    "reason_vf_correct": "<br> - The can has the label \"Crest Top.\"<br> - The can has the text \"Sliced Carrots\" on it.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "38",
+    "question": "What does the error message say?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The error message in the image says:\n\n\"An invalid product key. Either remove the product key in the unattend answer file to proceed.\"\n\nThis message indicates that a product key has been entered incorrectly or is not valid, and the system cannot proceed without it. The user may need to either remove the product key from an unattended answer file or enter a valid one.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.117006174,
+    "reason_vf_correct": "<br> - The error message in the image mentions \"An invalid product key.\"<br> - The error message in the image instructs to \"remove the product key in the unattend answer file to proceed.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": "access denied, unknown error"
+  },
+  {
+    "question_id": "183",
+    "question": "What is this?",
+    "predicted_answer": "laptop",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a close-up of the keyboard and part of the screen of a laptop. The keys are black with white lettering, which is characteristic of certain models of laptops, such as Apple's MacBook series. The screen displays a portion of what appears to be an operating system interface, suggesting that the laptop is powered on and in use. The overall design of the keyboard and screen layout further supports that this is indeed a laptop computer.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999958074,
+    "reason_vf_correct": "<br> - There is a close-up of a keyboard in the image.<br> - The keys on the keyboard are black with white lettering.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "322",
+    "question": "What is the product?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a container with the label \"Blue Moose\" and \"All Natural.\" The text on the label suggests that it is a product, but without more context or visible details about its contents (e.g., if it's food, a cream, etc.), the exact nature of the product cannot be determined. The label also mentions \"No Preservatives\" and \"Keep Refrigerated,\" which are common for certain types of food products, but this alone is not enough to identify the product.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999998668,
+    "reason_vf_correct": "<br> - The label on the container says \"Blue Moose.\"<br> - The label on the container says \"All Natural.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "292",
+    "question": "What color is the car in this photograph?",
+    "predicted_answer": "white",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a portion of the lower side and wheel well area of a vehicle. The visible part appears to be white, which is consistent with the color description provided in the question. However, it's important to note that only a small section of the car is visible in this image. The full color and design of the vehicle cannot be determined from just this part.\n\nThe reasoning behind my answer is based on the visible portion of the car in the image. The white color can be seen on the fender and part of the wheel well, which are consistent with a white car.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.006385866,
+    "reason_vf_correct": "<br> - The visible portion of the car in the image is white.<br> - The white color can be seen on the fender of the car.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "red, blue, black"
+  }
+]

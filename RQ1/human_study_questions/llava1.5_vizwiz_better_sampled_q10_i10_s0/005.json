@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "452",
+    "question": "What color is this? Choices: blue, green, red, yellow",
+    "predicted_answer": "green",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The fabric has a blue and green pattern, with the green being more prominent than the blue.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.1949291915821442,
+    "reason_vf_correct": "<br> - The green color is more prominent than the blue on the fabric.",
+    "reason_vf_incorrect": "<br> - There is a blue and green pattern on the fabric.",
+    "reason_contr": "red, blue, yellow"
+  },
+  {
+    "question_id": "103",
+    "question": "What is it? Choices: printer, smartphone, laptop, desktop",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "I'm sorry, but I cannot provide an accurate response to this question as there isn't enough information provided in the image description.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5262589300916377,
+    "reason_vf_correct": "<br> - There is a lack of information in the image description.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "267",
+    "question": "What is this? Choices: phone, tablet, remote, watch",
+    "predicted_answer": "missed call",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The person holding the cell phone has a missed call on their screen, which indicates that they have not yet returned the call or responded to it. This could be due to various reasons such as being busy, unavailable at the time of the call, or simply forgetting about the call. The image shows the date and time of the missed call, which can help the person recall when they received the call and take appropriate action to address it.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9786674713283366,
+    "reason_vf_correct": "<br> - The cell phone screen shows a missed call.<br> - The date and time of the missed call are visible on the screen.",
+    "reason_vf_incorrect": "<br> - The person is holding a cell phone.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "358",
+    "question": "What color is this and what is it? Choices: grey black michael kors handbag, black tote bag, blue canvas backpack, green purse",
+    "predicted_answer": "black",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The bag is black in color.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.5296386463631346,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The bag is black in color.",
+    "reason_contr": "black tote bag"
+  },
+  {
+    "question_id": "437",
+    "question": "What color is this shirt? Choices: green, white, black, red",
+    "predicted_answer": "pink",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The shirt in the image is a striped pink shirt with white stripes.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.0467349713802896,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The shirt in the image is pink.<br> - The shirt in the image has white stripes.",
+    "reason_contr": "black, blue, red"
+  },
+  {
+    "question_id": "436",
+    "question": "this can? Choices: vegetable stew, tomato soup, split pea soup, minestrone",
+    "predicted_answer": "select home",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The person holding the Select Home can of soup has a black shirt on, and it appears to be a cold weather season. The can of soup contains split pea with roast beef, which is a popular choice for those who enjoy hearty soups. The can is placed in front of the person's body, making it easily accessible for consumption.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.1816816333945949,
+    "reason_vf_correct": "<br> - The can of soup is labeled as containing split pea with roast beef.<br> - The can of soup is placed in front of the person's body.",
+    "reason_vf_incorrect": "<br> - The person is holding a can of soup labeled \"Select Home.\"<br> - The person is wearing a black shirt.",
+    "reason_contr": "minestrone"
+  },
+  {
+    "question_id": "455",
+    "question": "What kind of chips are these? Choices: doritos nacho cheese, pringles sour cream, lays classic, ruffles cheddar",
+    "predicted_answer": "nacho cheese",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The bag contains a red and white nacho cheese flavored Doritos chip.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.1477784243419464,
+    "reason_vf_correct": "<br> - The bag of chips is red and white.<br> - The bag contains nacho cheese flavored Doritos.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "tortilla chips"
+  },
+  {
+    "question_id": "158",
+    "question": "Is it still checking for problems? Choices: no, not sure, unanswerable, yes",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The computer is still checking for problems, as indicated by the message \"Your computer has been set up to check for problems.\" This suggests that there might be an issue with the system or a specific component that needs attention. It's important to address these issues promptly to ensure optimal performance and prevent potential hardware or software failures.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.988288262740702,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There is a message on the computer screen that says \"Your computer has been set up to check for problems.\"",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "327",
+    "question": "What is this? Choices: lemonade, diet coke, pepsi, sprite",
+    "predicted_answer": "coke",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a person holding a can of Coca-Cola in their hand, with the brand name clearly visible on the front.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999860717761558,
+    "reason_vf_correct": "<br> - The person is holding a can in their hand.<br> - The brand name Coca-Cola is clearly visible on the can.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "101",
+    "question": "What, what is this? Choices: printer, tablet, phone, computer",
+    "predicted_answer": "computer",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a desktop computer with a monitor and keyboard on top of it. The monitor displays a message that says \"Firmware found to be corrupt\". This indicates that the computer's firmware may have been damaged or corrupted, which could cause various issues such as software problems or hardware malfunctions. It is important for users to address this issue by either repairing the firmware or replacing it with a new one if necessary.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999911617267982,
+    "reason_vf_correct": "<br> - There is a desktop computer in the image.<br> - There is a keyboard on top of the desktop computer.",
+    "reason_vf_incorrect": "<br> - There is a monitor on top of the desktop computer.<br> - The monitor displays a message that says \"Firmware found to be corrupt.\"",
+    "reason_contr": ""
+  }
+]

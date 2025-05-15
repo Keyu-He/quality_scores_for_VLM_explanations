@@ -1,0 +1,243 @@
+<!-- web/combined123/index.html -->
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Cache-control" content="public">
+    <title>AI Confidence</title>
+    <link rel="shortcut icon" href="#" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"
+        integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Roboto&display=swap'>
+    <link rel="stylesheet" href="style.css?r=4">
+</head>
+
+<body style='text-align: center; margin-top: 30px; margin-bottom: 20px;'>
+    <h2 style="margin-left: auto; margin-right: auto;">Do You Trust My Explanation?</h2>
+
+    <div style="text-align: left; width: 800px; margin-left: auto; margin-right: auto; margin-top: 30px">
+
+        <div id="instructions_and_decorations">
+            <div style="margin-top: 30px;  text-align: justify;">
+                <ul>
+                    <li style="margin: 10px 0;">In this experiment, you are working with an AI that is answering questions about images. You cannot see the image, you can only see the AI's answer. Your task is to decide if you trust the AI's answer or not.</li>
+                    <li style="margin: 10px 0;">To help you make your decision, you will also see AI's explanation, and some information about how reliable the explanation is.</li>
+                    <li style="margin: 10px 0;">For this task, please think of this AI as a new tool different from GPT or any other assistant you’ve used before.</li>
+                    <li style="margin: 10px 0;" id="reward_instructions"></li>
+                </ul>
+            </div>
+
+            <br>
+            <div style="text-align: right; height: 20px; margin-left: -30px">
+                <div id="progress" style="width: 150px; float: left;">(-/-)</div>
+                <!--<div id="balance" style="width: 200px; float: right;">Balance: $0+$1.0</div>-->
+            </div>
+        </div>
+
+
+        <div class="main_box" id="main_box_end" style="display: none">
+            Thank you for testing out our study.
+            <div id="reward_box" style="display: none">
+                Your total reward is $0.00 (0 questions answered).
+            </div>
+            Please navigate <a href="https://app.prolific.com/submissions/complete?cc=C3HL048N" style="color: black; font-weight: bold;">to Prolific</a> or enter the completion code <b>C3HL048N</b> on Prolific to register your submission; otherwise, we will be unable to process your reward.
+            After entering the completion code, you can safely close this tab.
+        </div>
+
+        <div class="main_box" id="main_box_instructions" style="display: none">
+            <input id="button_instructions_prev" type="button" value="Previous">
+            <input id="button_instructions_next" type="button" value="Next" style="margin-bottom: 10px">
+
+            <div id="instructions_0">
+                Welcome to our user study. In this experiment, you are working with an AI that is answering questions about images. You cannot see the image, you can only see the AI's answer. Your task is to decide if you trust the AI's answer or not.
+                <br><br>
+                <b>Note:</b> For this task, please think of this AI as a new tool different from GPT or any other assistant you’ve used before.  
+            </div>
+            <div id="instructions_1">
+                You will first be shown the question that the AI is trying to answer, as well as the AI's answer.
+                <img id="img_instr_1" alt="step‑1">
+            </div>
+            <div id="instructions_2">
+                In the first step, you will be asked whether you think the AI's answer is correct or not. You can also indicate that you are unsure.
+                <img id="img_instr_2" alt="step‑2">
+            </div>
+            <div id="instructions_3">
+                You will next be shown an explanation from the AI. You will be asked again whether you think the AI's answer is correct or not.
+                <img id="img_instr_3" alt="step‑3">
+            </div>
+            <div id="instructions_4">
+                You will be shown the question, AI's answer, AI's explanation, and finally the information about how reliable the explanation is.
+                <br>
+                You will be asked whether you think the AI's answer is correct or not. You can also indicate that you are unsure.
+                <br><br>
+
+                Regarding to the final piece of information about how reliable the explanation is:
+                <div id="instruction_vf_contr_both_numeric">
+                    You will be shown two scores:
+                    <ol>
+                        <li style="margin-bottom: 5px;"><b>AI Confidence that the explanation accurately describes the image details: </b>This score reflects how certain the AI is that all the details about the image mentioned in the explanation are accurate.
+                        <li><b>AI Confidence that the explanation rules out the other choices: </b>This score reflects how certain the AI is that none of the other (non-predicted) choices are correct, based on the provided explanation.
+                    </ol>
+                    <!-- 4a -->
+                    <img id="img_instr_4_vf_contr_both_numeric"  alt="4‑vf‑contr‑both‑num">
+                </div>
+                <div id="instruction_vf_numeric">
+                    You will be shown a single score: The <b>AI Confidence that the explanation accurately describes the image details. </b>This score reflects how certain the AI is that all the details about the image mentioned in the explanation are accurate.
+                    <!-- 4b -->
+                    <img id="img_instr_4_vf_numeric"            alt="4‑vf‑num">
+                </div>
+                <div id="instruction_contr_numeric">
+                    You will be shown a single score: The <b>AI Confidence that the explanation rules out the other choices: </b>This score reflects how certain the AI is that none of the other (non-predicted) choices are correct, based on the provided explanation.
+                    <!-- 4c -->
+                    <img id="img_instr_4_contr_numeric"         alt="4‑contr‑num">
+                </div>
+                <div id="instruction_single_numeric">
+                    You will be shown a single score: The <b>AI Confidence that the explanation is correct: </b>This score reflects how certain the AI is that the explanation is correct.
+                    <!-- 4d -->
+                    <img id="img_instr_4_single_numeric"        alt="4‑single‑num">
+                </div>
+                <div id="instruction_vf_contr_both_descriptive">
+                    You will be shown two pieces of information to help you decide how reliable the AI's explanation is:
+                    <ol>
+                        <li style="margin-bottom: 5px;"><b>Explanation Detail Accuracy: </b>We will list which image details in the explanation are likely correct, and which details are likely incorrect (if any).
+                        <li><b>Explanation Choice Accuracy: </b>We will list the other choices could also be correct, based on the explanation.
+                    </ol>
+                    <!-- 4e -->
+                    <img id="img_instr_4_vf_contr_both_descriptive" alt="4‑vf‑contr‑both‑desc">
+                </div>
+                <div id="instruction_vf_descriptive">
+                    You will be shown a single piece of information to help you decide how reliable the AI's explanation is: The <b>Explanation Detail Accuracy</b>. We will list which image details in the explanation are likely correct, and which details are likely incorrect (if any).
+                    <!-- 4f -->
+                    <img id="img_instr_4_vf_descriptive"        alt="4‑vf‑desc">
+                </div>
+                <div id="instruction_contr_descriptive">
+                    You will be shown a single piece of information to help you decide how reliable the AI's explanation is: the <b>Explanation Choice Accuracy</b>. We will list the other choices that the AI believes could also be correct, based on the explanation.
+                    <!-- 4g -->
+                    <img id="img_instr_4_contr_descriptive"     alt="4‑contr‑desc">
+                </div>
+
+                <p></p>
+                Based on your selection after this step, your accumulated balance will be updated as follows:
+                <ol>
+                    <li style="margin-bottom: 5px;">If you accurately select whether the AI is correct or incorrect, <b style="color: green">you will receive $0.10</b>.</li>
+                    <li style="margin-bottom: 5px;">If you inaccurately select whether the AI is correct or incorrect, <b style="color: red">you will lose $0.10</b>.</li>
+                    <li style="margin-bottom: 5px;">If you select that you are unsure, you will receive no reward.</li>
+                </ol>
+                <b>You will be paid the total balance at the end of the study (if it is positive), plus a base payment of $2.0.</b>
+            </div>
+            <div id="instructions_5">
+                 <!-- For this annotation experiment we are looking
+                at trivia and math questions. Note that the system performance may differ across question types. -->
+                The experiment will have you verify 10 questions in total.
+                <br><br>
+                <span class='color_incorrect'><b>You are not permitted to leave this tab</b></span> for the duration of the experiment. This will be monitored and violation of this can result in your submission being rejected.
+                <br><br>
+                The average time of the experiment is 10 minutes.
+                <br><br>
+                You will <b>not</b> be paid if you already participated in this study before.
+                <br><br>
+                Click <b>Start study</b> if you understood all the instructions and want to start with the first
+                question.
+                Feel free to re-read the instructions again (<b>Previous</b>).
+
+                <!-- <img src="img/instructions_5_trivia.png" style="width: 80%">
+                <img src="img/instructions_5_math.png"> -->
+            </div>
+        </div>
+
+        <div class="main_box" id="main_box_experiment" style="display: none">
+            <p style="font-weight: bold; font-size: 18px">Question: <span id="question_span"></span></p>
+
+
+            <div id="ai_answer_div">
+                <p style="font-weight: bold; font-size: 18px">The AI thinks the answer is: <span id="ai_prediction_span"></span></p>
+                <!-- <div id="answeronly_decision_div">
+                    <input id="button_answeronly_usertrusts" type="button" class="button-neutral button-decision" value="The AI's answer is correct.">
+                    <input id="button_answeronly_userdistrusts" type="button" class="button-neutral button-decision" value="The AI's answer is incorrect.">
+                    <input id="button_answeronly_userunsure" type="button" class="button-neutral button-decision" value="I am unsure and would like more info.">
+                </div>         -->
+            </div>
+
+            <div id="ai_explanation_div">
+                <p style="font-weight: bold; font-size: 18px">AI's Explanation: 
+                    <span id="ai_explanation_span">The AI system thinks that the answer is correct because...</span>
+                </p>
+                <!-- <div id="withexplanation_decision_div">
+                    <input id="button_withexplanation_usertrusts" type="button" class="button-neutral button-decision" value="The AI's answer is correct.">
+                    <input id="button_withexplanation_userdistrusts" type="button" class="button-neutral button-decision" value="The AI's answer is incorrect.">
+                    <input id="button_withexplanation_userunsure" type="button" class="button-neutral button-decision" value="I am unsure and would like more info.">
+                </div>         -->
+            </div>
+
+            <div id="ai_explanation_quality_div">
+                <!--<button class="dropbtn" id="ai_explanation_dropbtn">Wish to Get An Explanation from the AI?</button> 
+                <p class="titlebar" id="ai_explanation_titlebar">
+                    <i class="arrow right" id="ai_explanation_dropbtn"></i>
+                    <b>  Wish to Read An Explanation from the AI?</b>
+                </p> -->
+                <div id="vf_numeric_div" style="display: none">
+                    <p style="font-weight: bold; font-size: 18px">
+                        AI Confidence that the explanation accurately describes the image details: 
+                        <span id="explanation_fidelity_numeric_span">XXX</span>
+                        <span class="info-icon" data-title="This score reflects how certain the AI is that the details about the image mentioned in the explanation are all accurate.">&#9432</span>
+                    </p>
+                </div>
+                <div id="contr_numeric_div" style="display: none">
+                    <p style="font-weight: bold; font-size: 18px">
+                        AI Confidence that the explanation rules out the other choices: 
+                        <span id="explanation_contrastiveness_numeric_span">YYY</span>
+                        <span class="info-icon" data-title="This score reflects how certain the AI is that none of the other (non-predicted) choices are correct, based on the provided explanation.">&#9432</span>
+                    </p>
+                </div>
+                <div id="single_numeric_div" style="display: none">
+                    <p style="font-weight: bold; font-size: 18px">
+                        AI Confidence that the explanation is correct: 
+                        <span id="explanation_single_numeric_span">ZZZ</span>
+                        <span class="info-icon" data-title="This score reflects how certain the AI is that the answer is correct, based on the provided explanation.">&#9432</span>
+                    </p>
+                </div>
+                <div id="vf_descriptive_div" style="display: none">
+                    <p style="font-weight: normal; font-size: 18px">
+                        <span id="explanation_fidelity_descriptive_span">XXX</span>
+                        <!--<span class="info-icon" data-title="This score reflects how certain the AI is that the details about the image mentioned in the explanation are all accurate.">&#9432</span> -->
+                    </p>
+                </div>
+                <div id="contr_descriptive_div" style="display: none">
+                    <p style="font-weight: normal; font-size: 18px">
+                        <span id="explanation_contrastiveness_descriptive_span">YYY</span>
+                        <!-- <span class="info-icon" data-title="This score reflects how certain the AI is that none of the other (non-predicted) choices are correct, based on the provided explanation.">&#9432</span> -->
+                    </p>
+                </div>
+
+
+                <div id="withexplanation_decision_div">
+                    <input id="button_withexplanationquality_usertrusts" type="button" class="button-neutral button-decision" value="The AI's answer is correct.">
+                    <input id="button_withexplanationquality_userdistrusts" type="button" class="button-neutral button-decision" value="The AI's answer is incorrect.">
+                    <input id="button_withexplanationquality_userunsure" type="button" class="button-neutral button-decision" value="I am unsure based on the information provided.">
+                </div>        
+            </div>
+
+            <br>
+
+            <p style="font-size: 1.17em;" id="result_span"></p>
+            
+            <!-- <input id="button_place_bet" type="button" class="button-neutral" value="See the result"> -->
+            <input id="button_next" type="button" class="button-neutral" value="Next question">
+            <input id="button_quit" type="button" class="button-neutral" value="End study">
+        </div>
+        <br>
+
+    </div>
+    <script id="nocachescript"></script>
+    <script>
+        var randomNum = String((Math.floor(Math.random() * 10e10)));
+        document.getElementById('nocachescript').src = "combined123.js?t=" + randomNum;
+    </script>
+    <script type="module" src="./globals.js" defer></script>
+</body>
+
+</html>

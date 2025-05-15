@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "175",
+    "question": "Is it chocolate?",
+    "predicted_answer": "no",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a computer screen displaying what appears to be an open document or webpage with text in Arabic. The context of the image does not provide any information about chocolate, so it is reasonable to conclude that the question \"Is it chocolate?\" does not apply to this image. The answer is no because there are no visible elements in the image that suggest chocolate or any related items.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.449394222,
+    "reason_vf_correct": "<br> - There is a computer screen in the image.<br> - The computer screen is displaying text in Arabic.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "unanswerable"
+  },
+  {
+    "question_id": "378",
+    "question": "What can is this?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up of an arm holding what appears to be a can, but the label is not clearly visible or legible. Without being able to read the text on the can, it's impossible to determine what type of product is inside. Therefore, the question \"What can is this?\" cannot be answered based on the information provided in the image.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.777812932,
+    "reason_vf_correct": "<br> - The image is a close-up of an arm holding a can.<br> - The label on the can is not clearly visible or legible.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "449",
+    "question": "What magazine is this?",
+    "predicted_answer": "good housekeeping",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows the cover of a magazine titled \"Good Housekeeping.\" The text and layout are characteristic of this publication, which is known for its focus on home improvement, health, and lifestyle topics. The cover features a headline about losing weight (\"Lose 10 lbs This Month!\") and includes other typical elements of a Good Housekeeping magazine cover, such as tips for home makeovers and health-related advice.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.53460032,
+    "reason_vf_correct": "<br> - The magazine is titled \"Good Housekeeping.\"<br> - The cover features a headline about losing weight, specifically \"Lose 10 lbs This Month!\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": "better homes"
+  },
+  {
+    "question_id": "281",
+    "question": "What is this?",
+    "predicted_answer": "pillow",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a plush item that appears to be a decorative or novelty pillow. It features an embroidered design of a green alligator with sharp teeth, set against a dark blue background. The pillow has an orange border and what looks like a pattern resembling football lines, suggesting it might be themed around the University of Florida Gators, as alligators are a common mascot for that university. The texture and softness of the material indicate it is indeed a pillow, designed to be comfortable for sitting or resting.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999977632,
+    "reason_vf_correct": "<br> - The item has an embroidered design of a green alligator.<br> - The background of the item is dark blue.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "179",
+    "question": "What does this say on my screen?",
+    "predicted_answer": "windows memory diagnostics",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a screen from Windows Memory Diagnostic, which is a tool used to check for memory (RAM) problems on a computer. The text indicates that the diagnostic is running, and it provides details about its progress:\n\n- \"Windows Memory Diagnostic\" at the top.\n- It states that Windows is checking for memory problems and may take several minutes to complete.\n- The diagnostic is currently running the first pass of a two-pass test, and it has completed 36%.\n- The overall status shows that the diagnostic is at 18% complete.\n\nThe message also mentions that no problems have been detected yet and advises patience as the test may appear inactive at times. It concludes by saying that Windows will restart automatically after the diagnostic is complete, and it will display again when you log on.\n\nThis tool helps identify issues with the RAM that might cause system instability or crashes.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.998037444,
+    "reason_vf_correct": "<br> - The screen displays \"Windows Memory Diagnostic\" at the top.<br> - The diagnostic is currently running the first pass of a two-pass test.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "98",
+    "question": "What did i just read on my pc?",
+    "predicted_answer": "vizwiz",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image you provided appears to be a screenshot of a webpage discussing apps for the blind and visually impaired. The specific section highlighted in the image is about an app called \"VizWiz\" by ROCHI. The text mentions that VizWiz is an application designed to help users identify objects by taking a picture of them and receiving information about the object, such as its name or characteristics. The text also notes that VizWiz is free and has a feature where users can ask questions about objects, with responses coming from human volunteers.\n\nGiven the context and the highlighted text in the image, it seems that you were reading about VizWiz on your PC. The mention of \"VizWiz\" in the highlighted section supports this conclusion.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.04047324,
+    "reason_vf_correct": "<br> - The highlighted section in the image is about an app called \"VizWiz.\"<br> - The text mentions that VizWiz is designed to help users identify objects by taking a picture.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "\"document, article"
+  },
+  {
+    "question_id": "366",
+    "question": "What's in this basket?",
+    "predicted_answer": "candy",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a collection of various candy packages, including brands like Reese's Pieces and Hershey's. The packaging is colorful with text indicating they are candy products, such as \"Hershey's\" and \"Reese's Pieces.\" The assortment appears to be a mix of chocolate candies, which is consistent with the answer that \"the basket\" contains candy. The presence of multiple brands and types suggests a variety of sweet treats, which aligns with the description provided.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.99999983,
+    "reason_vf_correct": "<br> - There are packages labeled \"Hershey's\" in the basket.<br> - There are packages labeled \"Reese's Pieces\" in the basket.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "7",
+    "question": "IS there a picture on this tv screen?",
+    "predicted_answer": "no",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows the Windows logo on a computer screen, which indicates that it is not displaying any picture but rather the default desktop background of a Windows operating system. The screen appears to be in a dark environment, and the image is focused on the illuminated Windows logo. Therefore, there isn't any picture displayed other than the default Windows background.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.008862505,
+    "reason_vf_correct": "<br> - The Windows logo is visible on the screen.<br> - The screen is displaying the default desktop background of a Windows operating system.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "not sure, unanswerable"
+  },
+  {
+    "question_id": "308",
+    "question": "What movie is this?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image provided does not contain enough context to determine the specific movie it is referring to. It appears to be a promotional image or poster, possibly for an album cover given the text \"ABBA\" at the top and the style of the image. However, without additional information or a clearer view, it is not possible to identify the exact movie being referenced. If you have more details or a clearer image, please provide them for further assistance.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.699802157,
+    "reason_vf_correct": "<br> - The image contains the text \"ABBA\" at the top.<br> - The style of the image is similar to that of a promotional image or poster.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "485",
+    "question": "What color is this?",
+    "predicted_answer": "white",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up of yarn, which appears to be predominantly white with some orange or peach-colored strands interwoven throughout. The yarn is likely used for knitting or crocheting, and the texture suggests it could be a blend of wool and possibly other fibers. The white color is consistent with the main body of the yarn, while the orange or peach adds a subtle contrast.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.323157447,
+    "reason_vf_correct": "<br> - The yarn is predominantly white in color.<br> - There are orange or peach-colored strands interwoven throughout the yarn.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "red, blue"
+  }
+]

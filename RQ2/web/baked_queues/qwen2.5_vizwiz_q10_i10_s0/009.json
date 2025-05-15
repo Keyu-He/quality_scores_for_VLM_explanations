@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "346",
+    "question": "what is the name of the product in the can in the picture?",
+    "predicted_answer": "aerosol",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a can of Lysol Disinfectant Spray, which is an aerosol product. The label on the can indicates it's a disinfectant spray, and the design and branding are consistent with Lysol products. The can is placed on a wooden surface, likely a kitchen counter or similar area where cleaning supplies are kept.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.99994764,
+    "reason_vf_correct": "<br> - The can is labeled as Lysol Disinfectant Spray.<br> - The can has a design and branding consistent with Lysol products.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "440",
+    "question": "What bill is this?",
+    "predicted_answer": "1 dollar",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a close-up of the front side of a U.S. one-dollar bill. The visible part includes the portrait of President Franklin D. Roosevelt, which is characteristic of the one-dollar bill design from 1963 to 2006. The text \"UNITED STATES OF AMERICA\" and the denomination \"ONE DOLLAR\" are also partially visible. The bill appears to be slightly worn, which is common for currency in circulation.\n\nThe reasoning behind identifying it as a one-dollar bill includes the recognizable portrait, text, and denomination on the visible part of the bill. The design is consistent with U.S. dollar bills, and there are no other denominations that match the visible elements in this image.",
+    "visual_fidelity": 0.8,
+    "contrastiveness": 0.999998411,
+    "reason_vf_correct": "<br> - The image is a close-up of the front side of a U.S.<br> - The text \"UNITED STATES OF AMERICA\" is visible on the bill.",
+    "reason_vf_incorrect": "<br> - The portrait of President Franklin D is present.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "338",
+    "question": "Whats this shirt look like, thanks?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up of someone's hand holding the edge of a shirt. The shirt appears to have a colorful, patterned design with various colors and shapes, possibly floral or abstract. The hand is wearing a green wristband on the left wrist. The background includes what looks like tiled flooring, suggesting an indoor setting.\n\nIf you have a specific question about the shirt or need more details, please provide additional context.",
+    "visual_fidelity": 0.8,
+    "contrastiveness": 0.000401569,
+    "reason_vf_correct": "<br> - There is a close-up of someone's hand holding the edge of a shirt.<br> - The shirt has a colorful, patterned design.",
+    "reason_vf_incorrect": "<br> - The background includes tiled flooring.",
+    "reason_contr": "floral"
+  },
+  {
+    "question_id": "294",
+    "question": "What is this?",
+    "predicted_answer": "kool aid",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a can of Kool-Aid, which is a popular brand of fruit-flavored powdered drink mix. The can has the distinctive blue color and branding associated with Kool-Aid, including the \"Kool-Aid\" logo prominently displayed. The text on the can also includes nutritional information and other details typical of food packaging, such as a barcode. The presence of the word \"Mini\" suggests it might be a smaller size or flavor variant, but this is not explicitly stated on the visible portion of the can.",
+    "visual_fidelity": 0.666666667,
+    "contrastiveness": 0.999988016,
+    "reason_vf_correct": "<br> - The can in the image is blue.<br> - The can has text that includes nutritional information.",
+    "reason_vf_incorrect": "<br> - There is a can in the image.<br> - The \"Kool-Aid\" logo is prominently displayed on the can.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "146",
+    "question": "What is this?",
+    "predicted_answer": "laptop",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a Toshiba laptop placed on a wooden desk. The screen is turned on, displaying a webpage with the text \"PLANETFI\" visible at the top. The laptop appears to be an older model, as indicated by its design and keyboard layout. The surrounding environment includes a white brick wall in the background, some cables on the desk, and part of what looks like a lamp. The overall setting suggests this is an office or home workspace.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.599343024,
+    "reason_vf_correct": "<br> - There is a Toshiba laptop on a wooden desk in the image.<br> - The screen of the laptop is turned on and displaying a webpage.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "desktop"
+  },
+  {
+    "question_id": "421",
+    "question": "Coffee is this?",
+    "predicted_answer": "gevalia",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a package of coffee pods from the brand Gevalia, specifically labeled as \"Swiss Mocha.\" The packaging includes a picture of a coffee cup and the Gevalia logo, which confirms that this is indeed Gevalia coffee. The Tassimo branding suggests these are compatible with the Tassimo coffee machine, which is known for its single-serve pods. The Swiss Mocha flavor indicates a blend of coffee with chocolate notes, typical for this type of flavored coffee.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.80121219,
+    "reason_vf_correct": "<br> - There is a package of coffee pods in the image.<br> - The brand Gevalia is visible on the packaging.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "174",
+    "question": "Which one of these cards is my slate card?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image provided does not clearly show any text or details that would allow us to identify which card is a \"slate\" card. The image appears blurry and the text on the card is not legible, making it impossible to determine which one of these cards is a \"slate\" card. If you have more information or a clearer image, please provide it so that I can assist you better.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.808461052,
+    "reason_vf_correct": "<br> - The image is blurry.<br> - The text on the card is not legible.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "486",
+    "question": "What does the sky look like?",
+    "predicted_answer": "cloudy",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a view of an outdoor area with trees, playground equipment, and some objects like a trampoline. The sky is visible in the upper part of the image but appears to be overcast, suggesting a cloudy day. The lighting is soft and diffused, which is typical for cloudy weather conditions. There are no bright spots or clear blue patches in the sky, reinforcing the impression of cloud cover.",
+    "visual_fidelity": 0.8,
+    "contrastiveness": 0.969478699,
+    "reason_vf_correct": "<br> - The sky is visible in the upper part of the image.<br> - The lighting in the image is soft and diffused.",
+    "reason_vf_incorrect": "<br> - The sky appears overcast.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "77",
+    "question": "What kind of food is in this can?",
+    "predicted_answer": "soup",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a can of Progresso Vegetable Classics Soup, which is a canned soup. The label on the can indicates that it contains vegetables and is marketed as a source of fiber, suggesting it's a vegetable-based soup. The presence of images of vegetables on the label further supports this, as it visually represents the ingredients typically found in vegetable soup.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.981993135,
+    "reason_vf_correct": "<br> - The can is labeled as Progresso Vegetable Classics Soup.<br> - The label on the can indicates that it contains vegetables.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "196",
+    "question": "What kind of pastries are these?",
+    "predicted_answer": "croissant",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a plate of pastries that appear to be croissants. Croissants are known for their flaky, layered texture and crescent shape, which is consistent with the pastries in the image. They are typically made from a dough that is folded and rolled multiple times, resulting in the characteristic layers. The pastries are dusted with powdered sugar, which is a common finishing touch for croissants. The golden-brown color and the visible layers also support this identification.",
+    "visual_fidelity": 0.8,
+    "contrastiveness": 0.500008405,
+    "reason_vf_correct": "<br> - The pastries have a flaky, layered texture.<br> - The pastries are dusted with powdered sugar.",
+    "reason_vf_incorrect": "<br> - The pastries on the plate are crescent-shaped.",
+    "reason_contr": "croissants"
+  }
+]

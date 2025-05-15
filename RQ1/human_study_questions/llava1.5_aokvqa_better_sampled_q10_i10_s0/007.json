@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "254",
+    "question": "What type of vehicles are sitting outside of the store? Choices: car, motorcycle, bicycle, train",
+    "predicted_answer": "motorcycle",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The correct answer is motorcycle. The image shows three motorcycles parked outside of a store. The other options, such as car, bicycle, and train, are not relevant to the scene depicted in the image.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999750892620316,
+    "reason_vf_correct": "<br> - There are three motorcycles parked outside of the store.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "293",
+    "question": "How many buses are shown in the streets? Choices: two, one, three, four",
+    "predicted_answer": "one",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that there is only one bus shown in the image. The bus is located on the left side of the image, and there are no other buses visible in the scene.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.999951403192022,
+    "reason_vf_correct": "<br> - There is only one bus visible in the image.<br> - The bus is located on the left side of the image.",
+    "reason_vf_incorrect": "<br> - There are no other buses visible in the scene.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "97",
+    "question": "Where are these cats located? Choices: alley, home, vet, office",
+    "predicted_answer": "home",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The cats are located in a home setting, as evidenced by the presence of a television, a dining table, and a couch in the image. These objects are typically found in a residential environment, whereas an alley, vet, or office would not have such furnishings. Additionally, the cats appear to be relaxed and comfortable in their surroundings, which further supports the notion that they are in a home setting.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999728570495652,
+    "reason_vf_correct": "<br> - There is a television visible in the image.<br> - The cats appear relaxed and comfortable in their surroundings.",
+    "reason_vf_incorrect": "<br> - There is a dining table visible in the image.<br> - There is a couch visible in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "281",
+    "question": "How do we know this woman is at work? Choices: signage, surroundings, helping customer, wearing uniform",
+    "predicted_answer": "signage",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind the answer is that the woman is wearing a uniform, which indicates that she is at work. Uniforms are typically worn by employees in various professions, such as law enforcement, healthcare, and service industries. In this case, the woman is wearing a blue uniform, which suggests that she might be working in a profession that requires such attire. The presence of a cell phone also implies that she might be engaged in work-related activities, such as communicating with colleagues or clients.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 8.866744984288854e-06,
+    "reason_vf_correct": "<br> - The woman is wearing a blue uniform.<br> - The woman is holding a cell phone.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "surroundings, helping customer, wearing uniform"
+  },
+  {
+    "question_id": "430",
+    "question": "Where is this bathroom probably located? Choices: home, dorm, hotel, theater",
+    "predicted_answer": "hotel",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind the answer \"hotel\" is that the bathroom appears to be well-maintained and clean, which is typical of hotel bathrooms. Additionally, the presence of a toilet, sink, mirror, and toiletries suggests that the bathroom is designed to cater to the needs of guests, which is common in hotel settings. In contrast, home, dorm, and theater bathrooms may not be as well-maintained or equipped with the same level of amenities as a hotel bathroom.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.647885620659968,
+    "reason_vf_correct": "<br> - The bathroom is well-maintained and clean.<br> - There are toiletries present in the bathroom.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "247",
+    "question": "The man is looking in what direction? Choices: up, behind, sideways, down",
+    "predicted_answer": "down",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind the answer is that the man is flying a kite in a grassy field, and he is looking down at the kite. This indicates that he is focused on controlling the kite and ensuring it stays in the air, so he is looking in the direction of the kite, which is downward.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9063449122218707,
+    "reason_vf_correct": "<br> - The man is flying a kite in the image.<br> - The man is in a grassy field in the image.",
+    "reason_vf_incorrect": "<br> - The man is looking down at the kite in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "448",
+    "question": "What are the people doing in the water? Choices: surfing, fishing, kayaking, swimming",
+    "predicted_answer": "kayaking",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The people in the water are kayaking. This can be inferred from the presence of multiple kayaks in the scene, as well as the fact that they are paddling through the water. Kayaking is a popular water sport that involves using a small, lightweight boat called a kayak to propel oneself through the water using a double-bladed paddle. It is a versatile activity that can be enjoyed on various bodies of water, such as lakes, rivers, and even the ocean. In this image, the group of people is engaging in kayaking, enjoying their time on the water together.",
+    "visual_fidelity": 0.3333333333333333,
+    "contrastiveness": 0.9999213144571496,
+    "reason_vf_correct": "<br> - The people are paddling through the water.",
+    "reason_vf_incorrect": "<br> - There are multiple kayaks present in the scene.<br> - The people in the water are using double-bladed paddles.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "313",
+    "question": "What type of dog is it? Choices: domestic pet, stray dog, service dog, police dog",
+    "predicted_answer": "stray dog",
+    "prediction_is_correct": 0,
+    "generated_rationale": "Based on the image, the dog appears to be a stray dog, as it is standing on the deck of a sailboat, which is not a typical environment for a domestic pet, service dog, or police dog. Additionally, the dog does not seem to be on a leash or under the supervision of its owner, further suggesting that it is a stray dog that has found its way onto the sailboat.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5371577796775988,
+    "reason_vf_correct": "<br> - The dog is standing on the deck of a sailboat.<br> - The dog is not on a leash.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "343",
+    "question": "What kind of shot is the man about to hit? Choices: drop shot, serve, forehand, backhand",
+    "predicted_answer": "forehand",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The man in the image is about to hit a forehand shot. This can be deduced from the fact that he is holding a tennis racket and is in the process of swinging it. The forehand shot is one of the most commonly used shots in tennis, where the player swings the racket across their body with the palm of their hand facing the incoming ball. The reasoning behind this answer is that the man's stance, grip on the racket, and the position of the racket in relation to his body all suggest that he is preparing to hit a forehand shot.",
+    "visual_fidelity": 0.6,
+    "contrastiveness": 0.1498967726025388,
+    "reason_vf_correct": "<br> - The man is holding a tennis racket.<br> - The man is in the process of swinging the tennis racket.",
+    "reason_vf_incorrect": "<br> - The man's stance is indicative of preparing for a forehand shot.<br> - The position of the racket in relation to the man's body is consistent with a forehand shot.",
+    "reason_contr": "backhand"
+  },
+  {
+    "question_id": "351",
+    "question": "What type of structure is being used? Choices: cement, natural, wood, plastic",
+    "predicted_answer": "cement",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The structure being used in the image is a cement wall. The skateboarder is performing a trick by jumping over the cement wall, which demonstrates the skateboarder's skill and ability to maneuver the skateboard. The use of a cement wall adds an element of challenge and difficulty to the trick, making it more impressive and showcasing the skateboarder's talent.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3644986284103884,
+    "reason_vf_correct": "<br> - The structure in the image is a cement wall.<br> - The skateboarder is performing a trick by jumping over the cement wall.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "plastic"
+  }
+]

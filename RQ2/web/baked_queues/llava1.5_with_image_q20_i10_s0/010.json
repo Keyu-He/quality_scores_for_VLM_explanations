@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "424",
+    "question": "What is the healthiest ingredient on the pizza? Choices: crust, sauce, cheese, mushroom",
+    "predicted_answer": "mushroom",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The healthiest ingredient on the pizza is the mushroom. Mushrooms are a good source of essential nutrients, such as vitamins, minerals, and dietary fiber. They are low in calories and fat, making them a healthier option compared to other toppings like pepperoni or sausage. Additionally, mushrooms contain antioxidants and other beneficial compounds that can contribute to overall health and well-being.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999509934179014,
+    "reason_vf_correct": "<br> - There are mushrooms on the pizza.",
+    "reason_vf_incorrect": "<br> - There are other toppings like pepperoni or sausage on the pizza.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "183",
+    "question": "What type of vehicle is this? Choices: construction, cargo, watercraft, passenger",
+    "predicted_answer": "passenger",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The vehicle in the image is a red passenger bus, which is designed to transport a large number of people from one location to another. It is not a construction vehicle, cargo vehicle, watercraft, or any other type of vehicle. Passenger buses are typically used for public transportation, sightseeing tours, or long-distance travel, and they are equipped with multiple rows of seating to accommodate a large number of passengers. In this case, the bus is parked on the side of the road, which suggests that it is either picking up or dropping off passengers, or waiting for its next scheduled trip.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999280258701296,
+    "reason_vf_correct": "<br> - The vehicle in the image is a red passenger bus.<br> - The bus is parked on the side of the road.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "236",
+    "question": "What is the relationship of the people at the back to the man wearing an orange hat? Choices: students, family members, friends, customers",
+    "predicted_answer": "family members",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the people at the back of the horse-drawn carriage are likely family members of the man wearing an orange hat. This can be inferred from the fact that they are all riding together in the carriage, which is a common activity for family members to enjoy together. Additionally, the man wearing the orange hat appears to be the driver of the carriage, suggesting that he is responsible for guiding the horse and ensuring the safety and comfort of the passengers. This further supports the idea that the people at the back are family members of the man wearing the orange hat.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4144773365865588,
+    "reason_vf_correct": "<br> - The man wearing an orange hat is the driver of the horse-drawn carriage.<br> - There are people at the back of the horse-drawn carriage.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "friends"
+  },
+  {
+    "question_id": "461",
+    "question": "What word can be spelled by rearranging the brand letters on the bottom of the laptop screen? Choices: paper, race, great, goal",
+    "predicted_answer": "great",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The word \"Great\" can be spelled by rearranging the brand letters on the bottom of the laptop screen. The letters \"A\", \"C\", \"O\", and \"R\" can be rearranged to form the word \"Great\".",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2110210230856627,
+    "reason_vf_correct": "<br> - The letters \"A\", \"C\", \"O\", and \"R\" are visible on the bottom of the laptop screen.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "race"
+  },
+  {
+    "question_id": "93",
+    "question": "What state was the licence plate issues? Choices: connecticut, rhode island, new jersey, new york",
+    "predicted_answer": "new york",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the license plate on the motorcycle is from New York. This suggests that the motorcycle is registered in the state of New York, and the license plate is issued by the New York Department of Motor Vehicles (DMV). The presence of the license plate indicates that the motorcycle is legally allowed to be on the road in the state of New York.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2352514344692395,
+    "reason_vf_correct": "<br> - The license plate on the motorcycle is from New York.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "connecticut, rhode island, new jersey"
+  },
+  {
+    "question_id": "450",
+    "question": "Which of these objects is used to write on and is present on the desk? Choices: post-its, graph paper, chalk board, clip board",
+    "predicted_answer": "graph paper",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The object used to write on and present on the desk is graph paper. The other objects, such as post-its, clip board, and chalk board, are typically used for different purposes. Post-its and clip boards are used for organizing and attaching notes, while chalk boards are used for writing and erasing with chalk. Graph paper, on the other hand, is specifically designed for plotting and graphing mathematical and scientific data.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9999968280562422,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There is graph paper present on the desk.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "405",
+    "question": "What type of animals are on the grass? Choices: elephant, zebra, giraffe, rhino",
+    "predicted_answer": "giraffe",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The animals on the grass are giraffes. The reasoning behind this answer is that the image shows a group of giraffes in a grassy field, which is their natural habitat. Giraffes are the tallest mammals on Earth, and their long necks and legs allow them to reach the leaves of tall trees, which is their primary food source. The presence of giraffes in the image is consistent with their typical behavior and habitat preferences.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999673083300782,
+    "reason_vf_correct": "<br> - There are giraffes on the grass in the image.<br> - The field in the image is grassy.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "36",
+    "question": "What is the batter most likely preparing to do here? Choices: bunt, sit, dodge ball, slide",
+    "predicted_answer": "slide",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The batter is most likely preparing to slide into the base to avoid being tagged out by the opposing team. Sliding is a common technique used by baseball players to reach the base safely while minimizing the risk of being tagged out. In the image, the batter is holding a baseball bat and is in the process of swinging it, which indicates that he is attempting to hit the ball. Once the ball is hit, the batter will attempt to slide into the base before the opposing team can make a play to get him out.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999979106503099,
+    "reason_vf_correct": "<br> - The batter is holding a baseball bat in the image.<br> - The batter is in the process of swinging the bat in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "480",
+    "question": "What part of the pizza is the person holding? Choices: middle, toppings, crust, top",
+    "predicted_answer": "middle",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The person is holding the middle part of the pizza. This is because the pizza is cut into slices, and the middle slice is the one being held. The other slices would be on the left and right sides of the pizza, while the crust would be at the edge of the pizza. The toppings are distributed evenly across all the slices, and the top of the pizza refers to the surface of the pizza, which is not being held by the person in the image.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9962381837524704,
+    "reason_vf_correct": "<br> - The other slices of the pizza are located on the left and right sides of the slice being held.<br> - The crust of the pizza is at the edge, not being held by the person.",
+    "reason_vf_incorrect": "<br> - The person is holding a slice from the middle of the pizza.<br> - The toppings are distributed evenly across all the slices of the pizza.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "380",
+    "question": "What brand made the shoes the hatless man on the left has on? Choices: nike, sketchers, fila, adidas",
+    "predicted_answer": "adidas",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the hatless man on the left is wearing Adidas shoes. This can be deduced from the fact that Adidas is a well-known sportswear brand that produces athletic footwear. The presence of the Adidas logo on the shoes is a clear indication that they are Adidas shoes. Nike, Sketchers, Fila, and Adidas are all sportswear brands that produce athletic footwear, but Adidas is the specific brand that the man in the image is wearing.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9998109879442127,
+    "reason_vf_correct": "<br> - The man on the left is not wearing a hat.<br> - The man on the left is wearing shoes with the Adidas logo.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

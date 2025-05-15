@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "324",
+    "question": "What is on the umbrella? Choices: fish, whale, dolphin, rain",
+    "predicted_answer": "Whale",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the umbrella in the image has a whale on it. This is evident from the close-up view of the umbrella, which shows the whale design prominently. The other choices, such as fish, dolphin, and rain, are not present on the umbrella in the image.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.11400432577929645
+  },
+  {
+    "question_id": "20",
+    "question": "Why is the person wearing a white jacket? Choices: nurse, doctor, cold, chef",
+    "predicted_answer": "Chef",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The person is wearing a white jacket because they are a chef. Chefs often wear white jackets as part of their uniform, which helps to maintain cleanliness and professionalism in the kitchen. In the image, the chef is standing in front of a buffet table, which is filled with various food items such as donuts, cakes, and drinks. This suggests that the chef is responsible for preparing and serving the food at the buffet, and their attire reflects their role in the culinary profession.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999518396078338
+  },
+  {
+    "question_id": "494",
+    "question": "What are the men doing? Choices: hugging, laughing, kissing, crying",
+    "predicted_answer": "Laughing",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The men are laughing while sitting on a couch and playing a video game. This suggests that they are enjoying themselves and having a good time together, which is why they are laughing.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.95631139735145
+  },
+  {
+    "question_id": "69",
+    "question": "What is the skateboard balanced on? Choices: post, air, chain, ground",
+    "predicted_answer": "Post",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The skateboard is balanced on a post. In the image, the skateboarder is performing a trick where the skateboard is balanced on a metal pole. This requires skill and balance to maintain the position of the skateboard while the skateboarder is in the air. The skateboard is not balanced on the ground, air, or a chain.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9980905142624331
+  },
+  {
+    "question_id": "311",
+    "question": "What are towels generally made of? Choices: linen, rayon, cotton, spandex",
+    "predicted_answer": "Cotton",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The towels in the image are made of cotton. Cotton is a popular material for towels because it is soft, absorbent, and durable. Additionally, cotton towels are easy to launder and maintain, making them a practical choice for use in the kitchen.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.7862299208489549
+  },
+  {
+    "question_id": "350",
+    "question": "Which color of clothing is unique to just one of the two people here? Choices: white, yellow, grey, black",
+    "predicted_answer": "Black",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that one of the two people in the image is wearing a black shirt, while the other person is wearing a blue shirt. The black shirt is unique to just one of the two people, making it the correct answer to the question.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.6606062768208834
+  },
+  {
+    "question_id": "132",
+    "question": "What type of birds are these? Choices: captive, desert, arctic, aquatic",
+    "predicted_answer": "Aquatic",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The birds in the image are seagulls, which are a type of aquatic bird. Seagulls are commonly found near bodies of water, such as oceans, lakes, and rivers, where they feed on fish, crustaceans, and other marine life. They are known for their opportunistic feeding habits and can often be seen scavenging for food in coastal areas. In the image, the seagulls are flying over a beach near the ocean, which is consistent with their natural habitat and feeding habits.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9998700170680683
+  },
+  {
+    "question_id": "281",
+    "question": "How do we know this woman is at work? Choices: signage, surroundings, helping customer, wearing uniform",
+    "predicted_answer": "Signage",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind the answer is that the woman is wearing a uniform, which indicates that she is at work. Uniforms are typically worn by employees in various professions, such as law enforcement, healthcare, and service industries. In this case, the woman is wearing a blue uniform, which suggests that she might be working in a profession that requires such attire. The presence of a cell phone also implies that she might be engaged in work-related activities, such as communicating with colleagues or clients.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 8.646959159804575e-06
+  },
+  {
+    "question_id": "193",
+    "question": "The top shelf has many books of the same author of what genre? Choices: romance, history, biography, thriller fiction",
+    "predicted_answer": "History",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the top shelf has many books of the same author, which suggests that the author is well-known and has written a significant number of books in the same genre. In this case, the genre is history, as evidenced by the presence of numerous history books on the shelf. It is not uncommon for authors to specialize in a particular genre, and in this case, it appears that the author has chosen to focus on writing history books.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.13289362357029386
+  },
+  {
+    "question_id": "486",
+    "question": "What brand of lemon lime beverage is most likely sold here? Choices: fanta, big red, rc, sprite",
+    "predicted_answer": "Big Red",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The most likely brand of lemon lime beverage sold here is Big Red. This can be inferred from the presence of a Big Red cup in the image. Big Red is a well-known brand of lemon lime soda, and its distinctive red cup is easily recognizable. The other options, such as Fanta, RC, and Sprite, are not as commonly associated with lemon lime beverages.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9998495503757876
+  }
+]

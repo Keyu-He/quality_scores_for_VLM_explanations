@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "2",
+    "question": "What best describes the pool of water? Choices: frozen, fresh, dirty, boiling",
+    "predicted_answer": "fresh",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The pool of water is described as fresh, which means it is clean and unpolluted. It is not frozen or boiling, and it is not described as dirty. This suggests that the water in the pool is of good quality and suitable for the giraffes to drink from. The fact that the giraffes are drinking from the pool indicates that the water is fresh and safe for them to consume.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9999956484399064,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The giraffes are drinking from the pool of water.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "369",
+    "question": "What is used to pick up the suitcases? Choices: rubber band, handle, tape, rope",
+    "predicted_answer": "handle",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The most common way to pick up suitcases is by using their handles. In the image, there are multiple suitcases stacked on top of each other, and it is reasonable to assume that someone would use the handles to lift and carry the suitcases, rather than using a rubber band, tape, rope, or any other unconventional method. The handles are specifically designed for this purpose, making it the most practical and efficient way to move the suitcases.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999199640103027,
+    "reason_vf_correct": "<br> - There are multiple suitcases stacked on top of each other in the image.<br> - The suitcases in the image have handles.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "490",
+    "question": "What institution often performs the function represented by the word on the main level of the ship nearest the camera? Choices: private enterprise, government, educational, commercial",
+    "predicted_answer": "government",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The word on the main level of the ship nearest the camera is \"Coast Guard.\" The Coast Guard is a government agency responsible for maritime law enforcement, search and rescue, and environmental protection. It is not a private enterprise, educational institution, or commercial organization. Therefore, the answer to the question is \"Government.\"",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9993724939031317,
+    "reason_vf_correct": "<br> - The word \"Coast Guard\" is visible on the main level of the ship nearest the camera.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "21",
+    "question": "What is the dog trying to catch? Choices: person, frisbee, kite, ball",
+    "predicted_answer": "frisbee",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The dog is trying to catch a yellow frisbee in its mouth. In the image, a man is holding a yellow frisbee, and the dog is looking at it, indicating that the dog is attempting to catch the frisbee in its mouth. This is a common activity for dogs and their owners, as it provides both physical exercise and mental stimulation for the dog, while also strengthening the bond between the dog and its owner.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.1544040266689461,
+    "reason_vf_correct": "<br> - The dog is looking at a yellow frisbee.<br> - A man is holding a yellow frisbee in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "person, ball"
+  },
+  {
+    "question_id": "285",
+    "question": "Is the man going to the mountain in the background? Choices: absolutely no, yes, absolutely yes, probably yes",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the man is sitting in the back of a pickup truck, which suggests that he might be going to the mountain in the background. Pickup trucks are commonly used for transporting people and their belongings to various destinations, including outdoor activities like hiking or camping. Therefore, it is plausible that the man is heading to the mountain for recreational purposes or work-related activities.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.408887041705215,
+    "reason_vf_correct": "<br> - The man is sitting in the back of a pickup truck.<br> - There is a mountain visible in the background of the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "probably yes"
+  },
+  {
+    "question_id": "337",
+    "question": "Where is this cat located? Choices: vet, home, office, store",
+    "predicted_answer": "home",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The cat is located in a home setting, as evidenced by the presence of a dining table, chairs, and a refrigerator in the image. These items are commonly found in a home environment, whereas a vet, office, or store would not typically have a dining table, chairs, or a refrigerator. Additionally, the cat appears to be relaxed and comfortable in its surroundings, which further supports the notion that it is in a home setting.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.9999756074985626,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There is a dining table visible in the image.<br> - There are chairs visible in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "450",
+    "question": "Which of these objects is used to write on and is present on the desk? Choices: post-its, graph paper, chalk board, clip board",
+    "predicted_answer": "graph paper",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The object used to write on and present on the desk is graph paper. The other objects, such as post-its, clip board, and chalk board, are typically used for different purposes. Post-its and clip boards are used for organizing and attaching notes, while chalk boards are used for writing and erasing with chalk. Graph paper, on the other hand, is specifically designed for plotting and graphing mathematical and scientific data.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.3850456174393327,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There is graph paper present on the desk.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "158",
+    "question": "What is purpose of this wooden board? Choices: entertaining kids, decoration, street sign, advertisement",
+    "predicted_answer": "advertisement",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The wooden board serves as an advertisement for the Teddy Bear Tea Rooms. It is placed on the sidewalk to attract the attention of passersby and entice them to visit the tea room. The sign is designed to be visually appealing and informative, providing information about the tea room's offerings, such as tea and teddy bears, to potential customers. The purpose of this wooden board is to promote the business and generate interest in the Teddy Bear Tea Rooms.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9773290461756377,
+    "reason_vf_correct": "<br> - The wooden board is placed on the sidewalk.<br> - The wooden board advertises the Teddy Bear Tea Rooms.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "350",
+    "question": "Which color of clothing is unique to just one of the two people here? Choices: white, yellow, grey, black",
+    "predicted_answer": "black",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that one of the two people in the image is wearing a black shirt, while the other person is wearing a blue shirt. The black shirt is unique to just one of the two people, making it the correct answer to the question.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.6377438137488167,
+    "reason_vf_correct": "<br> - One of the people is wearing a black shirt.<br> - The other person is wearing a blue shirt.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "159",
+    "question": "What video game system is the man playing? Choices: xbox one, playstation 5, nintendo wii, atari",
+    "predicted_answer": "nintendo wii",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The man in the image is playing a video game on a Nintendo Wii system. This is evident from the fact that he is holding a Wii remote, which is the primary controller for the Wii gaming system. The Wii remote is a motion-sensitive controller that allows players to interact with games through physical gestures, such as swinging, pointing, and tilting. The presence of the Wii remote in the man's hand confirms that he is playing a game on the Nintendo Wii system.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999717185854764,
+    "reason_vf_correct": "<br> - The man is holding a Wii remote in his hand.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

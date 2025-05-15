@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "162",
+    "question": "When it comes to the child what is he or she doing? Choices: roller blading, kicking, karate, skateboarding",
+    "predicted_answer": "skateboarding",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The child in the image is wearing a skateboarding helmet, which suggests that he or she is engaging in skateboarding activities. Skateboarding typically involves riding and performing tricks on a skateboard, so it is reasonable to assume that the child is participating in skateboarding rather than other activities like roller blading, kicking, or karate.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.99994018073243,
+    "reason_vf_correct": "<br> - The child is wearing a skateboarding helmet.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "492",
+    "question": "Where is this person located? Choices: restaurant, home, library, office",
+    "predicted_answer": "home",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the person is sitting on a couch in a living room, which is a typical setting for a home. The presence of a fireplace, a chair, and a potted plant further supports the idea that this is a residential space. Restaurants, libraries, and offices typically do not have such furnishings and decorations.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.9999876474943856,
+    "reason_vf_correct": "<br> - The person is sitting on a couch.<br> - There is a fireplace visible in the image.",
+    "reason_vf_incorrect": "<br> - There is a potted plant visible in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "342",
+    "question": "Where is the horse? Choices: farm, city street, ranch, parade",
+    "predicted_answer": "ranch",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The horse is located on a ranch, as evidenced by the presence of mountains in the background and the fenced-in area where the horse is standing. This setting is typical of a ranch, where horses are typically raised and cared for in a more natural and spacious environment compared to a city street, parade, or farm.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5504051482824802,
+    "reason_vf_correct": "<br> - There are mountains visible in the background of the image.<br> - The horse is standing in a fenced-in area.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "288",
+    "question": "The glasses contain only this beverage type? Choices: juice, beer, water, bourbon",
+    "predicted_answer": "no",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the glasses contain a variety of beverages, including juice, beer, water, and bourbon. The presence of these different types of beverages indicates that the glasses are not limited to just one type of beverage.",
+    "visual_fidelity": 0.25,
+    "contrastiveness": 0.9999635504810708,
+    "reason_vf_correct": "<br> - The glasses contain beer.",
+    "reason_vf_incorrect": "<br> - The glasses contain juice.<br> - The glasses contain water.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "271",
+    "question": "What is on the laps of each of the women? Choices: paper, children, phones, bag",
+    "predicted_answer": "phones",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the women have their cell phones on their laps. In the image, there are three women sitting on a bench, and each of them has a cell phone on their laps. This suggests that they might be using their phones for communication, entertainment, or other purposes during their time on the bench. The presence of the cell phones on their laps indicates that they are actively engaged with their devices.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999027094827356,
+    "reason_vf_correct": "<br> - There are three women sitting on a bench in the image.",
+    "reason_vf_incorrect": "<br> - Each woman has a cell phone on her lap.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "200",
+    "question": "What is the woman using the umbrella to protect herself from? Choices: rain, wind, sun, snow",
+    "predicted_answer": "sun",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The woman is using the umbrella to protect herself from the sun. The umbrella provides shade and helps shield her from the sun's harmful UV rays, which can cause sunburn, premature aging, and increase the risk of skin cancer. By using the umbrella, the woman is taking precautions to protect her skin and overall health from the sun's harmful effects.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9999441347030932,
+    "reason_vf_correct": "<br> - The woman is using an umbrella in the image.<br> - The umbrella is providing shade for the woman.",
+    "reason_vf_incorrect": "<br> - The sun is visible in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "362",
+    "question": "What part of the keyboard is shown? Choices: letters, keypad, touchpad, trackpad",
+    "predicted_answer": "letters",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The letters on the keyboard are shown in the image. The letters are the part of the keyboard that allows the user to input text, numbers, and symbols. The other parts of the keyboard, such as the keypad, touchpad, and trackpad, are not visible in the image.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.4375671898597466,
+    "reason_vf_correct": "<br> - The keypad, touchpad, and trackpad are not visible in the image.",
+    "reason_vf_incorrect": "<br> - The letters on the keyboard are visible in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "195",
+    "question": "The couch is located where? Choices: under, nowhere, right, left",
+    "predicted_answer": "right",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The couch is located on the right side of the room.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4454952595582739,
+    "reason_vf_correct": "<br> - The couch is located on the right side of the room.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "left"
+  },
+  {
+    "question_id": "103",
+    "question": "What color are the walls in the room? Choices: orange, yellow, blue, green",
+    "predicted_answer": "blue",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The walls in the room are blue.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3367419581363736,
+    "reason_vf_correct": "<br> - The walls in the room are blue.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "orange, green"
+  },
+  {
+    "question_id": "453",
+    "question": "What kind of bike is being ridden? Choices: bicycle, vespa, motorcycle, unicycle",
+    "predicted_answer": "bicycle",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The bike being ridden is a bicycle, not a motorcycle or a vespa. In the image, there are two bicycles parked next to each other on the side of the road. One of the bicycles has a basket on the front, which is a common feature of bicycles. Additionally, there is a motorcycle in the scene, but it is parked separately from the bicycles, and it does not have a basket on the front. A vespa is a type of motor scooter, not a bicycle. Therefore, the correct answer is bicycle.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.0074131618517882,
+    "reason_vf_correct": "<br> - There are two bicycles parked next to each other on the side of the road.<br> - One of the bicycles has a basket on the front.",
+    "reason_vf_incorrect": "<br> - There is a motorcycle parked separately from the bicycles.<br> - The motorcycle does not have a basket on the front.",
+    "reason_contr": ""
+  }
+]

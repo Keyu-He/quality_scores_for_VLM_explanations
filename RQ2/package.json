@@ -1,0 +1,28 @@
+{
+  "main": "webpack.config.js",
+  "homepage": "https://<link_hidden>/<link_hidden>",
+  "devDependencies": {
+    "@types/jquery": "^3.5",
+    "copy-webpack-plugin": "^12.0.2",
+    "gh-pages": "^6.1.1",
+    "ts-loader": "^9",
+    "typescript": "^4.5",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^4.9",
+    "webpack-dev-server": "^4.15.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=production",
+    "build_dev": "webpack --mode=development",
+    "watch": "webpack --mode=development --watch ",
+    "dev": "webpack-dev-server --mode=development --open",
+    "dev_prod": "webpack-dev-server --mode=production --open",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d web -r git@github.com:<link_hidden>/<link_hidden>.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<link_hidden>/<link_hidden>"
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "361",
+    "question": "What brand is this popcorn? Choices: Orville Redenbacher, Pop Secret, Jolly Time, Kernel Seasons",
+    "predicted_answer": "act ii",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The box of butter lovers popcorn contains 6 bags, and it is made by Act II.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2491167146446663,
+    "reason_vf_correct": "<br> - The box of popcorn contains 6 bags.<br> - The popcorn is made by Act II.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "Orville Redenbacher, Pop Secret, Jolly Time"
+  },
+  {
+    "question_id": "381",
+    "question": "What kind of spice is this? Choices: basil, oregano, paprika, rosemary",
+    "predicted_answer": "thyme",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "Thyme is a popular herb used in cooking and can be found in many different forms, including fresh, dried, or ground. In the image, there is a jar containing thyme, which has been labeled as \"Bay Area Thyme.\" This suggests that it may have been grown locally or sourced from a nearby region, providing a unique flavor and quality to the herb. The presence of this spice in one's kitchen can enhance the taste of various dishes, making it an essential ingredient for many recipes.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.1798512953571522,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There is a jar labeled \"Bay Area Thyme\" in the image.",
+    "reason_contr": "basil, oregano"
+  },
+  {
+    "question_id": "393",
+    "question": "What is this? Choices: mashed potatoes, crispy bacon, roasted vegetables, potato salad",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a small white container with blue writing on it, placed on a table.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2077804321345331,
+    "reason_vf_correct": "<br> - There is a small white container in the image.<br> - There is blue writing on the container.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "mashed potatoes, roasted vegetables"
+  },
+  {
+    "question_id": "255",
+    "question": "Can you see the fragrance on this bottle of Freebeze? Choices: yes, not sure, no, unanswerable",
+    "predicted_answer": "no",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a blue bottle of Freebeze, which is a deodorant spray, sitting on top of a wooden table. There are also two bowls in the scene, one near the left edge and another towards the right side of the table. The bottle appears to be placed next to a metal rack with some fruits on it.",
+    "visual_fidelity": 0.4285714285714285,
+    "contrastiveness": 0.2995918970702625,
+    "reason_vf_correct": "<br> - The blue bottle of Freebeze is sitting on top of a wooden table.<br> - The bottle is placed next to a metal rack.",
+    "reason_vf_incorrect": "<br> - There is a blue bottle of Freebeze in the image.<br> - There are two bowls in the scene.",
+    "reason_contr": "not sure, unanswerable"
+  },
+  {
+    "question_id": "39",
+    "question": "My computer won't talk. Can you tell me what's on the screen? Choices: check the speakers, restart the application, update the drivers, adjust the volume",
+    "predicted_answer": "restore",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The message displayed on the screen is asking if the user wants to restore their computer using a system restore.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9524219139710332,
+    "reason_vf_correct": "<br> - There is a message on the screen asking if the user wants to restore their computer.<br> - The message on the screen mentions using a system restore.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "309",
+    "question": "What is in this package please?  Pudding or apple sauce? Choices: apple pie, yogurt, jelly, fruit salad",
+    "predicted_answer": "hand snacks",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The box contains chocolate hand snacks, which are a type of pudding.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.7511460221515956,
+    "reason_vf_correct": "<br> - The box contains chocolate hand snacks.<br> - The chocolate hand snacks are a type of pudding.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "293",
+    "question": "What is the picture of? Choices: hand, tree, shoe, cat",
+    "predicted_answer": "toe",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up view of a person's foot, specifically focusing on their big toe. The toe has a small cut or wound on it, which appears to be healing. The rest of the foot and leg are visible in the background, providing context for the injury.",
+    "visual_fidelity": 0.4,
+    "contrastiveness": 0.9999732756784364,
+    "reason_vf_correct": "<br> - The image is a close-up view of a person's foot.<br> - There is a small cut or wound visible on the big toe.",
+    "reason_vf_incorrect": "<br> - The focus of the image is on the big toe.<br> - The cut or wound on the big toe appears to be healing.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "213",
+    "question": "Which book is that? Choices: \"guide, manual, reference, textbook\"",
+    "predicted_answer": "the help",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The Help",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2251786324912377,
+    "reason_vf_correct": "<br> - The title of the book \"The Help\" is visible in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "\"guide, manual, reference"
+  },
+  {
+    "question_id": "234",
+    "question": "What is this? Choices: cream cheese, yogurt, butter, sour cream",
+    "predicted_answer": "puckit",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "Puckit is a brand of food products that are made in Israel and distributed worldwide. They offer various types of spreads, sauces, and dips, including hummus, tzatziki, and salsa. In the image, there is a jar of puckit cream cheese spread with a blue label on it. The person holding the jar is likely enjoying this delicious product or preparing to use it in their meal.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.1256706032882303,
+    "reason_vf_correct": "<br> - There is a jar of puckit cream cheese spread in the image.<br> - The jar has a blue label on it.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "cream cheese"
+  },
+  {
+    "question_id": "95",
+    "question": "What is it? Choices: tablet, smartphone, desktop, printer",
+    "predicted_answer": "google",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "Google",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.4678521494334594,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - I'm sorry, but there are no explicit details in the rationale to generate specific yes/no questions about the image, yes.",
+    "reason_contr": "desktop"
+  }
+]

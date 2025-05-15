@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "235",
+    "question": "What meal might be eaten at the time shown on the clock? Choices: supper, tea, breakfast, elevenses",
+    "predicted_answer": "supper",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The clock in the image shows 17:05, which is equivalent to 5:05 PM. In many cultures, this is a common time for evening meals. The traditional evening meals include supper or tea. Breakfast is typically eaten in the morning, and elevenses is a light snack taken around 11:00 AM. Therefore, based on the time 17:05, the appropriate meal from the choices provided is either supper or tea.\n\nThus, the answer is supper.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9453823382954951
+  },
+  {
+    "question_id": "69",
+    "question": "What is the skateboard balanced on? Choices: post, air, chain, ground",
+    "predicted_answer": "chain",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The skateboard in the image is positioned on a section of the chain that connects the posts. The skateboarder is performing a trick, and the middle of the skateboard is clearly balanced on this chain. Thus, the skateboard is not in the air, on a post, or on the ground.\n\nThus, the answer is 'chain'.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.99710493080938
+  },
+  {
+    "question_id": "305",
+    "question": "How many skateboards are in the picture? Choices: four, six, three, five",
+    "predicted_answer": "not among the provided choices",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The picture shows one skateboard being used by the person performing a trick and another skateboard resting on the ground. Therefore, a total of two skateboards are visible in the image. None of the given options match this count.\n\nThus, the answer is not among the provided choices.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9956711032706191
+  },
+  {
+    "question_id": "35",
+    "question": "What sport game is the man playing? Choices: wii boxing, wii baseball, wii football, wii tennis",
+    "predicted_answer": "wii boxing",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a man holding a Wii remote and standing in front of a television displaying a boxing match. The presence of boxing gloves and a ring on the screen strongly indicates that the sport being played is boxing. The man appears to be mimicking boxing motions, which are characteristic of playing Wii Boxing. \n\nThus, the answer is wii boxing.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999972188427216
+  },
+  {
+    "question_id": "356",
+    "question": "What hour is shown on the clock? Choices: eleven, nine, eight, ten",
+    "predicted_answer": "nine",
+    "prediction_is_correct": 0,
+    "generated_rationale": "Based on the image, the clock displays the hour hand pointing slightly before the 9, indicating the hour is close to 9. None of the other choices (eleven, eight, or ten) align with the position of the hour hand. Thus, the answer is nine.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9978284343321722
+  },
+  {
+    "question_id": "137",
+    "question": "What do the larger elephants still have intact? Choices: tusks, pythons, horns, antlers",
+    "predicted_answer": "tusks",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows two larger elephants with visible long protrusions on either side of their trunks, which are characteristic features of elephant tusks. Unlike the other options\u2014pythons, horns, and antlers\u2014none of these terms matches the biological features commonly associated with elephants. Tusks are elongated incisor teeth, and elephants are well-known for having them. \n\nThus, the answer is tusks.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9979754576166485
+  },
+  {
+    "question_id": "333",
+    "question": "The thing on the ceiling performs what function? Choices: heating, cooking, cleaning, cooling",
+    "predicted_answer": "cooling",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a ceiling fan, which is designed to circulate air in a room. This helps in maintaining a comfortable temperature by providing a cooling effect through air movement. Ceiling fans do not directly heat, cook, or clean, but they primarily serve the function of cooling by moving air to create a wind-chill effect. \n\nThus, the answer is cooling.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999892630116881
+  },
+  {
+    "question_id": "167",
+    "question": "What appliance is unhooked and placed by the sink? Choices: dishwasher, stove/oven, trash compactor, icemaker",
+    "predicted_answer": "dishwasher",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The appliance that is unhooked and placed by the sink is identifiable by its typical characteristics. In the image, there is an appliance with an open front panel that is located next to the kitchen sink. This appearance is consistent with a dishwasher, which commonly features a front panel or door for loading dishes. The other listed appliances (stove/oven, trash compactor, icemaker) do not typically have this design or placement adjacent to a sink.\n\nThus, the answer is dishwasher.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999997266350691
+  },
+  {
+    "question_id": "228",
+    "question": "What industry is this man likely working in? Choices: travel, construction, medical, restaurant",
+    "predicted_answer": ": restaurant",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image shows a man in a setting that resembles a kitchen, as indicated by the presence of plates, a microwave, and other kitchen equipment. This environment is consistent with what you might find in a restaurant setting. The presence of these items suggests activities such as food preparation, which is typically associated with the restaurant industry.\n\nThus, the answer is: restaurant.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4999999544123471
+  },
+  {
+    "question_id": "431",
+    "question": "What color is in the center of the red flower? Choices: brown, black, yellow, white",
+    "predicted_answer": "white",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The center of the red flower on the cake decoration is visually prominent in the image. The part at the center of the flower is a distinct color compared to the red petals surrounding it. From the given options\u2014brown, black, yellow, white\u2014the color that matches the center is white. \n\nThus, the answer is white.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9798309399263605
+  }
+]

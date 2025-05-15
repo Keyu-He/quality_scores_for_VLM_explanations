@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "235",
+    "question": "What color is the shirt I'm wearing? Choices: gray, white, blackbluelight blue brown flannel, green",
+    "predicted_answer": "red",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The shirt you are wearing is red.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.1161617228579053,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The shirt you are wearing is red.",
+    "reason_contr": "green, white, gray"
+  },
+  {
+    "question_id": "252",
+    "question": "What is in this can? Choices: peas, carrots, soup, beans",
+    "predicted_answer": "canned carrots",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a white stove with a can of canned carrots sitting on top of it. The can is open, and the carrots are visible inside. This scene suggests that someone might be preparing to cook or eat the carrots using the stove as their heat source. The presence of the can indicates that the carrots have been processed and packaged for easy storage and transportation.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999918986795758,
+    "reason_vf_correct": "<br> - There is a can sitting on top of a white stove.",
+    "reason_vf_incorrect": "<br> - The can is open with carrots visible inside.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "116",
+    "question": "What is the price of the french fries? Choices: 0.99, 1.29 1.99, 1.75, 3.50",
+    "predicted_answer": "$3.99",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The price of the french fries is $3.99.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.8435546919949835,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The price of the french fries is shown as $3.99 in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "207",
+    "question": "What color is this? Choices: red, purple, green, blue",
+    "predicted_answer": "blue",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The color of the cloth in the image is blue.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5651081959237976,
+    "reason_vf_correct": "<br> - The cloth in the image is blue.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "41",
+    "question": "What is this? Choices: street lamp, fire hydrant, mailbox, traffic cone",
+    "predicted_answer": "water main below",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The sign in front of the fire hydrant indicates that there is a water main below, which means that the area may be prone to flooding or have underground infrastructure that could be damaged by heavy rainfall or other weather events. The presence of the green and yellow fire hydrant suggests that it is an essential piece of equipment for emergency services in case of fires or other incidents requiring water access.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999017363762572,
+    "reason_vf_correct": "<br> - There is a sign in front of the fire hydrant indicating a water main below.<br> - The fire hydrant is green and yellow.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "434",
+    "question": "What is in this box? Choices: books, toys, clothes, rigatoni",
+    "predicted_answer": "penne",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The box contains a package of pasta, specifically penne.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.5503029846147782,
+    "reason_vf_correct": "<br> - The box contains a package of pasta.",
+    "reason_vf_incorrect": "<br> - The pasta in the box is specifically penne.",
+    "reason_contr": "spaghetti"
+  },
+  {
+    "question_id": "343",
+    "question": "What does it say exactly on this coupon? Choices: free drink, free baja shrimp taco, valid until next month\", \"buy one get one",
+    "predicted_answer": "free",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The word \"free\" appears in large letters on the paper, indicating that the meal or item being advertised is complimentary and not requiring payment.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.7998534317825688,
+    "reason_vf_correct": "<br> - The word \"free\" appears in large letters on the paper.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "394",
+    "question": "What is that a coupon for? Choices: yogurt, coffee, ice cream, cereal",
+    "predicted_answer": "yoplait",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The coupon is for Yoplait yogurt, which comes in various flavors and sizes.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999693917954762,
+    "reason_vf_correct": "<br> - The coupon is for Yoplait yogurt.<br> - The coupon mentions various flavors and sizes.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "399",
+    "question": "What is this? Choices: laptop, smartphone, printer, tablet",
+    "predicted_answer": "a laptop computer",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The dog is lying on the floor, and it appears to be sleeping or resting.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0251417742119889,
+    "reason_vf_correct": "<br> - The dog is lying on the floor.<br> - The dog appears to be sleeping or resting.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "tablet, smartphone, desktop"
+  },
+  {
+    "question_id": "35",
+    "question": "Could you tell me if I need to hit enter or can you actually tell if I need to do something else? Choices: just wait, no action, check settings, yes accept terms",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "I cannot provide a definitive answer without knowing the specific context of your situation, but in general, when encountering a message on a computer screen that requires user input, it is common for there to be an \"enter\" or \"submit\" button that you can click to proceed. If you are unsure what action to take, you may need to consult additional information or seek assistance from someone familiar with the specific software or application you are using.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.4435493379814472,
+    "reason_vf_correct": "<br> - There is a message on a computer screen that requires user input.",
+    "reason_vf_incorrect": "<br> - There is an \"enter\" or \"submit\" button visible on the screen.",
+    "reason_contr": "click submit"
+  }
+]

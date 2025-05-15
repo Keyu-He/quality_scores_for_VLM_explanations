@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "410",
+    "question": "What profession might this man work as? Choices: politician, bartender, sherriff, librarian",
+    "predicted_answer": "sheriff",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The man in the image is wearing a cowboy hat, a vest, and has a gun on his hip. This attire and the presence of the gun suggest that he might work as a sheriff or a law enforcement officer. A sheriff is responsible for maintaining public order, enforcing laws, and protecting citizens in their jurisdiction. The man's outfit and accessories are consistent with the role of a sheriff or a similar law enforcement position.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4999998060044594,
+    "reason_vf_correct": "<br> - The man is wearing a cowboy hat in the image.<br> - The man is wearing a vest in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "sherriff"
+  },
+  {
+    "question_id": "79",
+    "question": "Which ingredient is the most flavorful? Choices: mushrooms, fish, plate, broccoli",
+    "predicted_answer": "mushrooms",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The most flavorful ingredient in the dish is the mushrooms. Mushrooms are known for their earthy and savory flavors, which can enhance the taste of other ingredients in the dish. In this case, the mushrooms are combined with fish, broccoli, and herbs, creating a well-balanced and flavorful meal. The other ingredients, such as fish, broccoli, and herbs, contribute to the overall taste and texture of the dish, but it is the mushrooms that stand out as the most flavorful ingredient.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999983018896912,
+    "reason_vf_correct": "<br> - Mushrooms are present in the dish.<br> - The dish contains other ingredients such as fish, broccoli, and herbs.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "286",
+    "question": "What type of animals are on the grass? Choices: zebra, lion, bear, tiger",
+    "predicted_answer": "zebra",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The animals on the grass are zebras, not lions, bears, or tigers. In the image, there are two zebras standing next to each other, grazing on the grass. Zebras are known for their distinctive black and white stripes, and they are commonly found in grasslands and savannas, where they graze on various types of vegetation. The presence of zebras in the image is consistent with their natural habitat and behavior. On the other hand, lions, bears, and tigers are carnivorous animals and are not typically found grazing on grass.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999073104020044,
+    "reason_vf_correct": "<br> - There are two zebras standing next to each other on the grass.<br> - The animals on the grass have black and white stripes.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "392",
+    "question": "Where is the most likely location for this bar? Choices: school, house, restaurant, office",
+    "predicted_answer": "restaurant",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The most likely location for this bar is a restaurant. In the image, there is a variety of alcoholic beverages, such as beer, wine, and liquor, as well as non-alcoholic beverages like juice and water. Additionally, there are multiple bottles, cups, and a bowl on the counter. These items are commonly found in a restaurant setting, where patrons can enjoy a diverse selection of beverages while dining. The presence of a dining table in the image further supports the idea that this bar is located within a restaurant.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999580562995968,
+    "reason_vf_correct": "<br> - There is a variety of alcoholic beverages, such as beer, wine, and liquor, visible in the image.<br> - There are multiple bottles, cups, and a bowl on the counter in the image.",
+    "reason_vf_incorrect": "<br> - There are non-alcoholic beverages like juice and water visible in the image.<br> - There is a dining table visible in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "44",
+    "question": "What is the orange container on the left near the man in the red shirt used for? Choices: training, keeping score, batting, storage",
+    "predicted_answer": "batting",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The orange container on the left near the man in the red shirt is a batting cage. Batting cages are used for practicing and improving a player's batting skills by providing a controlled environment where the player can focus on their swing, timing, and technique without the distractions or hazards of a full-sized baseball field.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.4786091183430036,
+    "reason_vf_correct": "<br> - There is an orange container on the left near the man in the red shirt.",
+    "reason_vf_incorrect": "<br> - The orange container is a batting cage.",
+    "reason_contr": "training"
+  },
+  {
+    "question_id": "467",
+    "question": "What is the girl doing in the bathroom? Choices: brushing teeth, washing hands, taking selfie, painting walls",
+    "predicted_answer": "taking selfie",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The girl is taking a selfie in the bathroom, as indicated by the presence of a mirror in the image. This suggests that she is using the mirror to capture a picture of herself, which is a common activity when people take selfies. The other options, such as brushing teeth, washing hands, and painting walls, are not typical activities that one would associate with taking a selfie in a bathroom.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9621679940317596,
+    "reason_vf_correct": "<br> - There is a mirror visible in the bathroom.<br> - The girl is holding a phone or camera in a way that suggests she is taking a picture of herself.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "325",
+    "question": "What police force does the police car behind the truck belong to probably? Choices: detroit, new york, baltimore, washington dc",
+    "predicted_answer": "new york",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The police car behind the truck is likely from the New York Police Department (NYPD). The reasoning behind this answer is based on the context of the image. The scene takes place in New York City, which is known for its iconic skyline and busy streets. The presence of the NYPD police car in the image suggests that it belongs to the law enforcement agency responsible for maintaining order and ensuring public safety in the city.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.9999483778504916,
+    "reason_vf_correct": "<br> - There is a police car behind the truck in the image.<br> - The scene in the image takes place in New York City.",
+    "reason_vf_incorrect": "<br> - The skyline in the image is iconic of New York City.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "137",
+    "question": "What do the larger elephants still have intact? Choices: tusks, pythons, horns, antlers",
+    "predicted_answer": "horns",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The larger elephants in the image still have their horns intact. The reasoning behind this answer is that horns are an essential part of an elephant's anatomy. They are used for various purposes, such as defense, communication, and sensory perception. Elephants are known to use their horns to protect themselves and their herd members from potential threats, such as predators or other aggressive animals. Additionally, elephants use their horns to communicate with other elephants through various tactile cues, such as touching, rubbing, or swinging their heads. Furthermore, the horns play a crucial role in sensory perception, helping the elephants navigate their environment and locate food and water sources. Therefore, it is not surprising that the larger elephants in the image still have their horns intact, as they are an integral part of their anatomy and essential for their survival and well-being.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.1201779804298903,
+    "reason_vf_correct": "<br> - The larger elephants in the image have their horns intact.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "tusks"
+  },
+  {
+    "question_id": "15",
+    "question": "What is located on the shelves? Choices: books, dvds, games, food",
+    "predicted_answer": "books",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The shelves in the image are filled with books, indicating that the primary purpose of these shelves is to store and display reading materials. While it is possible that there may be other items on the shelves, such as DVDs, games, or food, the presence of numerous books suggests that the primary function of these shelves is for book storage and display.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.7107781079585956,
+    "reason_vf_correct": "<br> - The shelves are filled with books.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "186",
+    "question": "What is placed inside this meter? Choices: paper, paint, water, money",
+    "predicted_answer": "money",
+    "prediction_is_correct": 1,
+    "generated_rationale": "Money is placed inside the meter because it is a parking meter. Parking meters are used to collect fees for parking in designated spaces. When a driver parks their vehicle in a space with a parking meter, they are required to deposit the appropriate amount of money into the meter to pay for the time they will be parked. The meter then displays the remaining time allowed for parking, and when the time expires, the driver is expected to move their vehicle or face potential fines or penalties for overstaying their allotted parking time.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.99110372188164,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The object in the image is a parking meter.",
+    "reason_contr": ""
+  }
+]

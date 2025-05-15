@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "499",
+    "question": "What is this? Choices: fudge, caramel, vanilla, chocolate",
+    "predicted_answer": "chocolate",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The box of chocolates is a decorative and colorful box that features a blue, yellow, red, green, and purple design on it. It is sitting on top of a table or counter.",
+    "visual_fidelity": 0.8571428571428571,
+    "contrastiveness": 0.4990510357922506,
+    "reason_vf_correct": "<br> - The box of chocolates is decorative and colorful.<br> - The box features a blue design.",
+    "reason_vf_incorrect": "<br> - The box features a green design.",
+    "reason_contr": "candy"
+  },
+  {
+    "question_id": "99",
+    "question": "What is this? Choices: intestine, stomach, pancreas, heart",
+    "predicted_answer": "hanes",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "Hanes",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.6771361413645244,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - I'm sorry, but there are no explicit details in the rationale to generate specific yes/no questions about the image, yes.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "268",
+    "question": "What color is this shirt? Choices: blue, black, grey, red",
+    "predicted_answer": "gray",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The shirt in the image is grey, which can be seen clearly on the hanger.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999905927636414,
+    "reason_vf_correct": "<br> - The shirt in the image is gray.<br> - The shirt is on a hanger in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "161",
+    "question": "What is this capture? Choices: was uctoft, \"was uctoft\", \"is a mistake\", \"is unclear\"",
+    "predicted_answer": "a computer screen displaying a sign up page for skype",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a computer screen with a sign-up page for Skype displayed on it. The page appears to be asking the user to enter their email address and password, as well as other personal information. There are also options to sign up using a phone number or an existing account. The overall appearance of the page suggests that the user is being prompted to create a new account with Skype.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.4377309460136132,
+    "reason_vf_correct": "<br> - The computer screen is displaying a sign-up page for Skype.<br> - There are options to sign up using a phone number or an existing account on the page.",
+    "reason_vf_incorrect": "<br> - The sign-up page asks the user to enter their email address and password.",
+    "reason_contr": "\"was uctoft\", \"is a photo\""
+  },
+  {
+    "question_id": "269",
+    "question": "What color is this sweater? Choices: green, black, gray, blue",
+    "predicted_answer": "black",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The sweater in the image is a black shirt, which is hanging on a white table or countertop.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5086299718105588,
+    "reason_vf_correct": "<br> - The sweater in the image is black.<br> - The sweater is hanging on a white table or countertop.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "gray"
+  },
+  {
+    "question_id": "160",
+    "question": "Can you read some of the text on the green? Choices: software engineering, computer organization design, network protocols, system architecture\"",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The book is about computer organization and design, it is a handbook for software engineers.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.1173224441970924,
+    "reason_vf_correct": "<br> - The book is about computer organization and design.",
+    "reason_vf_incorrect": "<br> - The book is a handbook for software engineers.",
+    "reason_contr": "\"data structures, software engineering, network protocols"
+  },
+  {
+    "question_id": "17",
+    "question": "What is this a picture of? Choices: landscape, man, child, woman",
+    "predicted_answer": "a person sitting in an auditorium",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a person sitting in an auditorium, likely watching a presentation or event. They are seated on the front row of chairs, which are arranged in rows facing forward. There are several other chairs visible around them, indicating that this is a public venue where people can sit and watch presentations or performances. The person appears to be focused on the event taking place, possibly listening intently or waiting for their turn to speak.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9516433656414524,
+    "reason_vf_correct": "<br> - The person is sitting in an auditorium.<br> - The chairs in the image are arranged in rows facing forward.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "427",
+    "question": "What's the title of this CD? Choices: soft melodies, quiet 1, \"silent night, peaceful sounds\"",
+    "predicted_answer": "the quiet one",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The quiet one",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0980635452657102,
+    "reason_vf_correct": "<br> - I'm sorry, but I can't generate questions based on the provided rationale as it doesn't contain any explicit details about the image, yes.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "\"silent night, calm tunes, soft melodies"
+  },
+  {
+    "question_id": "463",
+    "question": "What is the title of the book? Choices: the secret path\", auf die lange kommt es, the final chapter, a tale of two cities",
+    "predicted_answer": "auf deinen kopf es kommt an",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The title of the book is Auf Deinen Kopf Es Kommt An.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.6179810824548211,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The title of the book is \"Auf Deinen Kopf Es Kommt An.\"",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "181",
+    "question": "What is the computer screen showing? Choices: error message, loading\", restore, \"shutdown",
+    "predicted_answer": "startup error",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The computer screen shows a startup error message that says \"your computer was unable to start\".",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5007793610894634,
+    "reason_vf_correct": "<br> - The computer screen displays a message.<br> - The message on the computer screen says \"your computer was unable to start.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": "error message"
+  }
+]

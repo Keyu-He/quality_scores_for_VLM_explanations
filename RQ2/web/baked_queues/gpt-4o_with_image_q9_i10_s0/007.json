@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "181",
+    "question": "How do these people know each other? Choices: coworkers, spouses, siblings, classmates",
+    "predicted_answer": "classmates",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a large group of children posed in several rows, typical of a school class photo. The setting looks formal with many children dressed similarly, which further suggests an organized group photo often taken in schools. The size and arrangement of the group align with a classroom setting rather than a workplace, family gathering, or event involving spouses. \n\nThus, the answer is classmates.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9846959079181057
+  },
+  {
+    "question_id": "330",
+    "question": "What sort of surface/substance does the conveyance with a problem here move upon? Choices: sea, sky, rail, road",
+    "predicted_answer": "sea",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image shows a group of people working on a vehicle with an open hood, which suggests there might be a problem with that vehicle. Behind them, a boat is visible. Boats typically move on the sea, not the sky, rail, or road. Therefore, even though the immediate issue seems to be with the vehicle, the context of the conveyance related to the problem is associated with the sea because of the presence of the boat.\n\nThus, the answer is sea.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.961786564964272
+  },
+  {
+    "question_id": "58",
+    "question": "What type of parking is available? Choices: truck, airplane, bicycle, rv",
+    "predicted_answer": "bicycle",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows bicycles parked in front of a building. There are bike racks where bicycles are secured, indicating that the type of parking available is for bicycles. There is no visible parking space or area for trucks, airplanes, or RVs in the image.\n\nThus, the answer is bicycle.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9998595834190754
+  },
+  {
+    "question_id": "368",
+    "question": "What city is this shopping center in? Choices: los angeles, stroud uk, paris, karachi",
+    "predicted_answer": "stroud, uk",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The shopping center in the image is called \"Merrywalks.\" This name is known to be associated with a shopping center in Stroud, UK. The architectural style and signage language also suggest a location in the UK rather than Los Angeles, Paris, or Karachi. Thus, the answer is Stroud, UK.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.49999014993722857
+  },
+  {
+    "question_id": "349",
+    "question": "What is the gray thing on the nearest motorcycle for? Choices: displaying wealth, rain protection, just aesthetics, heating food",
+    "predicted_answer": "rain protection",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The gray thing on the nearest motorcycle is a cover. Motorcycle covers are typically used to protect the motorcycle from external elements, such as rain and dust. Given the context and typical use of motorcycle covers, it is most likely for rain protection rather than displaying wealth, aesthetics, or heating food. \n\nThus, the answer is rain protection.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9999769487306175
+  },
+  {
+    "question_id": "54",
+    "question": "They are likely having pizza at what kind of event? Choices: family, gaming, academic, social",
+    "predicted_answer": "social",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image shows a group of people gathered and eating pizza, which suggests a casual atmosphere. They are wearing nametags, indicating that they might not all know each other personally and could be attending a larger event. This setting is typical of social events where people come together to mingle and share food. The presence of pizza and the informal setting further suggest a social or networking type of gathering rather than a family, gaming, or academic one, where a more structured setting might be observed.\n\nThus, the answer is social.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999737638598519
+  },
+  {
+    "question_id": "14",
+    "question": "What flag is represented on the wall? Choices: english, moravian, american, french",
+    "predicted_answer": "american",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a flag with stars and stripes, which is characteristic of the American flag. The American flag is typically represented with a pattern of stars and stripes in red, white, and blue. The arrangement of stars in a blue field, and alternating red and white stripes is visible in the display case on the wall. This aligns with the traditional depiction of the American flag. \n\nThus, the answer is 'american'.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4675646880328675
+  },
+  {
+    "question_id": "158",
+    "question": "What is purpose of this wooden board? Choices: entertaining kids, decoration, street sign, advertisement",
+    "predicted_answer": "street sign",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The wooden board in the image features text that says \"Teddy Bear Tea Rooms Upstairs,\" which suggests it is directing people to a location. The board's message and imagery aim to attract attention from pedestrians and inform them about the tea room's location. This fulfills the function of guiding or providing directions, which is typical for a street sign. It is not primarily designed for decoration, entertaining kids, or advertisement purposes beyond indicating location.\n\nThus, the answer is street sign.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9981368169578797
+  },
+  {
+    "question_id": "153",
+    "question": "What are some of the zebras standing in in the middle of the photo? Choices: grass, water, mud, rocks",
+    "predicted_answer": "mud",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The zebras in the middle of the photo appear to be gathered around a small body of water, and the texture and appearance of the area suggests it is muddy. The presence of zebras standing directly in or near this patch indicates they're likely in mud. The choice of mud is further supported by the visual cues like the irregular surface texture and dark patches.\n\nThus, the answer is mud.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.618398308194894
+  },
+  {
+    "question_id": "491",
+    "question": "What are the riders about to do now? Choices: accelerate, compete, win, flip",
+    "predicted_answer": "flip",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows riders on their vehicles in a position that suggests they are about to engage in a stunt maneuver, as both vehicles are tilted upwards on their rear wheels. The scene does not depict a situation indicative of acceleration or competition, nor is there any sign of a race or competitive elements. The term \"win\" does not apply as there is no context of a victory or contest present. The position of the vehicles indicates they are more likely to execute a maneuver such as flipping. \n\nThus, the answer is 'flip'.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.963669241943523
+  }
+]

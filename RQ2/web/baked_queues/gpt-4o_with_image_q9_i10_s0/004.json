@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "319",
+    "question": "What family member in a household would this room most likely belong to? Choices: son, daughter, infant, grandparent",
+    "predicted_answer": "son",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The room is filled with elements that suggest a preference for video games, movies, and possibly superhero or horror themes. These interests are commonly associated with a teenage or young male. The presence of CDs, video game elements, and themed decorations aligns with stereotypical interests that might be more likely associated with a \"son.\"\n\nThus, the answer is son.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999997090138661
+  },
+  {
+    "question_id": "440",
+    "question": "What color is the background of the large clock? Choices: green, black, white, red",
+    "predicted_answer": "white",
+    "prediction_is_correct": 1,
+    "generated_rationale": "Based on the image provided, the background color of the large clock appears light and neutral. Among the choices given, white matches this description. The colors green, black, and red do not align with the observed light and neutral background. \n\nThus, the answer is 'white'.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9998677480981512
+  },
+  {
+    "question_id": "41",
+    "question": "What room of the house is this man in? Choices: sitting room, dinning room, bathroom, bedroom",
+    "predicted_answer": "bathroom",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a man standing in front of a mirror with toiletries and grooming products visible on the shelves and a sink below, which are typical features of a bathroom. The presence of a toothbrush holder and a towel further supports this observation.\n\nThus, the answer is bathroom.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9998941499581783
+  },
+  {
+    "question_id": "262",
+    "question": "What is the rectangular object in the back left used to do? Choices: blend food, watch tv, store bread, cook food",
+    "predicted_answer": "cook food",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The rectangular object in the back left of the image looks like a microwave oven. Microwaves are typically used to heat or cook food. The other options, such as blending food or storing bread, are not functions usually associated with a microwave. Watching TV is also not relevant to a microwave's purpose.\n\nThus, the answer is cook food.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.99980043826544
+  },
+  {
+    "question_id": "201",
+    "question": "What property does the blue and green fence have? Choices: soft, hard, wet, hot",
+    "predicted_answer": "hard",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image depicts a skiing event, and the fence shown is typically made of a durable material to withstand impact during skiing activities. Given its function and the context of its use, the fence is most likely a solid structure rather than one that is soft, wet, or hot. These fences are designed to be sturdy and provide safety barriers, making hardness a necessary characteristic.\n\nThus, the answer is hard.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999111694304426
+  },
+  {
+    "question_id": "49",
+    "question": "Why would you sit at this table? Choices: to paint, medical treatment, to work, to eat",
+    "predicted_answer": "to eat",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a table set with food and drink items, such as a teapot, glasses, a plate of pastries, and some fruit. This setup is typically associated with dining or having a meal. The presence of food items and serving utensils strongly indicates this table is intended for eating, rather than activities like painting, medical treatment, or working.\n\nThus, the answer is to eat.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9998165060399217
+  },
+  {
+    "question_id": "238",
+    "question": "How many different devices can show a picture? Choices: three, one, four, two",
+    "predicted_answer": "three",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image displays three different devices capable of showing a picture. These devices include a laptop, a monitor, and a smartphone. Each device has a screen and can be used to display images independently. \n\nThus, the answer is three.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9486861364222399
+  },
+  {
+    "question_id": "328",
+    "question": "What action is the woman probably getting ready to perform with her phone? Choices: browse, call, text, selfie",
+    "predicted_answer": "selfie",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The woman is holding the phone at arm's length and is facing the camera. This positioning is typical for taking a selfie, as it allows her to capture her own image effectively. The angle and focus suggest she is ready to capture an image of herself rather than engage in other phone activities like browsing, calling, or texting, which would typically require looking at the screen rather than holding the phone in this manner. \n\nThus, the answer is selfie.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999710528435958
+  },
+  {
+    "question_id": "267",
+    "question": "How many vehicles have their lights on? Choices: three, one, none, two",
+    "predicted_answer": "one",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image shows a road with two visible vehicles. The vehicle closer to the camera has its headlights switched on, while the lights of the more distant vehicle are not visible, making the assumption that its lights might be off. The visible indication from the closer vehicle confirms at least one vehicle with lights on.\n\nThus, the answer is one.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9340263631101461
+  },
+  {
+    "question_id": "251",
+    "question": "What is the name of the sport the man is participating in? Choices: waterboarding, sailboating, waterskiing, skateboarding",
+    "predicted_answer": "waterskiing",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image shows a man gliding over water while holding onto a cable, which suggests he is on a wakeboard or something similar. Waterboarding is not a sport but often referred to in a completely different context. Sailboating involves sailing a boat, which does not match the activity here. Skateboarding is performed on solid ground with a skateboard. The depicted sport is waterskiing, which involves being pulled over water by a boat or cable while standing on a board. The presence of other elements, like the obstacle the man is maneuvering over, indicates a setting more consistent with wakeboarding rather than traditional waterskiing, but given the choices provided, waterskiing is the closest match.\n\nThus, the answer is waterskiing.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9962973143839722
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "67",
+    "question": "What is this? Choices: tablet, smartphone, desktop, printer",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The laptop screen displays a man on it, and there are clothes in the background.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999947088492682,
+    "reason_vf_correct": "<br> - There is a laptop screen displaying a man in the image.<br> - There are clothes visible in the background of the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "383",
+    "question": "What is this and what does it look like? Choices: softball, basketball, tennis ball, golf ball",
+    "predicted_answer": "baseball",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The object in question is a baseball, which is a round ball with a red stitched seam and white leather cover. It has the word \"baseball\" written on it.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.7565585570223682,
+    "reason_vf_correct": "<br> - The object is round in shape.<br> - The object has a red stitched seam.",
+    "reason_vf_incorrect": "<br> - The object is covered in white leather.<br> - The word \"baseball\" is written on the object.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "140",
+    "question": "What does it say on this coupon? Choices: \"$10 off any purchase, free dessert with meal, buy one get one free, 20% off next visit\"",
+    "predicted_answer": "$5 avocado toastada combo",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The person holding the coupon is showing that they have a $5 Avocado Toastada Combo.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9463868219003824,
+    "reason_vf_correct": "<br> - The person is holding a coupon in the image.",
+    "reason_vf_incorrect": "<br> - The coupon in the image says \"$5 Avocado Toastada Combo.\"",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "320",
+    "question": "Is there anybody in the hallway? Choices: yes, not sure, no, unanswerable",
+    "predicted_answer": "no",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The reason for this answer is that the image shows an empty hallway with no people visible, and it appears to be a school setting where students would typically be present during class hours.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2684445660759416,
+    "reason_vf_correct": "<br> - The hallway is empty with no people visible.<br> - The hallway appears to be in a school setting.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "yes, not sure"
+  },
+  {
+    "question_id": "483",
+    "question": "Is this bag black and white? Choices: yes, not sure, no, unanswerable",
+    "predicted_answer": "no",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "No, it's not black and white.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.1431359657306183,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The bag in the image is not black and white.",
+    "reason_contr": "not sure, unanswerable"
+  },
+  {
+    "question_id": "417",
+    "question": "What's in the picture? Choices: chairs, fruits on counter, books on shelf, empty room",
+    "predicted_answer": "a green and red can of soda on a table",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image features a wooden dining room table with various items placed on it, including a green and red can of soda.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.624130047508175,
+    "reason_vf_correct": "<br> - There is a wooden dining room table in the image.",
+    "reason_vf_incorrect": "<br> - There is a green and red can of soda on the table.",
+    "reason_contr": "chairs"
+  },
+  {
+    "question_id": "14",
+    "question": "What is in this picture? Choices: computer, lamp, chair, painting",
+    "predicted_answer": "tv",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The television is on, showing a car race.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.8554820122973174,
+    "reason_vf_correct": "<br> - There is a television in the image.<br> - The television is turned on.",
+    "reason_vf_incorrect": "<br> - The television is showing a car race.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "152",
+    "question": "What does this computer screen say? Choices: \"hello\", \"error\", \"loading\", \"welcome\"",
+    "predicted_answer": "nib",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a black computer monitor with a white background and a logo that says \"nib\" on it.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3680235948517416,
+    "reason_vf_correct": "<br> - There is a black computer monitor in the image.<br> - The computer screen has a white background.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "\"loading\""
+  },
+  {
+    "question_id": "460",
+    "question": "What is this? Choices: flatbreads, pita bread, sandwich wraps, crepes",
+    "predicted_answer": "tortilla wraps",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "Tortilla wraps are a popular food item that can be used to make various dishes, including sandwiches and burritos. They are made from a thin, soft tortilla shell that is typically filled with ingredients such as meat, cheese, vegetables, and sauces. The wraps can be eaten on their own or used as a base for other food items. In the image, there is a box of tortilla wraps displayed in front of a taco shell, which suggests that they are being marketed as a convenient and versatile food option.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.3674960826354904,
+    "reason_vf_correct": "<br> - There is a box of tortilla wraps in the image.",
+    "reason_vf_incorrect": "<br> - There is a taco shell displayed in front of the box of tortilla wraps.",
+    "reason_contr": "flatbreads, sandwich wraps"
+  },
+  {
+    "question_id": "339",
+    "question": "Can you tell me what this is? Choices: magazine, notebook, pamphlet, document",
+    "predicted_answer": "barbie dolls",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a collection of Barbie dolls in various poses and outfits, displayed on a yellow background. There are at least 13 different Barbie dolls visible in the picture, each with unique features and accessories. The display is organized into multiple sections or rows, showcasing the diverse range of Barbie dolls available for purchase or collection.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.0084699537248694,
+    "reason_vf_correct": "<br> - There are Barbie dolls in the image.<br> - The Barbie dolls are displayed on a yellow background.",
+    "reason_vf_incorrect": "<br> - There are at least 13 different Barbie dolls visible in the image.",
+    "reason_contr": "magazine, pamphlet"
+  }
+]

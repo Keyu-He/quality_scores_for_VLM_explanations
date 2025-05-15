@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "291",
+    "question": "Whos is sitting in the chair? Choices: man, girl man, no one, girl",
+    "predicted_answer": "man",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the man is sitting in the chair, and the girl is sitting on his lap. In the image, the man is wearing a suit and tie, and the girl is wearing a dress, which suggests that they might be attending a formal event or a special occasion. The man's attire and the fact that he is holding the girl on his lap indicate that he is the one sitting in the chair, while the girl is sitting on his lap.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.6346986480722748,
+    "reason_vf_correct": "<br> - The man is wearing a suit and tie.<br> - The girl is wearing a dress.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "girl man"
+  },
+  {
+    "question_id": "323",
+    "question": "The piece of clothing the woman in the picture is wearing on her hands normally serves what purpose? Choices: fashion, prevention, cure, protection",
+    "predicted_answer": "protection",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The woman in the picture is wearing gloves on her hands, which serves the purpose of protection. Gloves are typically worn to protect the hands from harsh weather conditions, such as cold, wet, or windy environments, as well as to provide a barrier against potential hazards, such as sharp objects or chemicals. In the context of the image, it is likely that the woman is wearing gloves while riding a motorcycle to protect her hands from the elements and potential hazards on the road.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.5086112331230911,
+    "reason_vf_correct": "<br> - The woman in the picture is wearing gloves on her hands.",
+    "reason_vf_incorrect": "<br> - The woman is riding a motorcycle in the image.",
+    "reason_contr": "prevention"
+  },
+  {
+    "question_id": "472",
+    "question": "The costumed character is likely seated in what locale? Choices: theme park, carnival, sidewalk, campus",
+    "predicted_answer": "sidewalk",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The costumed character is likely seated on a sidewalk, as it is a common place for people to sit and relax. In the image, the character is sitting on a wooden bench, which is a typical outdoor seating option found on sidewalks. Additionally, the presence of a car in the background further supports the idea that this scene takes place on a sidewalk. Theme parks, carnivals, and campuses typically do not have wooden benches on sidewalks.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9995007806986992,
+    "reason_vf_correct": "<br> - The costumed character is sitting on a wooden bench.<br> - There is a car visible in the background of the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "242",
+    "question": "This railcar is travelling at what position relative to the street-level? Choices: at streer-level, elevated, underground, under water",
+    "predicted_answer": "elevated",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The railcar is traveling at an elevated position relative to the street-level. This can be inferred from the presence of a train track and the fact that the train is described as an \"elevated train.\" Elevated trains are typically built above ground level, allowing them to pass over streets and other obstacles without interfering with other forms of transportation.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9999758223691768,
+    "reason_vf_correct": "<br> - The railcar is traveling on a track that is above ground level.<br> - There is a train track visible in the image.",
+    "reason_vf_incorrect": "<br> - The train is described as an \"elevated train.\"",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "13",
+    "question": "What item on the desk could help with a cold? Choices: cough drops, syringe, pills, herbal tea",
+    "predicted_answer": "cough drops",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The item on the desk that could help with a cold is cough drops. Cough drops are medicated lozenges that can help soothe a sore throat, reduce coughing, and provide temporary relief from cold and flu symptoms. The other items on the desk, such as pills, herbal tea, and syringe, are not directly related to treating a cold.",
+    "visual_fidelity": 0.25,
+    "contrastiveness": 0.9999991973741472,
+    "reason_vf_correct": "<br> - There are cough drops visible on the desk.",
+    "reason_vf_incorrect": "<br> - There are pills visible on the desk.<br> - Herbal tea is visible on the desk.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "97",
+    "question": "Where are these cats located? Choices: alley, home, vet, office",
+    "predicted_answer": "home",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The cats are located in a home setting, as evidenced by the presence of a television, a dining table, and a couch in the image. These objects are typically found in a residential environment, whereas an alley, vet, or office would not have such furnishings. Additionally, the cats appear to be relaxed and comfortable in their surroundings, which further supports the notion that they are in a home setting.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9999877061490297,
+    "reason_vf_correct": "<br> - There is a television visible in the image.<br> - The cats appear relaxed and comfortable in their surroundings.",
+    "reason_vf_incorrect": "<br> - There is a dining table visible in the image.<br> - There is a couch visible in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "8",
+    "question": "What is the person on the left doing with their body? Choices: crouching, leaping, flying, twirling",
+    "predicted_answer": "leaping",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The person on the left is leaping into the air while riding a wave on a surfboard. This action demonstrates their skill and control over the surfboard, as they are able to launch themselves into the air and maintain balance during the jump. Leaping is a common maneuver in surfing, as it allows the surfer to perform aerial tricks or simply enjoy the thrill of being airborne above the water.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.5951205403574417,
+    "reason_vf_correct": "<br> - The person on the left is riding a wave on a surfboard.",
+    "reason_vf_incorrect": "<br> - The person on the left is leaping into the air.",
+    "reason_contr": "flying"
+  },
+  {
+    "question_id": "275",
+    "question": "The yellow truck on the sidewalk is concerned with what activity? Choices: packages, roads, food, fire",
+    "predicted_answer": "food",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The yellow truck on the sidewalk is concerned with food, as it is a food truck. Food trucks are mobile businesses that serve food and beverages to customers. They are typically parked on the side of the road or in designated food truck parking spots. In this case, the truck is parked on the sidewalk, which is a common location for food trucks to park and serve their customers.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9775174448864374,
+    "reason_vf_correct": "<br> - The truck on the sidewalk is yellow.<br> - The yellow truck is a food truck.",
+    "reason_vf_incorrect": "<br> - The yellow truck is parked on the sidewalk.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "2",
+    "question": "What best describes the pool of water? Choices: frozen, fresh, dirty, boiling",
+    "predicted_answer": "fresh",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The pool of water is described as fresh, which means it is clean and unpolluted. It is not frozen or boiling, and it is not described as dirty. This suggests that the water in the pool is of good quality and suitable for the giraffes to drink from. The fact that the giraffes are drinking from the pool indicates that the water is fresh and safe for them to consume.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.999993286855841,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The giraffes are drinking from the pool of water.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "354",
+    "question": "What color is the object that the animals have their heads buried in? Choices: purple, yellow, red, green",
+    "predicted_answer": "green",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The color of the object that the animals have their heads buried in is green. The reasoning behind this answer is that the animals are grazing on the grass, which is green in color. The grass provides a natural source of food for the animals, and their heads are buried in it as they eat. The green color of the grass indicates that it is a healthy and nutritious food source for the animals.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.99493444499254,
+    "reason_vf_correct": "<br> - The animals' heads are buried in grass.<br> - The grass is green in color.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

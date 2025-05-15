@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "166",
+    "question": "What type of area is shown? Choices: rural, medical, commercial, residential",
+    "predicted_answer": "commercial",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The area shown in the image is a commercial area, as evidenced by the presence of a large white bus, which is typically used for public transportation or long-distance travel. Additionally, there is a silver car parked next to the bus, indicating that the area is likely a place where people commute or travel for work or leisure purposes. The presence of a building in the background further supports the notion that this is a commercial area. Rural, medical, and residential areas typically do not have buses and cars parked in such a manner.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9993373753119352,
+    "reason_vf_correct": "<br> - There is a large white bus in the image.<br> - There is a silver car parked next to the bus.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "238",
+    "question": "How many different devices can show a picture? Choices: three, one, four, two",
+    "predicted_answer": "two",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The correct answer is two. In the image, there are two computer monitors side by side on a desk. Each monitor can display a picture, making a total of two devices capable of showing a picture. The other choices, such as three, four, or one, are incorrect because only two monitors are present in the image.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.6643576574830794,
+    "reason_vf_correct": "<br> - There are two computer monitors on the desk.<br> - The two monitors are side by side.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "124",
+    "question": "What is in the bottles? Choices: beer, liquer, water, juice",
+    "predicted_answer": "beer",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that there are two bottles on the table, and one of them is a beer bottle. The presence of a beer bottle suggests that the other bottle might contain a different type of drink, such as water, juice, or liquer. However, without more information, it is not possible to determine the exact contents of the bottles with certainty.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0164774433632257,
+    "reason_vf_correct": "<br> - There is a beer bottle on the table.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "liquer, water, juice"
+  },
+  {
+    "question_id": "323",
+    "question": "The piece of clothing the woman in the picture is wearing on her hands normally serves what purpose? Choices: fashion, prevention, cure, protection",
+    "predicted_answer": "protection",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The woman in the picture is wearing gloves on her hands, which serves the purpose of protection. Gloves are typically worn to protect the hands from harsh weather conditions, such as cold, wet, or windy environments, as well as to provide a barrier against potential hazards, such as sharp objects or chemicals. In the context of the image, it is likely that the woman is wearing gloves while riding a motorcycle to protect her hands from the elements and potential hazards on the road.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.5086112331230911,
+    "reason_vf_correct": "<br> - The woman in the picture is wearing gloves on her hands.",
+    "reason_vf_incorrect": "<br> - The woman is riding a motorcycle in the image.",
+    "reason_contr": "prevention"
+  },
+  {
+    "question_id": "266",
+    "question": "Which height he jumps? Choices: 11 inch, 16 inch, 17inch, 10 inch",
+    "predicted_answer": "17 inch",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The skateboarder in the image is jumping 17 inches in the air. The reasoning behind this answer is based on the fact that the skateboarder's feet are off the ground during the jump, and the height of the jump can be determined by measuring the distance between the ground and the skateboarder's feet at the peak of the jump. In this case, the skateboarder's feet are 17 inches above the ground, indicating a 17-inch jump.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.4998844046836463,
+    "reason_vf_correct": "<br> - The skateboarder's feet are off the ground during the jump.",
+    "reason_vf_incorrect": "<br> - The distance between the ground and the skateboarder's feet at the peak of the jump is 17 inches.",
+    "reason_contr": "17inch"
+  },
+  {
+    "question_id": "131",
+    "question": "What level of a house is this room located in? Choices: basement, ground, second, third",
+    "predicted_answer": "ground",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the room is described as a living room, which is typically located on the ground floor of a house. The presence of furniture such as couches, chairs, and a coffee table, as well as the fireplace, further supports the idea that this room is situated on the ground level of the house. Basements, second, and third floors typically do not have living rooms or fireplaces, making the ground floor the most likely location for this room.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0949086652240401,
+    "reason_vf_correct": "<br> - The room is described as a living room.<br> - There is furniture such as couches, chairs, and a coffee table in the room.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "109",
+    "question": "What type of bus is in traffic? Choices: public, school, work, tour",
+    "predicted_answer": "school",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The bus in traffic is a school bus. The reasoning behind this answer is that school buses are specifically designed for transporting students to and from school, and they often have a distinctive yellow color to make them easily recognizable. In the image, the bus is driving down a street with other cars, which indicates that it is likely transporting students to or from school. The presence of other cars on the street further supports the idea that the bus is a school bus, as it is not uncommon for school buses to share the road with other vehicles.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9062517565461048,
+    "reason_vf_correct": "<br> - The bus in the image is yellow in color.<br> - The bus is driving down a street with other cars.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "211",
+    "question": "What is hanging on the right wall next the desk? Choices: towels, diplomas, pictures, coats",
+    "predicted_answer": "coats",
+    "prediction_is_correct": 1,
+    "generated_rationale": "Coats are hanging on the right wall next to the desk.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4322586975576243,
+    "reason_vf_correct": "<br> - There are coats hanging on the right wall next to the desk.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "diplomas, pictures"
+  },
+  {
+    "question_id": "146",
+    "question": "What city is mentioned on the front of the bus? Choices: new york, los angeles, chicago, seattle",
+    "predicted_answer": "seattle",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The city mentioned on the front of the bus is Seattle. The reasoning behind this answer is that the bus is traveling down a street in the city of Seattle, as evidenced by the presence of buildings, traffic lights, and other urban elements in the image. The fact that the bus is specifically labeled \"Seattle\" further supports the conclusion that the bus is operating within the city of Seattle.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2768452156944548,
+    "reason_vf_correct": "<br> - The word \"Seattle\" is visible on the front of the bus.<br> - There are buildings visible in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "new york, los angeles, chicago"
+  },
+  {
+    "question_id": "454",
+    "question": "Why would someone sit here? Choices: paint, work, drive, eat",
+    "predicted_answer": "eat",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The most likely reason for someone to sit here is to eat. In the image, there is a plate with a sandwich, a bowl of soup, and a glass of water on the dining table. The presence of these items suggests that the person is having a meal, which is the primary purpose of sitting at a dining table. Paint, work, and drive are not typical activities that would take place at a dining table, whereas eating is a common activity that people engage in while sitting at a table.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.9998465512834972,
+    "reason_vf_correct": "<br> - There is a plate with a sandwich on the dining table.<br> - There is a glass of water on the dining table.",
+    "reason_vf_incorrect": "<br> - There is a bowl of soup on the dining table.",
+    "reason_contr": ""
+  }
+]

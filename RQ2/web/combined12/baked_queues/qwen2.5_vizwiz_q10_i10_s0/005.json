@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "11",
+    "question": "What does the screen say?",
+    "predicted_answer": "windows 7 home premium",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a computer screen displaying the Windows 7 Home Premium setup or installation process. The text on the screen reads \"Windows 7 Home Premium\" and includes a prompt asking to enter a name for your computer. This is part of the Windows 7 setup process, where users are prompted to provide a name for their computer before proceeding with the installation. The screen also includes copyright information at the bottom, indicating that this is a Microsoft product from 2013.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.999572093,
+    "reason_vf_correct": "<br> - The screen displays the text \"Windows 7 Home Premium.\"<br> - There is a prompt on the screen asking to enter a name for your computer.",
+    "reason_vf_incorrect": "<br> - The copyright information on the screen indicates that this is a Microsoft product from 2013.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "283",
+    "question": "what's in the picture?",
+    "predicted_answer": "chair",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up view of the underside and part of the backrest of a chair. The chair appears to have a wooden frame with curved legs and a dark cushioned seat. There is also part of another chair visible in the background, along with what seems to be a patterned rug on the floor. The perspective of the photo is from below, looking up at the chair and its surroundings.",
+    "visual_fidelity": 0.833333333,
+    "contrastiveness": 0.169812137,
+    "reason_vf_correct": "<br> - There is a close-up view of the underside and part of the backrest of a chair in the image.<br> - The chair has a wooden frame with curved legs.",
+    "reason_vf_incorrect": "<br> - The perspective of the photo is from below, looking up at the chair and its surroundings.",
+    "reason_contr": "rug"
+  },
+  {
+    "question_id": "260",
+    "question": "Do you see the river from there, from this perspective?",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a grassy area next to what appears to be a river or canal. The perspective is slightly tilted, which might make it seem unusual at first glance, but the river or canal can still be identified. The water is visible in a narrow strip running through the center of the image, bordered by grass and trees. The tilt does not obscure the view of the river; it simply gives a unique angle to the scene.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.995690725,
+    "reason_vf_correct": "<br> - There is a grassy area next to the river or canal in the image.<br> - The water is visible in a narrow strip running through the center of the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "35",
+    "question": "Could you tell me if I need to hit enter or can you actually tell if I need to do something else?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a screen from the Windows Setup process, specifically for installing Microsoft Windows Vista Home Basic Service Pack 1 and Windows Vista Home Premium Service Pack 1. The screen displays the Microsoft Software License Terms, which are required to proceed with the installation.\n\nTo continue with the setup and install Windows Vista, you need to accept the license terms. The checkbox labeled \"I accept the license terms\" is present, and you need to click it to acknowledge that you agree with the terms. There's no indication of needing to hit \"Enter\" or any other specific action beyond clicking the checkbox.\n\nIf you do not accept the license terms, the installation process will not proceed. Therefore, your next step should be to click the checkbox and then continue with the installation process as prompted.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.378792824,
+    "reason_vf_correct": "<br> - The screen in the image is from the Windows Setup process.<br> - The screen displays the Microsoft Software License Terms.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "no action"
+  },
+  {
+    "question_id": "198",
+    "question": "What is this?",
+    "predicted_answer": "fettuccini alfredo",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a box of Stouffer's Signature Classics Fettuccini Alfredo. This is a packaged frozen meal that contains fettuccine pasta coated in an alfredo sauce. The packaging indicates it is a no preservatives product, suggesting that the meal contains fresh ingredients without artificial additives. The image of the pasta on the packaging provides a visual representation of what to expect inside the box, which is likely a creamy pasta dish with alfredo sauce.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.828645902,
+    "reason_vf_correct": "<br> - The image is showing a box of Stouffer's Signature Classics Fettuccini Alfredo.<br> - The packaging indicates that the product has no preservatives.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "12",
+    "question": "Can you see the steak on this menu?",
+    "predicted_answer": "no",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up of a printed menu, but the text is not entirely clear due to the angle and lighting. The visible part of the menu lists various barbecue dishes, including \"Beefy Barbecue Ribs,\" \"Big Bill's Baby Back Ribs,\" and \"Cowboy Combo Blow Out.\" There is no visible steak on the menu in this image. The text appears to be about barbecue favorites, and while it mentions \"Steak,\" there is no specific mention of a steak dish on the visible portion.",
+    "visual_fidelity": 0.666666667,
+    "contrastiveness": 0.446282341,
+    "reason_vf_correct": "<br> - The menu in the image is a printed menu.<br> - The text on the menu is unclear due to the angle and lighting.",
+    "reason_vf_incorrect": "<br> - The visible part of the menu does list \"Big Bill's Baby Back Ribs.\"<br> - There is no specific mention of a steak dish on the visible portion of the menu.",
+    "reason_contr": "not sure, unanswerable"
+  },
+  {
+    "question_id": "75",
+    "question": "what is this?",
+    "predicted_answer": "computer screen",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a computer monitor displaying the Windows desktop environment, which is characteristic of older versions of Microsoft's operating system. The screen displays a standard Windows desktop with icons on the left side, a taskbar at the bottom, and an open window in the center. The wallpaper on the desktop features a close-up image of a person's face, and there is a green light visible on the bottom right corner, which could indicate that the computer's power button or activity indicator is illuminated. The overall appearance suggests this might be an older laptop or desktop computer, possibly from the early 2010s.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999997348,
+    "reason_vf_correct": "<br> - The screen is displaying the Windows desktop environment.<br> - There are icons on the left side of the screen.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "259",
+    "question": "Is there a chest piece in this picture? If so, where?",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image appears to show a wooden box with compartments, each containing small numbered items. The top compartment seems to have a larger item that could be described as a \"chest piece,\" but the image is blurry, making it difficult to discern details. The numbered items in each compartment might be small tokens or markers of some kind, and the larger item could indeed be a chest piece if it is meant to represent one. However, without clearer details or context, this identification remains speculative.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.495908578,
+    "reason_vf_correct": "<br> - There is a wooden box with compartments in the image.<br> - There are small numbered items in each compartment of the box.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "not sure"
+  },
+  {
+    "question_id": "401",
+    "question": "What is this?",
+    "predicted_answer": "unanswerable",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "It appears that the image provided does not clearly depict a specific object or item. The focus seems to be on an electronic device, possibly a remote control or a part of a larger appliance, with some buttons and a display screen. However, the image is quite blurry and lacks clear details to identify it precisely.\n\nIf you have a clearer or more detailed image, I would be happy to help with an accurate identification and explanation.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.99940929,
+    "reason_vf_correct": "<br> - The image is focused on an electronic device.<br> - The electronic device in the image has buttons.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "482",
+    "question": "What color is this?",
+    "predicted_answer": "pink",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a close-up of what appears to be a textured fabric, likely a towel or a piece of clothing. The color is indeed pink, as you have correctly identified. The texture suggests it could be a soft material like cotton or microfiber, commonly used for towels and bathrobes. The lighting in the image gives it a slightly darker shade of pink, but the overall color is consistent with what you described.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.326314849,
+    "reason_vf_correct": "<br> - The fabric in the image is pink.<br> - The image shows a close-up of a textured fabric.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "blue, green"
+  }
+]

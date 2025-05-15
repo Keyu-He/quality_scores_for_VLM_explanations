@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "475",
+    "question": "What is the round glass object? Choices: window, microscope, camera lens, magnifying glass",
+    "predicted_answer": "camera lens",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The round glass object in the image is a camera lens. This is evident from the close-up view of the horse and the wooden fence. A camera lens is used to capture high-resolution images, and in this case, it is being used to take a picture of the horse and the fence. The close-up view of the horse and the wooden fence suggests that the camera lens is being used to capture a detailed image of the scene.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9890078870907092,
+    "reason_vf_correct": "<br> - There is a round glass object in the image.<br> - The round glass object is identified as a camera lens.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "341",
+    "question": "What time of day is it likely right now? Choices: evening, morning, afternoon, night",
+    "predicted_answer": "evening",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind the answer \"Evening\" is based on the presence of a dining table with a bowl of oranges and a banana on it. These fruits are typically consumed during breakfast, lunch, or dinner, but not in the middle of the night. Therefore, it is more likely that the image was taken during the evening, when people are more likely to have a meal or snack at the dining table.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3453128219093412,
+    "reason_vf_correct": "<br> - There is a dining table in the image.<br> - There is a bowl of oranges on the dining table.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "morning, afternoon"
+  },
+  {
+    "question_id": "353",
+    "question": "What is this type of photography called? Choices: visual style, light emission, time lapse, infrared",
+    "predicted_answer": "time lapse",
+    "prediction_is_correct": 1,
+    "generated_rationale": "This type of photography is called time lapse. Time lapse photography involves taking multiple photographs of the same scene over a period of time and then combining them into a single image. In this case, the photographer has captured a series of images of a city street at different times of the day, resulting in a single image that shows the progression of the scene throughout the day. This technique allows the viewer to see the changes in lighting, traffic, and other elements of the scene over time, creating a dynamic and visually engaging image.",
+    "visual_fidelity": 0.8,
+    "contrastiveness": 0.9267342871655428,
+    "reason_vf_correct": "<br> - The image shows a city street.<br> - The image shows changes in lighting over time.",
+    "reason_vf_incorrect": "<br> - There are multiple photographs combined into a single image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "431",
+    "question": "What color is in the center of the red flower? Choices: brown, black, yellow, white",
+    "predicted_answer": "brown",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The center of the red flower on the cake is brown. The reasoning behind this answer is that the cake is decorated with a red heart-shaped flower, and the center of the flower is brown. This indicates that the cake is likely a celebration cake, such as a birthday or anniversary cake, and the red heart-shaped flower serves as a decorative element to make the cake more visually appealing and festive. The brown center of the flower adds a contrasting color to the red petals, enhancing the overall aesthetic of the cake.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0686934574255179,
+    "reason_vf_correct": "<br> - The flower on the cake is red and heart-shaped.<br> - The center of the red flower on the cake is brown.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "black, yellow, white"
+  },
+  {
+    "question_id": "406",
+    "question": "What is the woman's job called? Choices: jumper, jockey, rider, equestrianism",
+    "predicted_answer": "jockey",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The woman's job is called jockey. In the image, the woman is riding a horse and jumping over an obstacle, which is a common activity in equestrian sports such as show jumping or eventing. Jockeys are skilled riders who specialize in horse racing, show jumping, dressage, and other equestrian disciplines. They are responsible for guiding the horse, maintaining balance, and ensuring the horse's safety and performance during competitions or training sessions.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.500386114072027,
+    "reason_vf_correct": "<br> - The woman is riding a horse in the image.<br> - The woman is jumping over an obstacle with the horse in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "rider"
+  },
+  {
+    "question_id": "473",
+    "question": "What is the last letter on the license plate? Choices: l, z, j, c",
+    "predicted_answer": "j",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The last letter on the license plate is \"J.\" The reasoning behind this answer is that the license plate starts with the letter \"J\" and ends with the letter \"J.\"",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.0362434947900319,
+    "reason_vf_correct": "<br> - The license plate ends with the letter \"J\".",
+    "reason_vf_incorrect": "<br> - The license plate starts with the letter \"J.\"",
+    "reason_contr": "l, z, c"
+  },
+  {
+    "question_id": "251",
+    "question": "What is the name of the sport the man is participating in? Choices: waterboarding, sailboating, waterskiing, skateboarding",
+    "predicted_answer": "waterskiing",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The sport the man is participating in is waterskiing. This is evident from the fact that he is riding on water skis while being pulled by a boat. Waterskiing is a popular water sport that involves a person being towed behind a boat while standing on one or two skis. The skier holds onto a handle attached to a rope, which is connected to the boat. The sport requires balance, strength, and coordination to maintain control while being towed at high speeds.",
+    "visual_fidelity": 0.3333333333333333,
+    "contrastiveness": 0.999976218769355,
+    "reason_vf_correct": "<br> - The man is holding onto a handle attached to a rope.",
+    "reason_vf_incorrect": "<br> - The man is riding on water skis.<br> - The man is being pulled by a boat.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "121",
+    "question": "What type of container is the straw sticking out of? Choices: pint glass, martini glass, mason jar, vase",
+    "predicted_answer": "mason jar",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the straw is sticking out of a mason jar, not a pint glass, martini glass, or vase. A mason jar is a type of glass container with a metal lid and a rubber seal, which is commonly used for storing and serving beverages. The presence of the straw in the mason jar suggests that it is being used as a container for a beverage, such as a smoothie or a cocktail. The other options, pint glass, martini glass, and vase, are not typically used for serving beverages with a straw.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.8034967926509274,
+    "reason_vf_correct": "<br> - The straw is sticking out of a mason jar.",
+    "reason_vf_incorrect": "<br> - The container has a metal lid and a rubber seal.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "4",
+    "question": "What type of device is sitting next to the laptop? Choices: mouse, mobile phone, pen, keyboard",
+    "predicted_answer": "mobile phone",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The device sitting next to the laptop is a mobile phone. The reasoning behind this answer is that mobile phones are commonly used in conjunction with laptops for various purposes, such as making calls, sending text messages, and accessing the internet. In the image, the mobile phone is placed next to the laptop, which suggests that it might be used for one or more of these purposes. On the other hand, a mouse, pen, or keyboard would not typically be placed next to a laptop in this manner.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.99997988292017,
+    "reason_vf_correct": "<br> - There is a mobile phone placed next to the laptop in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "423",
+    "question": "This fork has how many prongs? Choices: six, seven, five, three",
+    "predicted_answer": "five",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The fork in the image has five prongs.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.2599114322077168,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The fork in the image has five prongs.",
+    "reason_contr": "six, seven, three"
+  }
+]

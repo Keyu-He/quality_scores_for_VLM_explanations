@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "221",
+    "question": "What are the people tying? Choices: score, shoes, kite, bowtie",
+    "predicted_answer": "kite",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The people in the image are tying a kite, as indicated by the presence of a kite in the scene. The woman is holding the kite, and the man is kneeling on the ground, tying the string to the kite. This suggests that they are preparing to fly the kite, which is a common outdoor activity involving tying the kite to a string and releasing it into the air to catch the wind and stay aloft.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9724650328053392,
+    "reason_vf_correct": "<br> - There is a kite present in the scene.<br> - The woman is holding the kite.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "7",
+    "question": "What is the descriptive word for this surface? Choices: barren, crowded, minimalist, empty",
+    "predicted_answer": "empty",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The surface in the image is described as empty. This implies that there are no other objects or items on the surface, making it a minimalist and uncluttered space. The presence of a black cat sitting in front of a computer screen further emphasizes the emptiness of the surface, as the cat is the only object occupying the space.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.3928031217373635,
+    "reason_vf_correct": "<br> - There is a black cat sitting in front of a computer screen on the surface.",
+    "reason_vf_incorrect": "<br> - The surface in the image is free of any objects or items other than the black cat.",
+    "reason_contr": "barren, minimalist"
+  },
+  {
+    "question_id": "282",
+    "question": "What is the closest item providing light? Choices: lamp, flashlight, candle, lantern",
+    "predicted_answer": "candle",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The closest item providing light in the image is a lit candle. The candle is placed on the dining table, surrounded by wine glasses, cups, and other tableware. The candle's light illuminates the table setting, creating a warm and inviting atmosphere for the dinner guests. The other options, such as a lamp, flashlight, or lantern, are not present in the scene, making the candle the most appropriate source of light in this context.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.7636210760143728,
+    "reason_vf_correct": "<br> - There is a lit candle on the dining table.<br> - The candle is surrounded by wine glasses, cups, and other tableware.",
+    "reason_vf_incorrect": "<br> - There are no lamps, flashlights, or lanterns present in the scene.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "5",
+    "question": "The thing on the animal to the left's head is similar to what is on the head of what else? Choices: devil, zombie, vampire, witch",
+    "predicted_answer": "witch",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The horns on the animal to the left's head are similar to the horns on the head of the witch in the image. Both the horns on the animal and the horns on the witch are large and pointy, giving them a similar appearance.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.2920863036861919,
+    "reason_vf_correct": "<br> - The animal to the left has horns on its head.<br> - The horns on the animal to the left's head are large and pointy.",
+    "reason_vf_incorrect": "<br> - The horns on the witch's head are large and pointy.",
+    "reason_contr": "devil, zombie, vampire"
+  },
+  {
+    "question_id": "257",
+    "question": "What is the person on this vase doing? Choices: fighting, chariot racing, horse training, horse theft",
+    "predicted_answer": "chariot racing",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The person on the vase is depicted as a chariot racer. This is evident from the fact that they are riding a horse-drawn chariot and holding a whip, which is a common tool used by chariot racers to control their horses during the race. Chariot racing was a popular sport in ancient civilizations such as the Greeks and Romans, where riders would compete against each other in horse-drawn chariots, showcasing their skills in maneuvering the chariot and controlling the horses. Therefore, the answer to the question is that the person on the vase is participating in chariot racing.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9887476486300124,
+    "reason_vf_correct": "<br> - The person on the vase is riding a horse-drawn chariot.<br> - The person on the vase is holding a whip.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "87",
+    "question": "What can be seen through the buildings? Choices: clouds, birds, more buildings, sunlight",
+    "predicted_answer": "sunlight",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The sunlight can be seen shining through the buildings, creating a visually appealing scene. This indicates that the sun is low in the sky, possibly during sunrise or sunset. The sunlight filtering through the buildings adds a sense of depth and warmth to the image, making it an aesthetically pleasing sight.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9460894213741522,
+    "reason_vf_correct": "<br> - Sunlight is visible shining through the buildings.<br> - The sunlight creates a visually appealing scene.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "345",
+    "question": "What color can be seen in the middle of the upper floor? Choices: green, black, teal, yellow",
+    "predicted_answer": "green",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The color green can be seen in the middle of the upper floor because it is the color of the palm trees in the image. The presence of palm trees suggests that the image was taken in a location where palm trees are commonly found, such as a tropical or subtropical region. The green color of the palm trees stands out against the other colors in the image, making it the most noticeable color in the middle of the upper floor.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.8231157353657614,
+    "reason_vf_correct": "<br> - The color green is visible in the middle of the upper floor.<br> - The palm trees have a green color.",
+    "reason_vf_incorrect": "<br> - There are palm trees in the middle of the upper floor.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "42",
+    "question": "What is likely in front of the rug? Choices: refrigerator, pantry, washing machine, sink",
+    "predicted_answer": "refrigerator",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The most likely appliance in front of the rug is the refrigerator. This is because the refrigerator is a large appliance that is commonly found in kitchens, and it is typically placed in a location where it can be easily accessed while cooking or preparing meals. The other options, such as the pantry, washing machine, and sink, are smaller appliances that are not as likely to be placed in front of a rug.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999509574380928,
+    "reason_vf_correct": "<br> - There is a large appliance in front of the rug.<br> - The appliance in front of the rug is commonly found in kitchens.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "16",
+    "question": "What period of the day does this photo reflect? Choices: noon, morning, dawn, afternoon",
+    "predicted_answer": "noon",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The photo reflects the period of the day when the sun is at its highest point in the sky, which is noon. This can be inferred from the presence of a clock on the side of the building, indicating the time of day. Additionally, the lighting and shadows in the image suggest that the sun is at its peak, further supporting the conclusion that the photo was taken during noon.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.5746438018654147,
+    "reason_vf_correct": "<br> - There is a clock on the side of the building indicating the time of day.",
+    "reason_vf_incorrect": "<br> - The lighting and shadows in the image suggest that the sun is at its peak.",
+    "reason_contr": "afternoon"
+  },
+  {
+    "question_id": "377",
+    "question": "Which skier is going fastest? Choices: sitting, right, left, middle",
+    "predicted_answer": "middle",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The skier going fastest is the one in the middle of the image. They are skiing down the slope at a faster pace compared to the other skiers. This could be due to their skill level, experience, or simply because they are enjoying the thrill of skiing at a faster speed. It is important to note that skiing at a faster pace can increase the risk of accidents and injuries, so it is crucial for skiers to maintain control and be aware of their surroundings while skiing at high speeds.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.5906471307120554,
+    "reason_vf_correct": "<br> - The skier in the middle of the image is skiing down the slope.<br> - There are multiple skiers in the image.",
+    "reason_vf_incorrect": "<br> - The skier in the middle of the image is moving at a faster pace compared to the other skiers.",
+    "reason_contr": ""
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "72",
+    "question": "The name of the street is the same as the last name of what actress? Choices: eva mendes, jessica biel, eva green, jessica alba",
+    "predicted_answer": "eva green",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The name of the street is the same as the last name of Eva Green, an actress known for her roles in films such as \"Casino Royale\" and \"300.\" It is likely that the street was named after her to honor her achievements and contributions to the entertainment industry.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4263958588360638,
+    "reason_vf_correct": "<br> - The name of the street is visible in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "eva mendes"
+  },
+  {
+    "question_id": "407",
+    "question": "What type of cusuine is presented? Choices: southern, jamaican, gourmet, asian",
+    "predicted_answer": "asian",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The cuisine presented in the image is Asian, as evidenced by the bowl of noodles, vegetables, and other ingredients, which are commonly found in Asian dishes. The combination of ingredients, such as noodles, vegetables, and sauces, is indicative of Asian culinary traditions. Additionally, the presence of a person sitting at a dining table with a bowl of food further supports the notion that the dish is of Asian origin.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.995841484631778,
+    "reason_vf_correct": "<br> - There is a bowl of noodles in the image.<br> - There are vegetables present in the dish shown in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "207",
+    "question": "What animal is next to the baby animal? Choices: rooster, chicken, cow, hen",
+    "predicted_answer": "cow",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The animal next to the baby animal is a cow, not a rooster, chicken, or hen. In the image, the baby animal is a calf, and it is standing next to an adult cow in a grassy field. The presence of the adult cow suggests that it is the mother of the calf, and they are spending time together in the pasture.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999969266000052,
+    "reason_vf_correct": "<br> - The baby animal is a calf.<br> - The calf is standing next to an adult cow.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "20",
+    "question": "Why is the person wearing a white jacket? Choices: nurse, doctor, cold, chef",
+    "predicted_answer": "chef",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The person is wearing a white jacket because they are a chef. Chefs often wear white jackets as part of their uniform, which helps to maintain cleanliness and professionalism in the kitchen. In the image, the chef is standing in front of a buffet table, which is filled with various food items such as donuts, cakes, and drinks. This suggests that the chef is responsible for preparing and serving the food at the buffet, and their attire reflects their role in the culinary profession.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999933629061807,
+    "reason_vf_correct": "<br> - The person is wearing a white jacket.<br> - The person is standing in front of a buffet table.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "8",
+    "question": "What is the person on the left doing with their body? Choices: crouching, leaping, flying, twirling",
+    "predicted_answer": "leaping",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The person on the left is leaping into the air while riding a wave on a surfboard. This action demonstrates their skill and control over the surfboard, as they are able to launch themselves into the air and maintain balance during the jump. Leaping is a common maneuver in surfing, as it allows the surfer to perform aerial tricks or simply enjoy the thrill of being airborne above the water.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.5951205403574417,
+    "reason_vf_correct": "<br> - The person on the left is riding a wave on a surfboard.",
+    "reason_vf_incorrect": "<br> - The person on the left is leaping into the air.",
+    "reason_contr": "flying"
+  },
+  {
+    "question_id": "201",
+    "question": "What property does the blue and green fence have? Choices: soft, hard, wet, hot",
+    "predicted_answer": "hard",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The property of the blue and green fence is hard. This is because fences are typically made of hard materials such as wood, metal, or plastic. These materials are sturdy and durable, providing support and stability to the fence. In the image, the fence appears to be well-maintained and in good condition, further supporting the notion that it is made of a hard material.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9992547192353016,
+    "reason_vf_correct": "<br> - The fence in the image is blue and green.<br> - The fence appears to be well-maintained in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "284",
+    "question": "How would you cut the vegetables? Choices: fork, knife, hands, peeler",
+    "predicted_answer": "knife",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The most appropriate way to cut the vegetables on the plate would be using a knife. A knife is a versatile and efficient tool for slicing, dicing, and chopping various types of vegetables, such as carrots and green beans. It allows for precise control over the size and shape of the cuts, making it easier to prepare the vegetables for cooking or serving. Additionally, using a knife for cutting vegetables is safer and more hygienic than using hands or a fork, as it minimizes the risk of cross-contamination and potential injuries.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.999585104530592,
+    "reason_vf_correct": "<br> - There are vegetables on the plate in the image.",
+    "reason_vf_incorrect": "<br> - There is a knife visible in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "440",
+    "question": "What color is the background of the large clock? Choices: green, black, white, red",
+    "predicted_answer": "green",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the large clock in the image has a green background. This is evident from the close-up view of the clock, which allows for a clear observation of its details. The green background of the clock contrasts with the rest of the scene, making it stand out prominently in the image. The other choices, such as black, white, and red, do not accurately describe the color of the clock's background in the image.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.0039881290393779,
+    "reason_vf_correct": "<br> - The background of the large clock is green.<br> - The green background of the clock does contrast with the rest of the scene.",
+    "reason_vf_incorrect": "<br> - The clock is shown in a close-up view in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "129",
+    "question": "What kind of weather was there? Choices: hail, rain, sun, snow",
+    "predicted_answer": "rain",
+    "prediction_is_correct": 1,
+    "generated_rationale": "Based on the image, the weather appears to be rainy, as the airplane is sitting on a wet runway. The presence of water on the runway suggests that it has either recently rained or is currently raining. This is in contrast to sunny or snowy weather, which would typically result in a drier runway.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999185781583262,
+    "reason_vf_correct": "<br> - The airplane is sitting on a wet runway.<br> - There is water visible on the runway.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "183",
+    "question": "What type of vehicle is this? Choices: construction, cargo, watercraft, passenger",
+    "predicted_answer": "passenger",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The vehicle in the image is a red passenger bus, which is designed to transport a large number of people from one location to another. It is not a construction vehicle, cargo vehicle, watercraft, or any other type of vehicle. Passenger buses are typically used for public transportation, sightseeing tours, or long-distance travel, and they are equipped with multiple rows of seating to accommodate a large number of passengers. In this case, the bus is parked on the side of the road, which suggests that it is either picking up or dropping off passengers, or waiting for its next scheduled trip.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999997320837333,
+    "reason_vf_correct": "<br> - The vehicle in the image is a red passenger bus.<br> - The bus is parked on the side of the road.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

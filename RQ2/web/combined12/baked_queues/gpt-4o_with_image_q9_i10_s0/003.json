@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "249",
+    "question": "Which flavor most closely describes the bright yellow stuff? Choices: bland, meaty, sweet, cheesy",
+    "predicted_answer": "cheesy",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The bright yellow substance shown in the image is typically mustard, a common condiment used on hot dogs. Mustard has a tangy and slightly sharp flavor, which might be perceived as being distinct and noticeable. Among the flavor options given, \"bland,\" \"meaty,\" \"sweet,\" and \"cheesy,\" none perfectly describe mustard. However, it is neither bland, meaty, nor cheesy. Mustard is often associated with a tangy flavor, which may not fit perfectly with any choice. Given that no choice strictly aligns, we might tentatively infer \"cheesy\" due to its occasional use in similar contexts or appearance in specific types.\n\nThus, the answer is \"cheesy.\"",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9003721082162239
+  },
+  {
+    "question_id": "229",
+    "question": "What is needed to control the large object? Choices: computer, battery, string, remote",
+    "predicted_answer": "string",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The large object in the image is a kite. To control a kite, a string is needed, as it allows the person to maneuver and stabilize the kite in the air by pulling or loosening it. Other options like a computer, battery, or remote are not typically used for controlling kites. \n\nThus, the answer is string.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9997968024208645
+  },
+  {
+    "question_id": "410",
+    "question": "What profession might this man work as? Choices: politician, bartender, sherriff, librarian",
+    "predicted_answer": "sheriff",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The man in the image is dressed in attire reminiscent of the Old West, and he is standing beside a horse in a setting that looks like a historical western town. This type of setting and outfit is typically associated with roles like a sheriff in historical or reenactment contexts. The presence of a gun holster and the setting further align with the image of a sheriff.\n\nThus, the answer is sheriff.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4037160854200365
+  },
+  {
+    "question_id": "149",
+    "question": "What does Fidelity specialize in? Choices: travel, insurance, investments, rentals",
+    "predicted_answer": "investments",
+    "prediction_is_correct": 1,
+    "generated_rationale": "Based on the image above, the sign reads \"Fidelity Investments.\" This indicates that Fidelity specializes in investments. There is no indication that Fidelity is related to travel, insurance, or rentals in the context shown.\n\nThus, the answer is investments.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999869867319139
+  },
+  {
+    "question_id": "85",
+    "question": "What is the natural light streaming into the room through? Choices: door, lightbulb, clock, candle",
+    "predicted_answer": "clock'.",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The image shows a room with a large window in the shape of a clock, allowing light to enter. This suggests that the source of the natural light is the clock, functioning as a window. The other choices (door, lightbulb, and candle) are either not shown or not typically associated with natural light streaming in. Thus, the answer is 'clock'.\n",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.499999843445223
+  },
+  {
+    "question_id": "114",
+    "question": "What brand is the red truck? Choices: dodge, chevy, ford, toyota",
+    "predicted_answer": "dodge",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows the front of a red truck with the brand name \"Dodge\" clearly visible on the front grille. This matches with one of the provided choices.\n\nThus, the answer is dodge.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.35326996951897255
+  },
+  {
+    "question_id": "340",
+    "question": "What is the most likely material of the floor? Choices: terra cotta, marble, porcelain, vinyl",
+    "predicted_answer": "terra cotta",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The floor in the image has a matte finish with earthy, natural tones, which are characteristics commonly associated with terra cotta. Terra cotta tiles are often used in rustic or natural settings, like the wooden interior in the picture. Marble usually has a more polished, reflective surface, which is not seen here. Porcelain can mimic many materials, but it's typically more uniform and less rustic-looking than terra cotta. Vinyl is diverse in appearance but often looks synthetic, which doesn't match the natural feel of the floor in the image.\n\nThus, the answer is terra cotta.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999201160021403
+  },
+  {
+    "question_id": "456",
+    "question": "What can be done with this utensil? Choices: brush, stir, flip, cut",
+    "predicted_answer": "stir",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a pot filled with soup or stew being stirred with a wooden spoon. This type of utensil, a wooden spoon, is typically used for stirring ingredients, especially in a pot, to ensure even cooking and mixing of flavors. \n\nThus, the answer is stir.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9455336693775985
+  },
+  {
+    "question_id": "293",
+    "question": "How many buses are shown in the streets? Choices: two, one, three, four",
+    "predicted_answer": "one",
+    "prediction_is_correct": 0,
+    "generated_rationale": "To determine how many buses are shown in the streets, I closely examined the image for visible buses. Upon inspection, I identified one bus on the street. There are no additional buses visible in the scene. \n\nThus, the answer is 'one'.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9990233609830161
+  },
+  {
+    "question_id": "102",
+    "question": "What is the activity being performed? Choices: show performance, training horse, riding horse, feeding horse",
+    "predicted_answer": "show performance",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The person in the image is standing on a moving horse, which requires skill and balance, indicating a form of performance rather than typical riding or training. The context, such as an audience or a setting that appears staged, could suggest an event. This rules out feeding, as the horse is active and engaged in a more complex task. \n\nThus, the answer is show performance.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.5758294650463843
+  }
+]

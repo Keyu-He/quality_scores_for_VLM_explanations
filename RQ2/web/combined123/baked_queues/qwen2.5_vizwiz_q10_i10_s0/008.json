@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "76",
+    "question": "What is this?",
+    "predicted_answer": "book",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a page from what appears to be an Arabic religious text, likely the Quran. The presence of scriptural verses and the style of writing are characteristic of Islamic holy books. Additionally, there is a pair of glasses resting on the page, which might suggest someone was reading or studying this text. The text is written in Arabic script and includes some underlined words, which could indicate emphasis or annotations.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.999966143,
+    "reason_vf_correct": "<br> - The text in the image is written in Arabic script.<br> - There are scriptural verses visible on the page.",
+    "reason_vf_incorrect": "<br> - There are underlined words in the text.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "374",
+    "question": "What is this item?",
+    "predicted_answer": "sugar",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a box of Domino Confectioners Sugar, which is a type of powdered sugar. The packaging indicates that it is \"10-X Pure Cane Powdered Sugar,\" which means it's a fine, granulated sugar used for baking and confectionery purposes. The text on the box also includes a slogan, \"We'll Always Be Your Sugar,\" which is part of Domino's branding. The image confirms that the item in question is indeed sugar, specifically confectioners' sugar.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.496265037,
+    "reason_vf_correct": "<br> - The item in the image is a box of Domino Confectioners Sugar.<br> - The packaging in the image indicates \"10-X Pure Cane Powdered Sugar.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": "powdered sugar"
+  },
+  {
+    "question_id": "439",
+    "question": "What color is this?",
+    "predicted_answer": "white",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up of fabric, likely part of clothing such as a shirt or pants. The color appears to be white or light gray, with some variations in shading due to lighting and the texture of the fabric. The background suggests an outdoor setting with greenery, but the focus is on the fabric itself.\n\nThe reasoning behind identifying it as white or light gray includes:\n1. The overall tone of the fabric is consistent with these colors.\n2. There are no other colors visible in the image that would suggest a different hue.\n3. The lighting and shadows do not significantly alter the perception of the color, which remains consistent across different areas.\n\nTherefore, based on these observations and reasoning, it is reasonable to conclude that the color of this fabric is white or light gray.",
+    "visual_fidelity": 0.8,
+    "contrastiveness": 0.922558184,
+    "reason_vf_correct": "<br> - The fabric in the image is primarily white or light gray.<br> - There are variations in shading on the fabric due to lighting.",
+    "reason_vf_incorrect": "<br> - There are no other colors visible on the fabric that would suggest a different hue.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "497",
+    "question": "What color is this t-shirt?",
+    "predicted_answer": "black",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a close-up of what appears to be the inside of a garment, possibly a t-shirt. The color is predominantly dark gray or black with visible stitching and some creases, which are typical characteristics of fabric. The answer \"black\" is reasonable based on the color observed in the image, although it could also be a very dark gray.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.996983217,
+    "reason_vf_correct": "<br> - The color of the garment is predominantly dark gray or black.<br> - There are visible stitches on the garment.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "319",
+    "question": "What kind of soup is this?",
+    "predicted_answer": "potato",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a can of Campbell's Soup, specifically the \"Potato\" variety. The label on the can clearly indicates that it is a potato soup, which aligns with your question. The image also includes the text \"MADE WITH LEAN MEAT,\" suggesting that this particular can contains a lean meat option, which is common in some Campbell's soup varieties.",
+    "visual_fidelity": 0.666666667,
+    "contrastiveness": 0.044382981,
+    "reason_vf_correct": "<br> - The can of soup is a Campbell's Soup brand.<br> - The label on the can includes the text \"MADE WITH LEAN MEAT.\"",
+    "reason_vf_incorrect": "<br> - The label on the can indicates that it is a potato soup.",
+    "reason_contr": "chicken noodle, tomato bisque, minestrone"
+  },
+  {
+    "question_id": "206",
+    "question": "What temperature is the thermostat set to?",
+    "predicted_answer": "72",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a Honeywell thermostat mounted on a wall. The digital display in the center of the thermostat indicates the current temperature as 72 degrees Fahrenheit, which is set to \"ROOM.\" This means that the thermostat is currently displaying the temperature of the room it's installed in, rather than setting a specific temperature. The thermostat is not actively controlling heating or cooling at this moment; it's simply showing the current room temperature.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.416978769,
+    "reason_vf_correct": "<br> - The thermostat is a Honeywell brand.<br> - The thermostat is mounted on a wall.",
+    "reason_vf_incorrect": "<br> - The temperature on the thermostat is set to \"ROOM.\"",
+    "reason_contr": "70"
+  },
+  {
+    "question_id": "275",
+    "question": "What is on this Captcha please?",
+    "predicted_answer": "d&kk",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image you've provided shows a CAPTCHA challenge, which is used to verify that the user is human and not a bot. The text in the CAPTCHA image reads \"D&KK\". This is the code that needs to be entered into the provided field. The CAPTCHA system ensures that only humans can solve it, as bots typically cannot interpret or type out such random characters.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.200464114,
+    "reason_vf_correct": "<br> - The CAPTCHA image shows the text \"D&KK.\"",
+    "reason_vf_incorrect": "",
+    "reason_contr": "a7jj, b9ll, c3mm"
+  },
+  {
+    "question_id": "348",
+    "question": "What sent?",
+    "predicted_answer": "scentsy",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The image shows a product label for \"Scentsy,\" which is known for its scented wax bars. The text on the label includes phrases like \"Scentsy Bar,\" \"Sage & Sweet Grass,\" and \"Authentic Scentsy Product.\" The label also indicates that the product is made in the USA and provides details about its weight (3.2 fl. oz./74 g). The branding and design are consistent with Scentsy's product packaging, which typically features a star motif and the company name prominently displayed.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999085342,
+    "reason_vf_correct": "<br> - The label on the product includes the phrase \"Scentsy Bar.\"<br> - \"Sage & Sweet Grass\" is mentioned on the product label.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "188",
+    "question": "what does the sky look like?",
+    "predicted_answer": "cloudy",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a view of an outdoor area with a road and some trees. The sky appears overcast, which is consistent with the description of it being cloudy. There are no visible patches of blue sky or clear weather conditions, indicating that the clouds dominate the sky. The lighting in the image is diffused and soft, which is typical of cloudy weather conditions that prevent direct sunlight from reaching the ground.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.499737109,
+    "reason_vf_correct": "<br> - The sky in the image is overcast.<br> - There are no visible patches of blue sky in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "overcast"
+  },
+  {
+    "question_id": "470",
+    "question": "What color is this purse?",
+    "predicted_answer": "blue red yellow",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The image shows a rectangular item with a striped pattern in blue, red, and yellow. The item appears to be a pouch or small bag with these colors prominently featured in its design. Therefore, the answer \"blue red yellow\" is correct as it matches the colors present in the image.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999899303,
+    "reason_vf_correct": "<br> - The item in the image is rectangular in shape.<br> - The item has a striped pattern.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

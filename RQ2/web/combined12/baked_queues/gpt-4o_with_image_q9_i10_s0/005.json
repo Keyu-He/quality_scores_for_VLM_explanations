@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "147",
+    "question": "What expression are these children making? Choices: confused, smiling, crying, angry",
+    "predicted_answer": "smiling",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The children in the image are showing facial expressions that indicate they are enjoying the activity they are engaged in, which is cooking. Their mouths are turned upwards, a common characteristic of a smiling expression, and there are no signs of tears, furrows in the brow, or tense facial muscles, which would indicate anger or confusion. Thus, the context and their facial expressions suggest they are happy.\n\nThus, the answer is smiling.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999985881266176
+  },
+  {
+    "question_id": "178",
+    "question": "What pattern is on the bottom of the skateboard? Choices: zigzag, plaid, stripes, polka dots",
+    "predicted_answer": "zigzag",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The bottom of the skateboard shows a series of diagonal, angular lines that resemble a zigzag pattern. The design consists of alternating colors creating a dynamic and energetic visual. This aligns with the description of a zigzag pattern, which is characterized by V-shaped lines. \n\nThus, the answer is zigzag.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9395186273207712
+  },
+  {
+    "question_id": "323",
+    "question": "The piece of clothing the woman in the picture is wearing on her hands normally serves what purpose? Choices: fashion, prevention, cure, protection",
+    "predicted_answer": "protection",
+    "prediction_is_correct": 0,
+    "generated_rationale": "Rationale: The woman in the picture appears to be wearing gloves on her hands. Gloves typically serve to protect the hands, especially in certain activities like motorcycling, which is depicted here. Gloves can protect against weather conditions, abrasions, and other potential hazards.\n\nThus, the answer is protection.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.555125787588191
+  },
+  {
+    "question_id": "325",
+    "question": "What police force does the police car behind the truck belong to probably? Choices: detroit, new york, baltimore, washington dc",
+    "predicted_answer": ": new york",
+    "prediction_is_correct": 0,
+    "generated_rationale": "Based on the image, the bus in front of the police car bears the logo and markings that are typical of the Metropolitan Transportation Authority (MTA), which operates in New York City. This suggests a New York City location, and thus, it is likely that the police car belongs to the New York police force. The presence of the MTA bus is a strong indicator of the city, as the MTA is specific to New York. \n\nThus, the answer is: new york.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4999658791886434
+  },
+  {
+    "question_id": "316",
+    "question": "The most abundant cake has a topping with which color? Choices: black, magenta, white, blue",
+    "predicted_answer": "blue",
+    "prediction_is_correct": 0,
+    "generated_rationale": "Based on the image, the most abundant cakes are the cupcakes that have a mix of toppings, primarily featuring a combination of blue and magenta colors. The number of these cupcakes is greater compared to the single large cake with white topping. Thus, the most numerous cakes in view have a substantial amount of blue.\n\nThus, the answer is blue.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.0005117654433613802
+  },
+  {
+    "question_id": "52",
+    "question": "Is the man on the left platform going to board the train? Choices: yes, absolutely no, probably yes, probably no",
+    "predicted_answer": "probably yes",
+    "prediction_is_correct": 0,
+    "generated_rationale": "Based on the image, the man on the left platform is standing close to the train, which suggests he may be waiting to board. However, without additional context such as his actions or visible intentions, it is uncertain to conclude definitively whether he will board. His position and orientation might indicate a likelihood of boarding, but it cannot be concluded with certainty.\n\nThus, the answer is 'probably yes.'",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.793805094422179
+  },
+  {
+    "question_id": "474",
+    "question": "What number is on the player that's fully visible? Choices: 11, five, 21, 22",
+    "predicted_answer": "21",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The player that is fully visible is sitting down facing away from the camera, allowing us to clearly see their jersey number. The jersey number is \"21.\"\n\nThus, the answer is 21.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.21042958433144246
+  },
+  {
+    "question_id": "394",
+    "question": "What color is the pedestrian powered vehicle on the lot? Choices: green, red, yellow, black",
+    "predicted_answer": "green",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image displays a lineup of vehicles, among which there is a bicycle, known as a pedestrian-powered vehicle. The bicycle is clearly distinguishable by its different appearance and function compared to the motorized vehicles (motorcycles) in the image. Observing the color of this bicycle, it is a shade of green. \n\nThus, the answer is green.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.271755718258761
+  },
+  {
+    "question_id": "143",
+    "question": "What is the train riding on? Choices: street, train tracks, clay, grass",
+    "predicted_answer": "train tracks",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The image shows a train on a surface that consists of metal rails fixed to sleepers, which is the typical setup for train tracks. This setup is designed for the specific purpose of supporting trains, unlike streets, clay, or grass, which do not function in the same way. Thus, the answer is 'train tracks'.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999162770437249
+  },
+  {
+    "question_id": "70",
+    "question": "What is the object in the middle called? Choices: counter, island, table, desk",
+    "predicted_answer": "island",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The object in the middle of the room is situated in a kitchen area and is designed for seating, food preparation, and possibly storage, as indicated by its features. It is detached from the walls, making it not a counter or a desk. The presence of bar stools and its central location often aligns it with being referred to as a kitchen \"island,\" which is a common feature for such a setup in modern kitchens.\n\nThus, the answer is island.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.733274039528796
+  }
+]

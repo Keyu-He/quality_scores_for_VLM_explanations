@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "106",
+    "question": "Could you please tell me if this is a good picture of the tv stand? Choices: yes, not sure, no, unanswerable",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "Yes",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0755612936039404,
+    "reason_vf_correct": "<br> - Therefore, I cannot generate any questions based on the rationale, yes.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "not sure, no, unanswerable"
+  },
+  {
+    "question_id": "318",
+    "question": "What kind of soda is this? Choices: cola, root beer, orange soda, grape soda",
+    "predicted_answer": "fanta",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "Fanta is a type of soda that comes in various flavors, such as strawberry and grape. In the image, there are two bottles of Fanta on the counter, one green and one blue. These bottles contain a sweet beverage that can be enjoyed by people of all ages. The presence of these bottles suggests that someone might have recently purchased them or is preparing to consume them.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.7337825454607027,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There are two bottles of Fanta on the counter.<br> - One of the Fanta bottles is green.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "348",
+    "question": "What sent? Choices: cedar wood, lavender oil, dried flowers, incense sticks",
+    "predicted_answer": "sage & sweet grass",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "Sage and sweet grass are two of the ingredients in this scenty bar.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9237079482303012,
+    "reason_vf_correct": "<br> - Sage is one of the ingredients in the scenty bar.<br> - Sweet grass is one of the ingredients in the scenty bar.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "18",
+    "question": "Can you please tell me the 1-800 number on this card? Choices: 1 800 555 1234, 1 888 456 7890, 1 800 123 4567, 1 800 999 0000",
+    "predicted_answer": "1-800-237-4659",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The phone number provided is a customer service line for California Pizza Kitchen, which can be reached at 1-800-237-4659.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.2278922757197432,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The phone number on the card is 1-800-237-4659.",
+    "reason_contr": "1 800 555 1234, 1 888 456 7890, 1 800 123 4567"
+  },
+  {
+    "question_id": "269",
+    "question": "What color is this sweater? Choices: red, blue, gray, green",
+    "predicted_answer": "black",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The sweater in the image is a black shirt, which is hanging on a white table or countertop.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5086299718105588,
+    "reason_vf_correct": "<br> - The sweater in the image is black.<br> - The sweater is hanging on a white table or countertop.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "gray"
+  },
+  {
+    "question_id": "493",
+    "question": "What food is in this can? Choices: soup, beans, tuna, corn",
+    "predicted_answer": "ravioli",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The person's hand is pointing to a can of Ravioli on the counter, which is placed next to a yellow wall with tiled backsplash.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.0612410896408004,
+    "reason_vf_correct": "<br> - The person's hand is pointing to a can on the counter.<br> - The can on the counter is labeled as Ravioli.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "soup, beans, tuna"
+  },
+  {
+    "question_id": "469",
+    "question": "What does this say? Choices: \"watch strap, wristband, wallet case, wrist pouch\"",
+    "predicted_answer": "big jansje's wrist wallet",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The word \"big\" is written in a larger font than the rest of the text, making it stand out as an adjective modifying the noun \"jansje.\"",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9364859646696874,
+    "reason_vf_correct": "<br> - The word \"big\" is written in a larger font than the rest of the text.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "402",
+    "question": "What color is this dog ornament? Choices: brown, white, gray, spotted",
+    "predicted_answer": "black",
+    "prediction_is_correct": 1.0,
+    "generated_rationale": "The dog ornament is black in color.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4099108766181231,
+    "reason_vf_correct": "<br> - The dog ornament is black in color.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "gray"
+  },
+  {
+    "question_id": "258",
+    "question": "Does it look sunny outside? Choices: yes, not sure, no, unanswerable",
+    "predicted_answer": "no",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "No, it does not look sunny outside.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.8242397715707663,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The image shows an overcast or cloudy sky.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "41",
+    "question": "What is this? Choices: mailbox, street lamp, traffic cone, water fountain",
+    "predicted_answer": "water main below",
+    "prediction_is_correct": 0.0,
+    "generated_rationale": "The sign in front of the fire hydrant indicates that there is a water main below, which means that the area may be prone to flooding or have underground infrastructure that could be damaged by heavy rainfall or other weather events. The presence of the green and yellow fire hydrant suggests that it is an essential piece of equipment for emergency services in case of fires or other incidents requiring water access.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999017363762572,
+    "reason_vf_correct": "<br> - There is a sign in front of the fire hydrant indicating a water main below.<br> - The fire hydrant is green and yellow.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

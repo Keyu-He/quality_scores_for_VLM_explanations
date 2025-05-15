@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "357",
+    "question": "What type of drink are they drinking? Choices: soda, beer, red wine, vodka",
+    "predicted_answer": "red wine",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The man and woman in the image are drinking red wine, as indicated by the wine glasses they are holding. Red wine is a type of alcoholic beverage made from fermented grapes and is known for its distinctive color, flavor, and aroma. The glasses they are holding suggest that they are participating in a wine tasting event or simply enjoying a glass of wine together.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999870822717912,
+    "reason_vf_correct": "<br> - The man and woman are holding wine glasses.<br> - The liquid in the wine glasses is red in color.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "80",
+    "question": "What are these cases for? Choices: clothing, instruments, clothing, food",
+    "predicted_answer": "clothing",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The cases in the image are specifically designed for clothing storage. They are typically used by travelers to keep their clothes organized, wrinkle-free, and protected from dirt, dust, and potential damage during transit. The presence of multiple suitcases and backpacks on the table indicates that the people in the image are likely preparing for a trip or have recently returned from one.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.999997576994011,
+    "reason_vf_correct": "<br> - There are backpacks on the table in the image.",
+    "reason_vf_incorrect": "<br> - There are multiple suitcases on the table in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "15",
+    "question": "What is located on the shelves? Choices: books, dvds, games, food",
+    "predicted_answer": "books",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The shelves in the image are filled with books, indicating that the primary purpose of these shelves is to store and display reading materials. While it is possible that there may be other items on the shelves, such as DVDs, games, or food, the presence of numerous books suggests that the primary function of these shelves is for book storage and display.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9984758596668032,
+    "reason_vf_correct": "<br> - The shelves are filled with books.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "107",
+    "question": "What did the man use to get into the air? Choices: kite, blimp, balloon, plane",
+    "predicted_answer": "kite",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The man used a kite to get into the air. A kite is a lightweight, tethered object that catches the wind and generates lift, allowing the person to soar through the air. In the image, the man is riding a kiteboard, which is a type of water sport that combines elements of surfing, windsurfing, and paragliding. The kiteboarder uses a kite to harness the wind's power and propel himself across the water, performing jumps and aerial maneuvers.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999561199347188,
+    "reason_vf_correct": "<br> - The man is using a kite to get into the air.<br> - The man is riding a kiteboard in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "434",
+    "question": "The dishes appear to be sitting on what? Choices: table, ground, couch, stove",
+    "predicted_answer": "table",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The dishes appear to be sitting on a table.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.7302606572653866,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The dishes are sitting on a table.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "486",
+    "question": "What brand of lemon lime beverage is most likely sold here? Choices: fanta, big red, rc, sprite",
+    "predicted_answer": "big red",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The most likely brand of lemon lime beverage sold here is Big Red. This can be inferred from the presence of a Big Red cup in the image. Big Red is a well-known brand of lemon lime soda, and its distinctive red cup is easily recognizable. The other options, such as Fanta, RC, and Sprite, are not as commonly associated with lemon lime beverages.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.1210444860665344,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There is a Big Red cup visible in the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "376",
+    "question": "How many rooms/areas in the house are immediately visible in the photo? Choices: three, four, one, two",
+    "predicted_answer": "one",
+    "prediction_is_correct": 0,
+    "generated_rationale": "In the image, there is only one room visible, which is the living room. The living room contains a couch, chairs, a dining table, and a kitchen area with a refrigerator. There are no other rooms or areas in the house that are immediately visible in the photo.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.6208893597978776,
+    "reason_vf_correct": "<br> - There is only one room visible in the image.<br> - The visible room contains a couch.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "290",
+    "question": "What season of the year is shown here? Choices: early summer, fall-winter, summer, late spring",
+    "predicted_answer": "late spring",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is the presence of a clock tower in the image. Clock towers are typically associated with late spring or early summer, as they are often used as landmarks to mark the end of winter and the beginning of warmer weather. Additionally, the presence of a bicycle in the image suggests that it might be a pleasant day for outdoor activities, further supporting the idea that the image was taken during late spring or early summer.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.363124674566428,
+    "reason_vf_correct": "<br> - There is a clock tower visible in the image.<br> - There is a bicycle present in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "early summer, summer"
+  },
+  {
+    "question_id": "33",
+    "question": "What sport are they mimicking? Choices: baseball, lacrosse, cricket, basketball",
+    "predicted_answer": "baseball",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The people in the image are mimicking the sport of baseball. This can be inferred from the fact that one person is swinging a baseball bat at a ball, which is a common action in baseball. Additionally, the presence of a baseball glove in the scene further supports the idea that they are participating in a baseball-related activity. Baseball is a popular sport that involves hitting a ball with a bat and catching it with a glove, so it is reasonable to assume that this is the sport they are mimicking.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.5389012222630948,
+    "reason_vf_correct": "<br> - One person is swinging a baseball bat at a ball.",
+    "reason_vf_incorrect": "<br> - There is a baseball glove present in the scene.",
+    "reason_contr": "cricket"
+  },
+  {
+    "question_id": "25",
+    "question": "The cat is looking in what direction? Choices: left, right, down, up",
+    "predicted_answer": "right",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The cat is looking in the direction of the faucet, which is located on the right side of the sink. This indicates that the cat is focused on the water flowing from the faucet, possibly because it is thirsty or intrigued by the sound or movement of the water.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.6142883777852571,
+    "reason_vf_correct": "<br> - The cat is looking towards the faucet.",
+    "reason_vf_incorrect": "<br> - The faucet is located on the right side of the sink.",
+    "reason_contr": "left"
+  }
+]

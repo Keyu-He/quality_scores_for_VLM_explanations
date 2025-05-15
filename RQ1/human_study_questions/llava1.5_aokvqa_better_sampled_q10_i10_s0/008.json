@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "145",
+    "question": "What item is on the bottom shelf near the TV? Choices: cars, pictures, swords, speakers",
+    "predicted_answer": "cars",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The item on the bottom shelf near the TV is cars. The reasoning behind this answer is that there is a collection of toy cars displayed on the shelf, which is a common decorative item in a living room setting. The presence of these cars suggests that the room's occupants might have an interest in automobiles or simply enjoy collecting toy cars as a hobby.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.999796302577912,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - There are toy cars displayed on the bottom shelf near the TV.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "169",
+    "question": "Which body part of the cow could you look at to find out which identity and/or owner the cow has? Choices: ear, foot, rump, knee",
+    "predicted_answer": "ear",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The ear of a cow can provide information about its identity and/or owner. Each cow has a unique set of ear tags, which are used to identify individual animals within a herd. These tags typically have numbers, letters, or a combination of both, and are used by farmers and ranchers to keep track of their livestock. By looking at the ear of the cow in the image, one can potentially identify its owner or the farm it belongs to.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9629844117080524,
+    "reason_vf_correct": "<br> - The cow has ear tags.",
+    "reason_vf_incorrect": "<br> - There are numbers or letters on the cow's ear tags.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "236",
+    "question": "What is the relationship of the people at the back to the man wearing an orange hat? Choices: students, family members, friends, customers",
+    "predicted_answer": "family members",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the people at the back of the horse-drawn carriage are likely family members of the man wearing an orange hat. This can be inferred from the fact that they are all riding together in the carriage, which is a common activity for family members to enjoy together. Additionally, the man wearing the orange hat appears to be the driver of the carriage, suggesting that he is responsible for guiding the horse and ensuring the safety and comfort of the passengers. This further supports the idea that the people at the back are family members of the man wearing the orange hat.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.4144773365865588,
+    "reason_vf_correct": "<br> - The man wearing an orange hat is the driver of the horse-drawn carriage.<br> - There are people at the back of the horse-drawn carriage.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "friends"
+  },
+  {
+    "question_id": "32",
+    "question": "What does it say on the boys hat? Choices: happy birthday, huggy buggy, herpy derpy, huggy harry",
+    "predicted_answer": "happy birthday",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the boy is wearing a hat that says \"Happy Birthday\" on it. This indicates that the boy is celebrating his birthday, and the hat serves as a fun and festive accessory to mark the occasion. The other options provided, such as \"Huggy Buggy,\" \"Herpy Derpy,\" and \"Huggy Harry,\" are not relevant to the context of the image, which is focused on the boy's birthday celebration.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9736136484957382,
+    "reason_vf_correct": "<br> - The boy's hat has the words \"Happy Birthday\" written on it.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "496",
+    "question": "This man is likely taking a photo in what type of location? Choices: vestibule, bedroom, bathroom, office",
+    "predicted_answer": "vestibule",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The man is likely taking a photo in a vestibule, as he is standing in front of a metal door, which is a common feature in vestibules. Vestibules are typically found in public buildings, such as offices, schools, or hospitals, and they serve as a transitional space between the interior and exterior of the building. The presence of a metal door in the image suggests that the man is in a location where such doors are commonly used, further supporting the idea that he is in a vestibule.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.985041306022916,
+    "reason_vf_correct": "<br> - The man is standing in front of a metal door.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "89",
+    "question": "What will be built here one day? Choices: building, boat, car, house",
+    "predicted_answer": "building",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the image depicts a construction site where a building is being built. The presence of construction equipment, such as cranes and trucks, suggests that the site is actively engaged in the process of constructing a new building. It is highly unlikely that a boat, car, or house will be built on this site, given the context of the image.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9389972316536472,
+    "reason_vf_correct": "<br> - There is construction equipment, such as cranes, visible in the image.<br> - There are trucks present at the construction site in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "53",
+    "question": "This part of the house where is the girl is is called? Choices: dinning room, kitchen, sitting room, bedroom",
+    "predicted_answer": "bedroom",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the girl is sitting on a bed, which is a typical piece of furniture found in a bedroom. The other choices, such as dining room, kitchen, and sitting room, are not typically associated with the location where the girl is sitting. Additionally, the presence of a bed in the image further supports the idea that the girl is in a bedroom.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999610857617176,
+    "reason_vf_correct": "<br> - The girl is sitting on a bed.<br> - There is a bed present in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "259",
+    "question": "What animals are in the front of the photo? Choices: horse, cat, dog, elephant",
+    "predicted_answer": "dog",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The animals in the front of the photo are dogs. There are a total of four dogs in the scene, with two of them standing close to each other on the right side of the image, and the other two dogs on the left side of the image. The presence of the dogs in the foreground suggests that they are the main focus of the photo, and the other elements in the image, such as the horse and the people, are secondary to the dogs.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.999999014100578,
+    "reason_vf_correct": "<br> - There are four dogs in the scene.<br> - Two dogs are standing close to each other on the right side of the image.",
+    "reason_vf_incorrect": "<br> - The other two dogs are on the left side of the image.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "310",
+    "question": "Which fruit can hurt your eyes if you peel it holding your face too close to it? Choices: banana, pear, orange, mango",
+    "predicted_answer": "banana",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The fruit that can hurt your eyes if you peel it holding your face too close to it is the banana. This is because the peel of a banana contains a chemical called tropane alkaloid, which can cause irritation and discomfort when it comes into contact with the eyes. The other fruits, such as pear, orange, and mango, do not contain this chemical and are not likely to cause any harm when peeled and held close to the eyes.",
+    "visual_fidelity": 0.0,
+    "contrastiveness": 0.0896489531969098,
+    "reason_vf_correct": "",
+    "reason_vf_incorrect": "<br> - The rationale mentions that the peel of a banana contains a chemical called tropane alkaloid.<br> - The rationale states that tropane alkaloid can cause irritation and discomfort when it comes into contact with the eyes.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "138",
+    "question": "What kind of room is on the left of the yellow train? Choices: nursery room, bathroom, changing room, waiting room",
+    "predicted_answer": "waiting room",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The waiting room is located on the left side of the yellow train. This can be inferred from the presence of people standing near the train, which suggests that they are waiting to board or disembark the train. The waiting room serves as a designated area for passengers to gather and wait for the train to come to a complete stop before boarding or disembarking.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9931042707307068,
+    "reason_vf_correct": "<br> - There is a yellow train in the image.<br> - There are people standing near the yellow train.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "378",
+    "question": "Why is the person's vest yellow? Choices: dress code, camouflage, visibility, fashion",
+    "predicted_answer": "visibility",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The person's vest is yellow to make them more visible to others, especially in low light conditions or crowded areas. Wearing bright colors, such as yellow, increases the chances of being seen by drivers, pedestrians, and other road users, reducing the risk of accidents and ensuring the safety of the person wearing the vest.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999955841496458,
+    "reason_vf_correct": "<br> - The person's vest is yellow.<br> - The vest is being worn in an area that could be crowded or have low light conditions.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "443",
+    "question": "What is the gray colored residue seen on the outer part of the middle of the board? Choices: wax, dust, paint, mud",
+    "predicted_answer": "wax",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The gray colored residue seen on the outer part of the middle of the surfboard is wax. Wax is applied to the surface of the surfboard to provide grip and prevent the surfer's feet from slipping off the board while riding a wave. Over time, the wax can wear off and leave a residue on the surface of the surfboard.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9907930205027268,
+    "reason_vf_correct": "<br> - There is a gray colored residue on the outer part of the middle of the surfboard.<br> - The residue is located on the surface of the surfboard.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "484",
+    "question": "How is the device the boy is holding powered? Choices: solar, battery, gas, electricity",
+    "predicted_answer": "electricity",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The device the boy is holding is powered by electricity. This can be inferred from the fact that the boy is playing a video game, which typically requires electricity to function. Video game consoles, such as the Nintendo Wii, are connected to an electrical outlet to receive power. Additionally, the boy is holding a Wii remote, which is an electronic device that requires electricity to function. Therefore, the answer to the question is electricity.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9995382598377064,
+    "reason_vf_correct": "<br> - The boy is holding a Wii remote.<br> - The boy is playing a video game.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "274",
+    "question": "What is the man on TV doing? Choices: playing basketball, singing, surfing, boxing",
+    "predicted_answer": "singing",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The man on TV is singing into a microphone. This is evident from the fact that he is holding a microphone and appears to be performing a song. The other options, such as playing basketball, surfing, or boxing, are not relevant to the scene depicted in the image.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9965108623382154,
+    "reason_vf_correct": "<br> - The man on TV is holding a microphone.<br> - The man on TV appears to be performing a song.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "438",
+    "question": "What are the zebra's stripes for? Choices: sight, fashion, camouflage, thermoregulation",
+    "predicted_answer": "thermoregulation",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The zebra's stripes serve as a form of thermoregulation. The black and white stripes create an optical illusion known as \"motion dazzle,\" which makes it difficult for predators to single out an individual zebra when they are in a group. This helps protect the zebra from attacks by predators such as lions and hyenas. The stripes also help in regulating the zebra's body temperature, as the black stripes absorb more sunlight and heat than the white stripes, creating small-scale air currents that help dissipate heat from the zebra's body.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.2599537211828131,
+    "reason_vf_correct": "<br> - The zebra has black and white stripes.<br> - The stripes on the zebra are creating an optical illusion.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "camouflage"
+  },
+  {
+    "question_id": "68",
+    "question": "Why are the men wearing yellow vests? Choices: visibility, fashion, warmth, costume",
+    "predicted_answer": "visibility",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The men wearing yellow vests are likely wearing them for increased visibility. Wearing brightly colored clothing, such as yellow vests, can make individuals more noticeable to others, especially in low-light conditions or crowded environments. This increased visibility can help prevent accidents and ensure the safety of both the individuals wearing the vests and those around them.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.999985463294168,
+    "reason_vf_correct": "<br> - The men are wearing yellow vests.<br> - The yellow vests are brightly colored.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "160",
+    "question": "Where are the buses with blue trim probably assembled? Choices: stadium, lot, lane, terminal",
+    "predicted_answer": "stadium",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The buses with blue trim are most likely assembled at a stadium. This can be inferred from the image, which shows a large number of buses parked next to each other in a parking lot. Stadiums often host large events and gatherings, requiring a significant number of buses to transport attendees to and from the venue. The fact that these buses have blue trim suggests that they may belong to a specific transportation company or organization associated with the stadium, further supporting the idea that they are assembled at the stadium.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.5241020107529235,
+    "reason_vf_correct": "<br> - There are a large number of buses parked next to each other in a parking lot.<br> - The buses have blue trim.",
+    "reason_vf_incorrect": "<br> - The parking lot is located near a stadium.",
+    "reason_contr": "lot"
+  },
+  {
+    "question_id": "351",
+    "question": "What type of structure is being used? Choices: cement, natural, wood, plastic",
+    "predicted_answer": "cement",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The structure being used in the image is a cement wall. The skateboarder is performing a trick by jumping over the cement wall, which demonstrates the skateboarder's skill and ability to maneuver the skateboard. The use of a cement wall adds an element of challenge and difficulty to the trick, making it more impressive and showcasing the skateboarder's talent.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3644986284103884,
+    "reason_vf_correct": "<br> - The structure in the image is a cement wall.<br> - The skateboarder is performing a trick by jumping over the cement wall.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "plastic"
+  },
+  {
+    "question_id": "270",
+    "question": "What time in approximately 31 minutes? Choices: 110, midnight, 1000, midday",
+    "predicted_answer": "110",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that 110 is approximately 31 minutes before midnight. 1000 is midday, and 1000 is not 31 minutes before midnight. 110 is 31 minutes before midnight, so the answer is 110.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.244587102978531,
+    "reason_vf_correct": "<br> - 110 is approximately 31 minutes before midnight.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "midnight"
+  },
+  {
+    "question_id": "156",
+    "question": "What is the dark colored car to the far left in the middle doing? Choices: turning left, turning right, parking, reversing",
+    "predicted_answer": "reversing",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The dark colored car to the far left in the middle is reversing. This can be inferred from the fact that the car's headlights are on, indicating that it is moving in the opposite direction. Additionally, the car's position in the image suggests that it is in the process of reversing, as it is closer to the viewer than the other vehicles in the scene.",
+    "visual_fidelity": 0.6666666666666666,
+    "contrastiveness": 0.4797806824888913,
+    "reason_vf_correct": "<br> - The headlights of the dark colored car are on.<br> - The dark colored car is positioned closer to the viewer than the other vehicles in the scene.",
+    "reason_vf_incorrect": "<br> - There is a dark colored car to the far left in the middle of the image.",
+    "reason_contr": "turning left"
+  }
+]

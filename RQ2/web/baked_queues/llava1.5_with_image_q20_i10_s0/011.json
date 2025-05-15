@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "52",
+    "question": "Is the man on the left platform going to board the train? Choices: yes, absolutely no, probably yes, probably no",
+    "predicted_answer": "yes",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The man on the left platform is most likely going to board the train, as he is standing close to the train tracks and appears to be waiting for the train to come to a complete stop. His proximity to the train and the fact that he is on the platform suggest that he intends to board the train once it has come to a halt.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.4999911795210109,
+    "reason_vf_correct": "<br> - The man is on the platform.",
+    "reason_vf_incorrect": "<br> - The man is standing close to the train tracks.",
+    "reason_contr": "probably yes"
+  },
+  {
+    "question_id": "152",
+    "question": "How many bake pans were utilized? Choices: one, none, four, three",
+    "predicted_answer": "one",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that only one bake pan was utilized to bake the cake. The image shows a single slice of cake on a white plate, which indicates that the cake was baked in a single bake pan. There are no other bake pans visible in the image, which supports the conclusion that only one bake pan was used for baking the cake.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9992627929978728,
+    "reason_vf_correct": "<br> - There is only one slice of cake visible on a white plate in the image.<br> - There are no other bake pans visible in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "406",
+    "question": "What is the woman's job called? Choices: jumper, jockey, rider, equestrianism",
+    "predicted_answer": "jockey",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The woman's job is called jockey. In the image, the woman is riding a horse and jumping over an obstacle, which is a common activity in equestrian sports such as show jumping or eventing. Jockeys are skilled riders who specialize in horse racing, show jumping, dressage, and other equestrian disciplines. They are responsible for guiding the horse, maintaining balance, and ensuring the horse's safety and performance during competitions or training sessions.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.500386114072027,
+    "reason_vf_correct": "<br> - The woman is riding a horse in the image.<br> - The woman is jumping over an obstacle with the horse in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "rider"
+  },
+  {
+    "question_id": "114",
+    "question": "What brand is the red truck? Choices: dodge, chevy, ford, toyota",
+    "predicted_answer": "dodge",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The reasoning behind my answer is that the red truck is a Dodge Ram, which is a type of pickup truck. Dodge Ram is a well-known brand of pickup trucks, and the red color of the truck in the image is consistent with the typical color of a Dodge Ram pickup truck. The other options, Chevy, Ford, and Toyota, are also well-known brands of pickup trucks, but they do not match the image's description of a red Dodge Ram pickup truck.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9994209258920832,
+    "reason_vf_correct": "<br> - The truck in the image is red.",
+    "reason_vf_incorrect": "<br> - The truck in the image is a Dodge Ram pickup truck.",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "88",
+    "question": "What type of audience is the man likely speaking to? Choices: protest, single person, political rally, meeting",
+    "predicted_answer": "political rally",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The man in the image is likely speaking to an audience at a political rally, as he is wearing a suit and tie, which is typical attire for such events. Additionally, he is standing in front of a banner, which suggests that he is addressing a group of people who have gathered for a specific purpose, such as a political rally. The fact that he is gesturing with his hands further supports the idea that he is engaged in a public speaking event, which is common at political rallies.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.6420463307337595,
+    "reason_vf_correct": "<br> - The man is wearing a suit and tie.<br> - The man is standing in front of a banner.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "118",
+    "question": "What are the zebras doing? Choices: grazing, sleeping, drinking, walking",
+    "predicted_answer": "grazing",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The zebras are grazing, which means they are eating the grass in the field. In the image, there are three zebras standing next to each other, and they are all focused on eating the grass. This is a natural behavior for zebras, as they are herbivores and rely on grass as their primary food source. Grazing is an essential part of their daily routine and helps them maintain their energy levels and overall health.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999856590661094,
+    "reason_vf_correct": "<br> - There are three zebras standing next to each other in the image.<br> - The zebras are focused on eating the grass in the field.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "221",
+    "question": "What are the people tying? Choices: score, shoes, kite, bowtie",
+    "predicted_answer": "kite",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The people in the image are tying a kite, as indicated by the presence of a kite in the scene. The woman is holding the kite, and the man is kneeling on the ground, tying the string to the kite. This suggests that they are preparing to fly the kite, which is a common outdoor activity involving tying the kite to a string and releasing it into the air to catch the wind and stay aloft.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9724650328053392,
+    "reason_vf_correct": "<br> - There is a kite present in the scene.<br> - The woman is holding the kite.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "482",
+    "question": "What type of outer clothing does the person who last sat here like to wear? Choices: hats, bras, belts, cowboy boots",
+    "predicted_answer": "hats",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The person who last sat on this bench likely enjoys wearing hats as outer clothing. This can be inferred from the presence of a hat on the bench, which suggests that the person who left it there might have been wearing a hat while sitting on the bench. Additionally, the hat's placement on the bench indicates that it was intentionally left there, which further supports the idea that the person who last sat here likes to wear hats.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999598196321828,
+    "reason_vf_correct": "<br> - There is a hat placed on the bench.",
+    "reason_vf_incorrect": "",
+    "reason_contr": ""
+  },
+  {
+    "question_id": "278",
+    "question": "What are these types of candles called? Choices: beeswax, tea lights, birthday, rush lights",
+    "predicted_answer": "tea lights",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The candles in the image are tea lights. Tea lights are small, wax-based candles that are often used for decorative purposes, such as creating a warm and cozy ambiance in a room. They typically burn for a longer time than regular candles, making them a popular choice for various occasions, including weddings, anniversaries, and birthdays. The reasoning behind my answer is that the candles in the image are small, wax-based, and are being used for decorative purposes, which are all characteristics of tea lights.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.5757484977437145,
+    "reason_vf_correct": "<br> - The candles in the image are small and wax-based.<br> - The candles are being used for decorative purposes in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "rush lights"
+  },
+  {
+    "question_id": "379",
+    "question": "What number is closest to the number of people that are pushing the bus? Choices: six, five, nine, two",
+    "predicted_answer": "five",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The number closest to the number of people pushing the bus is five. The reasoning behind this answer is that there are nine people in the image, and five of them are actively pushing the bus. The other four people are not directly involved in pushing the bus, so they do not count towards the number of people pushing the bus. Therefore, five is the closest number to the actual number of people involved in pushing the bus.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.3508633106584581,
+    "reason_vf_correct": "<br> - There are nine people in the image.<br> - Five people are actively pushing the bus in the image.",
+    "reason_vf_incorrect": "",
+    "reason_contr": "six"
+  }
+]

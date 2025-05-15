@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "228",
+    "question": "What industry is this man likely working in? Choices: travel, construction, medical, restaurant",
+    "predicted_answer": "Restaurant",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The man in the image is likely working in the restaurant industry, as he is wearing a maroon shirt, which is a common color for uniforms in the food service industry. Additionally, he is standing in a kitchen, which suggests that he is involved in food preparation or cooking. The presence of a microwave in the scene also supports the idea that he is working in a restaurant, as microwaves are commonly used in kitchens for heating and defrosting food items.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999996725946949
+  },
+  {
+    "question_id": "163",
+    "question": "What is the small house behind the cattle made up of? Choices: plastic, reef, stone, thatch",
+    "predicted_answer": "Stone",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The small house behind the cattle is made up of stone. This can be inferred from the fact that the house is described as a \"stone house\" in the image description. Stone is a durable and long-lasting building material that has been used for centuries to construct homes, barns, and other structures. The use of stone in the construction of the house suggests that it is a sturdy and well-built structure that can withstand the test of time.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9987334179955826
+  },
+  {
+    "question_id": "417",
+    "question": "What level or league of baseball are the players most likely playing in? Choices: minor, major, college, junior",
+    "predicted_answer": "Minor",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The players in the image are most likely playing in a minor league baseball game. This can be inferred from the fact that they are wearing uniforms and playing on a baseball field, which are typical features of a minor league game. Additionally, the presence of a catcher and an umpire further supports the notion that this is a minor league game, as these positions are typically found in lower-level baseball leagues.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.6145987228408638
+  },
+  {
+    "question_id": "332",
+    "question": "What is the vehicle in front of the cars? Choices: bus, motorcycle, train, bicycle",
+    "predicted_answer": "Bicycle",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The vehicle in front of the cars is a bicycle. The reasoning behind this answer is that the image shows a person riding a bicycle on a busy city street. Bicycles are typically smaller and more maneuverable than cars, allowing them to navigate through traffic more easily. In this case, the bicycle is positioned in front of the cars, indicating that the rider is actively navigating through the traffic.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999365471833076
+  },
+  {
+    "question_id": "266",
+    "question": "Which height he jumps? Choices: 11 inch, 16 inch, 17inch, 10 inch",
+    "predicted_answer": "17 inch",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The skateboarder in the image is jumping 17 inches in the air. The reasoning behind this answer is based on the fact that the skateboarder's feet are off the ground during the jump, and the height of the jump can be determined by measuring the distance between the ground and the skateboarder's feet at the peak of the jump. In this case, the skateboarder's feet are 17 inches above the ground, indicating a 17-inch jump.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.5004716419633748
+  },
+  {
+    "question_id": "41",
+    "question": "What room of the house is this man in? Choices: sitting room, dinning room, bathroom, bedroom",
+    "predicted_answer": "Bathroom",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The man is in the bathroom, as evidenced by the presence of a sink, mirror, and various personal care items such as toothbrushes and bottles. These items are typically found in a bathroom setting. Additionally, the man is taking a picture of himself in the mirror, which further supports the notion that he is in a bathroom.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9995329231185976
+  },
+  {
+    "question_id": "54",
+    "question": "They are likely having pizza at what kind of event? Choices: family, gaming, academic, social",
+    "predicted_answer": "Social",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the image shows a large group of people gathered around a table, eating pizza together. This suggests that they are attending a social event, such as a party or a casual get-together, where people come together to enjoy food and each other's company. Pizza is a popular choice for such events because it is easy to share and can cater to a wide range of tastes and dietary preferences. The presence of multiple chairs, dining tables, and pizza boxes further supports the idea that this is a social gathering rather than a family, academic, or gaming event.",
+    "visual_fidelity": 0.3333333333333333,
+    "contrastiveness": 0.999967884113591
+  },
+  {
+    "question_id": "284",
+    "question": "How would you cut the vegetables? Choices: fork, knife, hands, peeler",
+    "predicted_answer": "Knife",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The most appropriate way to cut the vegetables on the plate would be using a knife. A knife is a versatile and efficient tool for slicing, dicing, and chopping various types of vegetables, such as carrots and green beans. It allows for precise control over the size and shape of the cuts, making it easier to prepare the vegetables for cooking or serving. Additionally, using a knife for cutting vegetables is safer and more hygienic than using hands or a fork, as it minimizes the risk of cross-contamination and potential injuries.",
+    "visual_fidelity": 0.5,
+    "contrastiveness": 0.9998855583522815
+  },
+  {
+    "question_id": "248",
+    "question": "This person in this picture is likely to be a? Choices: woman, little boy, man, little girl",
+    "predicted_answer": "Woman",
+    "prediction_is_correct": 0,
+    "generated_rationale": "The reasoning behind my answer is that the person in the picture is a woman, as indicated by her attire and the fact that she is lying on a bed. The image shows a woman wearing a black dress, stockings, and high heels, which are typically associated with women's clothing. Additionally, the presence of a bed and the overall context of the image suggest that the person is a woman. The other options, such as a little boy, little girl, or man, do not align with the visual information provided in the image.",
+    "visual_fidelity": 0.75,
+    "contrastiveness": 0.999136471718521
+  },
+  {
+    "question_id": "225",
+    "question": "What type of sign is visible? Choices: directional, traffic, price, brand",
+    "predicted_answer": "Traffic",
+    "prediction_is_correct": 1,
+    "generated_rationale": "The sign visible in the image is a stop sign, which is a traffic sign. Stop signs are used to indicate that vehicles must come to a complete stop before proceeding, ensuring the safety of drivers, passengers, and pedestrians at intersections or other potentially hazardous locations. The reasoning behind my answer is that stop signs are specifically designed to regulate traffic flow and maintain safety on the roads, making them a traffic sign rather than a directional, price, or brand sign.",
+    "visual_fidelity": 1.0,
+    "contrastiveness": 0.9999679685717533
+  }
+]
